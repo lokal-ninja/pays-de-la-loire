@@ -1,0 +1,19 @@
+baseURL = "https://fr.shoogle.net/pays-de-la-loire"
+languageCode = "fr"
+title = "Pays de la Loire"
+theme = "ln-base"
+
+disableKinds = ["RSS", "robotsTXT"]
+enableGitInfo = true
+
+[outputs]
+  home = ["HTML", "JSON"]
+  section = ["HTML", "JSON"]
+
+[params]
+  site = "Shoogle"
+  org = "lokal-ninja"
+  repo = "pays-de-la-loire"
+
+[taxonomies]
+  shop = "shops"
