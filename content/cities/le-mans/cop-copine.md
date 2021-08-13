@@ -1,5 +1,5 @@
 ---
-title: "Cop.copine"
+title: "Cop Copine"
 url: /le-mans/cop-copine/
 shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
-title: "Étam lingerie"
+title: "Etam lingerie"
 url: /le-mans/etam-lingerie/
 shop: vêtements
 ---
