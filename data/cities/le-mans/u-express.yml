@@ -1,11 +1,11 @@
-id: 65558287
-type: way
-latitude: 47.997739800000005
-longitude: 0.2134432
-postcode: ""
-city: le mans
-street: "Avenue Léon Bollée"
-housenumber: 154
+id: 9069453702
+type: node
+latitude: 48.0038982
+longitude: 0.200378
+postcode: "72000"
+city: Le Mans
+street: "Avenue du Général de Gaulle"
+housenumber: 
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30; Su 09:00-13:00"
+opening_hours: "Mo-Sa 08:30-21:00"
 website: ""

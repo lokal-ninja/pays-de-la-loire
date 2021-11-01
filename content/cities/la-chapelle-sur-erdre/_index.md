@@ -1,5 +1,5 @@
 ---
-title: La Chapelle sur Erdre
+title: La Chapelle Sur Erdre
 url: /la-chapelle-sur-erdre/
 latitude: 
 longitude: 
