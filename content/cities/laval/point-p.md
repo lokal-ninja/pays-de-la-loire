@@ -1,5 +1,5 @@
 ---
-title: "Point.P"
+title: "Point P"
 url: /laval/point-p/
 shop: à faire soi-même
 ---
