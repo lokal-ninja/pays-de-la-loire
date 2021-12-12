@@ -1,5 +1,5 @@
 ---
-title: "Tabac  Jean Vilar"
+title: "Tabac Jean Vilar"
 url: /angers/tabac-jean-vilar/
 shop: tabac
 ---
