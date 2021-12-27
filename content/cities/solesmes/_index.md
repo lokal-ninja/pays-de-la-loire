@@ -1,6 +1,6 @@
 ---
 title: Solesmes
 url: /solesmes/
-latitude: 47.8514506
-longitude: -0.3020139
+latitude: 47.852
+longitude: -0.303
 ---

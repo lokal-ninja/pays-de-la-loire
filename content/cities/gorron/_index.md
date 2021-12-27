@@ -1,6 +1,6 @@
 ---
 title: Gorron
 url: /gorron/
-latitude: 48.4123473
-longitude: -0.8129799000000001
+latitude: 48.415
+longitude: -0.826
 ---

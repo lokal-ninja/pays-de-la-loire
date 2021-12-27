@@ -1,6 +1,6 @@
 ---
 title: Montaillé
 url: /montaille/
-latitude: 48.0870377
-longitude: 0.1056683
+latitude: 47.93
+longitude: 0.716
 ---

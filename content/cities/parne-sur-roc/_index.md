@@ -1,6 +1,6 @@
 ---
 title: Parné-sur-Roc
 url: /parne-sur-roc/
-latitude: 48.007249300000005
-longitude: -0.6692617000000001
+latitude: 48.006
+longitude: -0.669
 ---

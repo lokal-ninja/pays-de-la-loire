@@ -1,6 +1,6 @@
 ---
 title: Gétigné
 url: /getigne/
-latitude: 47.075766300000005
-longitude: -1.2482386
+latitude: 47.075
+longitude: -1.249
 ---

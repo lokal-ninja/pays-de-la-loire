@@ -1,6 +1,6 @@
 ---
 title: Ernée
 url: /ernee/
-latitude: 48.2967935
-longitude: -0.9351069000000001
+latitude: 48.297
+longitude: -0.936
 ---

@@ -1,6 +1,6 @@
 ---
 title: Givrand
 url: /givrand/
-latitude: 46.6722222
-longitude: -1.8836111000000002
+latitude: 46.671
+longitude: -1.887
 ---

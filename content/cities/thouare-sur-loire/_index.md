@@ -1,6 +1,6 @@
 ---
 title: Thouaré-sur-Loire
 url: /thouare-sur-loire/
-latitude: 47.2668824
-longitude: -1.4410916
+latitude: 47.267
+longitude: -1.441
 ---

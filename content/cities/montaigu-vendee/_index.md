@@ -1,6 +1,6 @@
 ---
 title: Montaigu-Vendée
 url: /montaigu-vendee/
-latitude: 
-longitude: 
+latitude: 46.975
+longitude: -1.334
 ---

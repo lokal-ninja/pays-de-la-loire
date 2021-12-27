@@ -1,6 +1,6 @@
 ---
 title: Maisdon sur Sèvre
 url: /maisdon-sur-sevre/
-latitude: 
-longitude: 
+latitude: 47.114
+longitude: -1.397
 ---

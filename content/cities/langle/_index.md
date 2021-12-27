@@ -1,6 +1,6 @@
 ---
 title: L'Angle
 url: /langle/
-latitude: 46.980136
-longitude: -1.9380232000000002
+latitude: 46.665
+longitude: -1.105
 ---

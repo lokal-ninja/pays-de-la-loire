@@ -1,6 +1,6 @@
 ---
 title: Dollon
 url: /dollon/
-latitude: 48.0391825
-longitude: 0.5851169
+latitude: 48.039
+longitude: 0.587
 ---

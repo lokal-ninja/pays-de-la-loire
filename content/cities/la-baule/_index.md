@@ -1,6 +1,6 @@
 ---
 title: La Baule
 url: /la-baule/
-latitude: 
-longitude: 
+latitude: 47.287
+longitude: -2.392
 ---

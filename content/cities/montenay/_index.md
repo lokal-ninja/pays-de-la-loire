@@ -1,6 +1,6 @@
 ---
 title: Montenay
 url: /montenay/
-latitude: 48.287981
-longitude: -0.8941123000000001
+latitude: 48.287
+longitude: -0.894
 ---

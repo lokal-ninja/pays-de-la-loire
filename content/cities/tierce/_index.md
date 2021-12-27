@@ -1,6 +1,6 @@
 ---
 title: Tiercé
 url: /tierce/
-latitude: 47.328162600000006
-longitude: -0.4834815
+latitude: 47.616
+longitude: -0.468
 ---

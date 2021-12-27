@@ -1,6 +1,6 @@
 ---
 title: Vaiges
 url: /vaiges/
-latitude: 48.041107000000004
-longitude: -0.47707550000000004
+latitude: 48.04
+longitude: -0.477
 ---

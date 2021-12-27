@@ -1,6 +1,6 @@
 ---
 title: Fontaine-Daniel
 url: /fontaine-daniel/
-latitude: 48.2783322
-longitude: -0.6739048000000001
+latitude: 48.278
+longitude: -0.675
 ---

@@ -1,6 +1,6 @@
 ---
 title: Montsoreau
 url: /montsoreau/
-latitude: 47.2160026
-longitude: 0.057203500000000004
+latitude: 47.216
+longitude: 0.062
 ---

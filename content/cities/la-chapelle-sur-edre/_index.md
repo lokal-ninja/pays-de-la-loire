@@ -1,6 +1,6 @@
 ---
 title: La Chapelle sur Edre
 url: /la-chapelle-sur-edre/
-latitude: 
-longitude: 
+latitude: 47.277
+longitude: -1.546
 ---

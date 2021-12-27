@@ -1,6 +1,6 @@
 ---
 title: Mazé-Milon
 url: /maze-milon/
-latitude: 47.4554296
-longitude: -0.2724533
+latitude: 47.456
+longitude: -0.273
 ---

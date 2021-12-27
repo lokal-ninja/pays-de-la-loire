@@ -1,6 +1,6 @@
 ---
 title: Bonchamp-lès-Laval
 url: /bonchamp-les-laval/
-latitude: 48.074699900000006
-longitude: -0.6992069000000001
+latitude: 48.075
+longitude: -0.699
 ---

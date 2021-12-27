@@ -1,6 +1,6 @@
 ---
 title: La Chapelle-Achard
 url: /la-chapelle-achard/
-latitude: 46.5902778
-longitude: -1.6458333
+latitude: 46.591
+longitude: -1.648
 ---

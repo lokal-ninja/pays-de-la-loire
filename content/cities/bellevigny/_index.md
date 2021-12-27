@@ -1,6 +1,6 @@
 ---
 title: BELLEVIGNY
 url: /bellevigny/
-latitude: 
-longitude: 
+latitude: 46.777
+longitude: -1.428
 ---

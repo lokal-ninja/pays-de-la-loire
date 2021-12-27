@@ -1,6 +1,6 @@
 ---
 title: Blain
 url: /blain/
-latitude: 46.979310600000005
-longitude: -2.2398577
+latitude: 47.475
+longitude: -1.755
 ---

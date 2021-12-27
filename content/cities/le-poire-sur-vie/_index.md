@@ -1,6 +1,6 @@
 ---
 title: Le Poiré-sur-Vie
 url: /le-poire-sur-vie/
-latitude: 46.7682395
-longitude: -1.5094862
+latitude: 46.77
+longitude: -1.51
 ---

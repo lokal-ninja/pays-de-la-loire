@@ -1,6 +1,6 @@
 ---
 title: Benet
 url: /benet/
-latitude: 46.3683333
-longitude: -0.5961111
+latitude: 46.37
+longitude: -0.594
 ---

@@ -1,6 +1,6 @@
 ---
 title: 44570 Trignac 
 url: /44570-trignac/
-latitude: 
-longitude: 
+latitude: 47.3
+longitude: -2.213
 ---

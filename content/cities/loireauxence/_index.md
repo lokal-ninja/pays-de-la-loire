@@ -1,6 +1,6 @@
 ---
 title: Loireauxence
 url: /loireauxence/
-latitude: 
-longitude: 
+latitude: 47.388
+longitude: -1.024
 ---

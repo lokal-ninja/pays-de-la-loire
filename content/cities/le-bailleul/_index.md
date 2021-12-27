@@ -1,6 +1,6 @@
 ---
 title: Le Bailleul
 url: /le-bailleul/
-latitude: 48.417879500000005
-longitude: -0.8342929
+latitude: 47.768
+longitude: -0.161
 ---

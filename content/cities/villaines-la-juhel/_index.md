@@ -1,6 +1,6 @@
 ---
 title: Villaines la Juhel
 url: /villaines-la-juhel/
-latitude: 
-longitude: 
+latitude: 48.34
+longitude: -0.275
 ---

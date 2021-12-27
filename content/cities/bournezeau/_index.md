@@ -1,6 +1,6 @@
 ---
 title: Bournezeau
 url: /bournezeau/
-latitude: 46.6359566
-longitude: -1.1706004
+latitude: 46.637
+longitude: -1.161
 ---

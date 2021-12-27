@@ -1,6 +1,6 @@
 ---
 title: Héric
 url: /heric/
-latitude: 47.4144202
-longitude: -1.6523209
+latitude: 47.414
+longitude: -1.652
 ---

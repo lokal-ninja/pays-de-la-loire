@@ -1,6 +1,6 @@
 ---
 title: St Hilaire De Riez
 url: /st-hilaire-de-riez/
-latitude: 
-longitude: 
+latitude: 46.706
+longitude: -1.942
 ---

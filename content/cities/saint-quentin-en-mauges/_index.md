@@ -1,6 +1,6 @@
 ---
 title: Saint-Quentin-en-Mauges
 url: /saint-quentin-en-mauges/
-latitude: 47.293987900000005
-longitude: -0.9088365
+latitude: 47.294
+longitude: -0.906
 ---

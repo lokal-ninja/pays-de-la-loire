@@ -1,6 +1,6 @@
 ---
 title: Parcé-sur-Sarthe
 url: /parce-sur-sarthe/
-latitude: 
-longitude: 
+latitude: 47.846
+longitude: -0.2
 ---

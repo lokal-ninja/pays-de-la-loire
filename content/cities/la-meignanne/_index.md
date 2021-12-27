@@ -1,6 +1,6 @@
 ---
 title: La Meignanne
 url: /la-meignanne/
-latitude: 47.5192714
-longitude: -0.6679212
+latitude: 47.52
+longitude: -0.667
 ---

@@ -1,6 +1,6 @@
 ---
 title: Barbâtre
 url: /barbatre/
-latitude: 46.9447222
-longitude: -2.1794444
+latitude: 46.94
+longitude: -2.176
 ---

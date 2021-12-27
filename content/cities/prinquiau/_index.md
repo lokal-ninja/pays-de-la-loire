@@ -1,6 +1,6 @@
 ---
 title: Prinquiau
 url: /prinquiau/
-latitude: 47.3630542
-longitude: -2.0107055000000003
+latitude: 47.363
+longitude: -2.011
 ---

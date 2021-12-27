@@ -1,6 +1,6 @@
 ---
 title: Parennes
 url: /parennes/
-latitude: 48.1192185
-longitude: -0.1851306
+latitude: 48.12
+longitude: -0.185
 ---

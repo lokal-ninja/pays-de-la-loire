@@ -1,6 +1,6 @@
 ---
 title: Redon
 url: /redon/
-latitude: 
-longitude: 
+latitude: 47.65
+longitude: -2.085
 ---

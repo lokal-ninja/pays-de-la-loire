@@ -1,6 +1,6 @@
 ---
 title: La Bazoge
 url: /la-bazoge/
-latitude: 48.359892200000004
-longitude: -0.1541288
+latitude: 48.099
+longitude: 0.155
 ---

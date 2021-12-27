@@ -1,6 +1,6 @@
 ---
 title: La Haie Fouassière
 url: /la-haie-fouassiere/
-latitude: 
-longitude: 
+latitude: 47.172
+longitude: -1.408
 ---

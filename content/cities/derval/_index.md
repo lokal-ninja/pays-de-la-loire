@@ -1,6 +1,6 @@
 ---
 title: Derval
 url: /derval/
-latitude: 47.6673622
-longitude: -1.6702011
+latitude: 47.658
+longitude: -1.665
 ---

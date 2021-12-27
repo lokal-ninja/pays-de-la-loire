@@ -1,6 +1,6 @@
 ---
 title: Pornic
 url: /pornic/
-latitude: 47.115269500000004
-longitude: -2.1040102000000003
+latitude: 47.128
+longitude: -2.123
 ---

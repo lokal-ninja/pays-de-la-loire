@@ -1,6 +1,6 @@
 ---
 title: Chantonnay
 url: /chantonnay/
-latitude: 
-longitude: 
+latitude: 46.681
+longitude: -1.049
 ---

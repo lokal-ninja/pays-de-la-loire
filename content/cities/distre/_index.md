@@ -1,6 +1,6 @@
 ---
 title: Distré
 url: /distre/
-latitude: 47.222937
-longitude: -0.11101470000000001
+latitude: 47.232
+longitude: -0.119
 ---

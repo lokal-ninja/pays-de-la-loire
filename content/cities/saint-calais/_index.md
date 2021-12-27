@@ -1,6 +1,6 @@
 ---
 title: Saint-Calais
 url: /saint-calais/
-latitude: 47.920136600000006
-longitude: 0.7434396000000001
+latitude: 47.921
+longitude: 0.746
 ---

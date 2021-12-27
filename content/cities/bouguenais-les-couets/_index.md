@@ -1,6 +1,6 @@
 ---
 title: BOUGUENAIS - LES COUËTS
 url: /bouguenais-les-couets/
-latitude: 
-longitude: 
+latitude: 47.18
+longitude: -1.588
 ---

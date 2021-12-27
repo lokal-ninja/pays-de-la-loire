@@ -1,6 +1,6 @@
 ---
 title: Orée-d'Anjou
 url: /oree-danjou/
-latitude: 
-longitude: 
+latitude: 47.313
+longitude: -1.322
 ---

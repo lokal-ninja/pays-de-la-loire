@@ -1,6 +1,6 @@
 ---
 title: La Milesse
 url: /la-milesse/
-latitude: 48.064739900000006
-longitude: 0.1361917
+latitude: 48.086
+longitude: 0.106
 ---

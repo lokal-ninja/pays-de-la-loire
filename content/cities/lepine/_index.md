@@ -1,6 +1,6 @@
 ---
 title: L'Épine
 url: /lepine/
-latitude: 48.0076692
-longitude: 0.1556574
+latitude: 46.977
+longitude: -2.266
 ---

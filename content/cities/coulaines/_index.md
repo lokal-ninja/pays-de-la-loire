@@ -1,6 +1,6 @@
 ---
 title: Coulaines
 url: /coulaines/
-latitude: 47.7531522
-longitude: 0.29929300000000003
+latitude: 48.024
+longitude: 0.203
 ---

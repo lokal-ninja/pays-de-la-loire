@@ -1,6 +1,6 @@
 ---
 title: Tuffalun
 url: /tuffalun/
-latitude: 
-longitude: 
+latitude: 47.264
+longitude: -0.347
 ---

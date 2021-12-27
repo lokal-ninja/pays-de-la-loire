@@ -1,6 +1,6 @@
 ---
 title: Touvois
 url: /touvois/
-latitude: 47.394402
-longitude: 0.1021278
+latitude: 46.902
+longitude: -1.682
 ---

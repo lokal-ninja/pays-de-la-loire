@@ -1,6 +1,6 @@
 ---
 title: Sautron
 url: /sautron/
-latitude: 47.2646728
-longitude: -2.2255256
+latitude: 47.261
+longitude: -1.665
 ---

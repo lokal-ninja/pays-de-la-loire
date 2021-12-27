@@ -1,6 +1,6 @@
 ---
 title: Chailland
 url: /chailland/
-latitude: 48.224280900000004
-longitude: -0.8717072
+latitude: 48.221
+longitude: -0.865
 ---

@@ -1,6 +1,6 @@
 ---
 title: Doué-en-Anjou
 url: /doue-en-anjou/
-latitude: 47.1896337
-longitude: -0.2938656
+latitude: 47.193
+longitude: -0.286
 ---

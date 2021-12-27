@@ -1,6 +1,6 @@
 ---
 title: Château-d'Olonne
 url: /chateau-dolonne/
-latitude: 
-longitude: 
+latitude: 46.487
+longitude: -1.748
 ---

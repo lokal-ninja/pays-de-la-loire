@@ -1,6 +1,6 @@
 ---
 title: Soulaines-sur-Aubance
 url: /soulaines-sur-aubance/
-latitude: 47.3640497
-longitude: -0.5227535
+latitude: 47.364
+longitude: -0.522
 ---

@@ -1,6 +1,6 @@
 ---
 title: Sainr-Clément-de-la-Place
 url: /sainr-clement-de-la-place/
-latitude: 
-longitude: 
+latitude: 47.523
+longitude: -0.742
 ---

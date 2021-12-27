@@ -1,6 +1,6 @@
 ---
 title: Les Achards
 url: /les-achards/
-latitude: 
-longitude: 
+latitude: 46.609
+longitude: -1.666
 ---

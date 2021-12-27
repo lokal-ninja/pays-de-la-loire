@@ -1,6 +1,6 @@
 ---
 title: La Tourlandry
 url: /la-tourlandry/
-latitude: 47.1432267
-longitude: -0.698087
+latitude: 47.145
+longitude: -0.698
 ---

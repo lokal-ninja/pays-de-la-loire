@@ -1,6 +1,6 @@
 ---
 title: Chazé-sur-Argos
 url: /chaze-sur-argos/
-latitude: 47.6172265
-longitude: -0.8926005
+latitude: 47.634
+longitude: -0.903
 ---

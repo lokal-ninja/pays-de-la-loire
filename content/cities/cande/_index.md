@@ -1,6 +1,6 @@
 ---
 title: Candé
 url: /cande/
-latitude: 47.560347
-longitude: -1.0414584
+latitude: 47.561
+longitude: -1.038
 ---

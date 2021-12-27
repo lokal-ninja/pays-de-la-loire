@@ -1,6 +1,6 @@
 ---
 title: POUZAUGES
 url: /pouzauges/
-latitude: 
-longitude: 
+latitude: 46.774
+longitude: -0.845
 ---

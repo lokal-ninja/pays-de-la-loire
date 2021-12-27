@@ -1,6 +1,6 @@
 ---
 title: Les Rosiers-sur-Loire
 url: /les-rosiers-sur-loire/
-latitude: 47.3527378
-longitude: -0.22483050000000002
+latitude: 47.351
+longitude: -0.225
 ---

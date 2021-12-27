@@ -1,6 +1,6 @@
 ---
 title: Beaucouzé
 url: /beaucouze/
-latitude: 47.4763
-longitude: -0.636681
+latitude: 47.469
+longitude: -0.622
 ---

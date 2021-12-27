@@ -1,6 +1,6 @@
 ---
 title: Louverné
 url: /louverne/
-latitude: 48.4268104
-longitude: -0.562296
+latitude: 48.122
+longitude: -0.723
 ---

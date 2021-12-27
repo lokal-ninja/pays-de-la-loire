@@ -1,6 +1,6 @@
 ---
 title: Saint-Hilaire-Saint-Florent
 url: /saint-hilaire-saint-florent/
-latitude: 47.2712287
-longitude: -0.1231025
+latitude: 47.269
+longitude: -0.104
 ---

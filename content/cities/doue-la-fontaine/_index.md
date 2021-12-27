@@ -1,6 +1,6 @@
 ---
 title: Doué-la-Fontaine
 url: /doue-la-fontaine/
-latitude: 47.193793500000005
-longitude: -0.27619170000000004
+latitude: 47.197
+longitude: -0.275
 ---

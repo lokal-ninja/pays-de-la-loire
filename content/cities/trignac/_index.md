@@ -1,6 +1,6 @@
 ---
 title: Trignac
 url: /trignac/
-latitude: 47.3176944
-longitude: -2.1894926000000003
+latitude: 47.291
+longitude: -2.211
 ---

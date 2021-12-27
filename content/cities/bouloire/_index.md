@@ -1,6 +1,6 @@
 ---
 title: Bouloire
 url: /bouloire/
-latitude: 47.972499500000005
-longitude: 0.5524301
+latitude: 47.973
+longitude: 0.556
 ---

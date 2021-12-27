@@ -1,6 +1,6 @@
 ---
 title: Nozay
 url: /nozay/
-latitude: 47.5647285
-longitude: -1.625472
+latitude: 47.564
+longitude: -1.627
 ---

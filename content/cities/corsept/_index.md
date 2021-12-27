@@ -1,6 +1,6 @@
 ---
 title: Corsept
 url: /corsept/
-latitude: 47.2779833
-longitude: -2.0603875
+latitude: 47.277
+longitude: -2.062
 ---

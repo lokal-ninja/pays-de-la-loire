@@ -1,6 +1,6 @@
 ---
 title: Saint Saturnin
 url: /saint-saturnin/
-latitude: 
-longitude: 
+latitude: 48.049
+longitude: 0.17
 ---

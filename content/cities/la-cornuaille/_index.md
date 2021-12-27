@@ -1,6 +1,6 @@
 ---
 title: La Cornuaille
 url: /la-cornuaille/
-latitude: 47.5781355
-longitude: -0.7970823
+latitude: 47.511
+longitude: -0.984
 ---

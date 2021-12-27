@@ -1,6 +1,6 @@
 ---
 title: Bellevigne-en-Layon
 url: /bellevigne-en-layon/
-latitude: 
-longitude: 
+latitude: 47.294
+longitude: -0.522
 ---

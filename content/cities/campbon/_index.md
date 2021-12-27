@@ -1,6 +1,6 @@
 ---
 title: Campbon
 url: /campbon/
-latitude: 47.412816400000004
-longitude: -1.9693613
+latitude: 47.411
+longitude: -1.966
 ---

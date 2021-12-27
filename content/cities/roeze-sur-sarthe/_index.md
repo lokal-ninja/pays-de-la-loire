@@ -1,6 +1,6 @@
 ---
 title: Roézé-sur-Sarthe
 url: /roeze-sur-sarthe/
-latitude: 47.893370100000006
-longitude: 0.0683017
+latitude: 47.895
+longitude: 0.068
 ---

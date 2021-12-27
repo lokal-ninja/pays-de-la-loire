@@ -1,6 +1,6 @@
 ---
 title: 53600
 url: /53600/
-latitude: 
-longitude: 
+latitude: 48.146
+longitude: -0.414
 ---

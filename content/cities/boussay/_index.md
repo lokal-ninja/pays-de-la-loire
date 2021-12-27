@@ -1,6 +1,6 @@
 ---
 title: Boussay
 url: /boussay/
-latitude: 47.04417
-longitude: -1.1863518000000002
+latitude: 47.043
+longitude: -1.186
 ---

@@ -1,6 +1,6 @@
 ---
 title: La Chapelle Basse Mer
 url: /la-chapelle-basse-mer/
-latitude: 
-longitude: 
+latitude: 47.276
+longitude: -1.363
 ---

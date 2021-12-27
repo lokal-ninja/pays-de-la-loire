@@ -1,6 +1,6 @@
 ---
 title: Riaillé
 url: /riaille/
-latitude: 46.986732100000005
-longitude: -1.3201995000000002
+latitude: 47.517
+longitude: -1.301
 ---

@@ -1,6 +1,6 @@
 ---
 title: Argentré
 url: /argentre/
-latitude: 48.0835596
-longitude: -0.642135
+latitude: 48.084
+longitude: -0.642
 ---

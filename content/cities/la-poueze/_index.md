@@ -1,6 +1,6 @@
 ---
 title: La Pouëze
 url: /la-poueze/
-latitude: 47.5525109
-longitude: -0.8086382000000001
+latitude: 47.555
+longitude: -0.798
 ---

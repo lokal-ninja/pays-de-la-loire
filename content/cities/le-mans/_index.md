@@ -1,6 +1,6 @@
 ---
 title: Le Mans
 url: /le-mans/
-latitude: 
-longitude: 
+latitude: 47.98
+longitude: 0.22
 ---

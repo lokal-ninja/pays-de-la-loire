@@ -1,6 +1,6 @@
 ---
 title: Geneston
 url: /geneston/
-latitude: 47.055196200000005
-longitude: -1.5150942
+latitude: 47.055
+longitude: -1.512
 ---

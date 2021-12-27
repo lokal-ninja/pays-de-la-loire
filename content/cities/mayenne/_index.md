@@ -1,6 +1,6 @@
 ---
 title: Mayenne
 url: /mayenne/
-latitude: 
-longitude: 
+latitude: 48.289
+longitude: -0.611
 ---
