@@ -1,5 +1,5 @@
 ---
-title: "La Cueillette de l'Ile"
+title: "La Cueillette de l'Île"
 url: /savenay/la-cueillette-de-lile/
 shop: ferme
 ---

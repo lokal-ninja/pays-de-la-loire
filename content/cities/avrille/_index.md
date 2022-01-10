@@ -1,6 +1,6 @@
 ---
 title: Avrillé
 url: /avrille/
-latitude: 47.503
-longitude: -0.586
+latitude: 47.495
+longitude: -0.587
 ---
