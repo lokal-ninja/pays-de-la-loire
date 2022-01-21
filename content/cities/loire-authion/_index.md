@@ -1,6 +1,6 @@
 ---
-title: Loire authion
+title: Loire-Authion
 url: /loire-authion/
-latitude: 47.467
-longitude: -0.435
+latitude: 47.446
+longitude: -0.411
 ---
