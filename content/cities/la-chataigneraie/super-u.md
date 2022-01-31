@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /chataigneraie/super-u/
+url: /la-chataigneraie/super-u/
 shop: gaz
 ---
