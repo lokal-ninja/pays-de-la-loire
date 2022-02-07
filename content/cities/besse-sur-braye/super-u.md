@@ -1,5 +1,5 @@
 ---
 title: "Super U"
-url: /besse-sur-grave/super-u/
+url: /besse-sur-braye/super-u/
 shop: gaz
 ---
