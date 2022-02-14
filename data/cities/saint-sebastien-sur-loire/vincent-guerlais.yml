@@ -7,5 +7,5 @@ city: SAINT-SÉBASTIEN-SUR-LOIRE
 street: "Allée de la Gare d'Anjou"
 housenumber: 14
 phone: "+33240310400"
-opening_hours: "Mo 10:00-19:00,Tu 09:30-19:00,We 10:00-19:00,Th 10:00-19:00,Fr 10:00-19:00, Sa 09h30-19:00, Su 09h00-13:00"
+opening_hours: "Mo,We-Fr 10:00-19:00; Tu,Sa 09:30-19:00; Su 09:00-13:00"
 website: ""
