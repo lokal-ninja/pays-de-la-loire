@@ -1,6 +1,6 @@
 ---
 title: La Châtaigneraie
 url: /la-chataigneraie/
-latitude: 46.646
-longitude: -0.747
+latitude: 46.648
+longitude: -0.748
 ---
