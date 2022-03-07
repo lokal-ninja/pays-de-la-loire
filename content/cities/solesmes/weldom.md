@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
-url: /sable-sur-sarthe/weldom/
+url: /solesmes/weldom/
 shop: à faire soi-même
 ---

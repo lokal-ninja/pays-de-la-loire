@@ -1,5 +1,5 @@
 ---
-title: "Coriolis Télécom"
+title: "CORIOLIS TELECOM"
 url: /bellevigny/coriolis-telecom/
 shop: téléphone portable
 ---
