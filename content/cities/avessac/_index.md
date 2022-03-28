@@ -1,6 +1,6 @@
 ---
 title: Avessac
 url: /avessac/
-latitude: 47.654
-longitude: -1.988
+latitude: 47.635
+longitude: -1.906
 ---
