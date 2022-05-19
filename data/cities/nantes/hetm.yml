@@ -1,11 +1,11 @@
-id: 4234610241
-type: node
-latitude: 47.2043
-longitude: -1.5367
-postcode: "44200"
+id: 85437589
+type: way
+latitude: 47.21614
+longitude: -1.56051
+postcode: "44000"
 city: Nantes
-street: "Boulevard du Général de Gaulle"
+street: ""
 housenumber: 
-phone: "+33 2 28 08 29 10"
-opening_hours: ""
-website: "http://hm.com"
+phone: ""
+opening_hours: "Mo-Sa 10:00-19:30"
+website: "https://www2.hm.com/fr_fr/"
