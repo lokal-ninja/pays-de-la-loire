@@ -1,5 +1,5 @@
 ---
-title: "A Fleur de Soi"
+title: "À Fleur de Soi"
 url: /guerande/a-fleur-de-soi/
 shop: vêtements
 ---
