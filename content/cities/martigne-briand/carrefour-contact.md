@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
-url: /martigne-briant/carrefour-contact/
+url: /martigne-briand/carrefour-contact/
 shop: commodité
 ---

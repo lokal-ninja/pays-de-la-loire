@@ -1,5 +1,5 @@
 ---
 title: "Orange"
-url: /sable-sur-sarthe/orange/
+url: /solesmes/orange/
 shop: téléphone portable
 ---
