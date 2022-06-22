@@ -1,4 +1,4 @@
-baseURL = "https://fr.shoogle.net/pays-de-la-loire"
+baseURL = "https://fr.shoogle.net/pays-de-la-loire/"
 languageCode = "fr"
 title = "Pays de la Loire"
 theme = "ln-base"
