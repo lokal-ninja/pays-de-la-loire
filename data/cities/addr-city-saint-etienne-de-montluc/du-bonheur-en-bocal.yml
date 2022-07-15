@@ -3,7 +3,7 @@ type: node
 latitude: 47.27529
 longitude: -1.78411
 postcode: "44360"
-city: SAINT ETIENNE DE MONTLUC
+city: addr:city=Saint-Étienne-de-Montluc
 street: "Rue Aristide Briand"
 housenumber: 15 bis
 phone: ""

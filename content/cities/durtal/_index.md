@@ -1,6 +1,6 @@
 ---
 title: Durtal
 url: /durtal/
-latitude: 47.659
-longitude: -0.246
+latitude: 47.671
+longitude: -0.243
 ---

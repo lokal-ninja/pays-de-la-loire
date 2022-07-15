@@ -1,6 +1,6 @@
 ---
-title: Sévérac
+title: severac
 url: /severac/
-latitude: 47.563
-longitude: -2.098
+latitude: 47.55
+longitude: -2.073
 ---

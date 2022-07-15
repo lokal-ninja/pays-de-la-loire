@@ -1,6 +1,6 @@
 ---
 title: Moutiers-les-Mauxfaits
 url: /moutiers-les-mauxfaits/
-latitude: 46.491
-longitude: -1.426
+latitude: 46.492
+longitude: -1.427
 ---
