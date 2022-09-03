@@ -1,5 +1,5 @@
 ---
-title: "Perspectives BMW MOTORRAD"
+title: "Perspectives Bmw Motorrad"
 url: /mouilleron-le-captif/perspectives-bmw-motorrad/
 shop: moto
 ---
