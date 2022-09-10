@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /bouffere/darty/
-shop: appareil ménager
+shop: électronique
 ---
