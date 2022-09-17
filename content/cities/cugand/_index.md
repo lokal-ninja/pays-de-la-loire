@@ -1,6 +1,6 @@
 ---
 title: Cugand
 url: /cugand/
-latitude: 47.057
-longitude: -1.235
+latitude: 47.063
+longitude: -1.279
 ---
