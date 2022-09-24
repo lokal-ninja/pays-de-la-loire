@@ -1,5 +1,5 @@
 ---
-title: "le jardin de la faverie"
+title: "Le Jardin de la Faverie"
 url: /parennes/le-jardin-de-la-faverie/
 shop: ferme
 ---
