@@ -1,5 +1,5 @@
 ---
 title: "La Récupérette"
-url: /clisson/la-recuperette/
+url: /saint-lumine-de-clisson/la-recuperette/
 shop: charité
 ---
