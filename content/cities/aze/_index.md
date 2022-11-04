@@ -1,6 +1,6 @@
 ---
-title: Azé
+title: AZE
 url: /aze/
-latitude: 47.838
-longitude: -0.69
+latitude: 47.833
+longitude: -0.687
 ---
