@@ -1,5 +1,5 @@
 ---
-title: "l'Écrouvis"
+title: "L'Ecrouvis"
 url: /saint-nicolas-de-redon/lecrouvis/
-shop: charité
+shop: matériel informatique
 ---
