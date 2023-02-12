@@ -1,5 +1,5 @@
 ---
 title: "E. Leclerc"
-url: /sable-sur-sarthe/e-leclerc-2/
+url: /sable-sur-sarthe/e-leclerc/
 shop: gaz
 ---

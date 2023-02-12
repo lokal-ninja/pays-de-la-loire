@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
-url: /la-chapelle-sur-erdre/intersport-2/
+url: /la-chapelle-sur-erdre/intersport/
 shop: sports
 ---

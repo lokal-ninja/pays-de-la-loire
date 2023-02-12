@@ -1,5 +1,5 @@
 ---
 title: "Arnaud"
-url: /montaigu/arnaud-2/
+url: /montaigu/arnaud/
 shop: directeurs de funérailles
 ---

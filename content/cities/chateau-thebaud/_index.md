@@ -1,6 +1,6 @@
 ---
 title: Château-Thébaud
 url: /chateau-thebaud/
-latitude: 47.124
-longitude: -1.42
+latitude: 47.125
+longitude: -1.424
 ---
