@@ -1,5 +1,5 @@
 ---
-title: "Intermarché contact"
+title: "Intermarché Contact"
 url: /laval/intermarche-contact/
-shop: supermarché
+shop: commodité
 ---

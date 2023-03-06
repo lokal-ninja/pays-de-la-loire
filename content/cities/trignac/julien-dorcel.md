@@ -1,5 +1,5 @@
 ---
-title: "Julien D'orcel"
+title: "Julien d'Orcel"
 url: /trignac/julien-dorcel/
 shop: bijoux
 ---
