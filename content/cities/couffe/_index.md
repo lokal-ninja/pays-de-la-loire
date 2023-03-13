@@ -1,6 +1,6 @@
 ---
 title: Couffé
 url: /couffe/
-latitude: 47.391
-longitude: -1.293
+latitude: 47.39
+longitude: -1.296
 ---
