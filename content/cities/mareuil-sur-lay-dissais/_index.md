@@ -1,6 +1,6 @@
 ---
-title: Mareuil-sur-Lay Dissais
+title: Mareuil-sur-Lay-Dissais
 url: /mareuil-sur-lay-dissais/
-latitude: 46.535
-longitude: -1.224
+latitude: 46.541
+longitude: -1.191
 ---
