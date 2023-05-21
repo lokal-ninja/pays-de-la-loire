@@ -1,6 +1,6 @@
 ---
-title: Saint-Julien de Concelles
+title: Saint-Julien-de-Concelles
 url: /saint-julien-de-concelles/
-latitude: 47.253
-longitude: -1.389
+latitude: 47.265
+longitude: -1.409
 ---
