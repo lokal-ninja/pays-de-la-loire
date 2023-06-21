@@ -1,6 +1,6 @@
 ---
 title: Nantes
 url: /nantes/
-latitude: 47.216
-longitude: -1.554
+latitude: 47.225
+longitude: -1.53
 ---

@@ -1,5 +1,5 @@
 ---
 title: "V and B"
-url: /85000/v-and-b/
+url: /la-roche-sur-yon/v-and-b/
 shop: alcool
 ---

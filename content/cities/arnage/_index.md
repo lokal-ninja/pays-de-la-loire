@@ -1,6 +1,6 @@
 ---
 title: Arnage
 url: /arnage/
-latitude: 47.932
-longitude: 0.187
+latitude: 47.929
+longitude: 0.185
 ---
