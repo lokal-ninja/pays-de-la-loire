@@ -1,6 +1,6 @@
 ---
 title: Rouans
 url: /rouans/
-latitude: 47.192
-longitude: -1.855
+latitude: 47.194
+longitude: -1.848
 ---
