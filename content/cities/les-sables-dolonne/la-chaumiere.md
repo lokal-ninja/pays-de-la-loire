@@ -1,5 +1,5 @@
 ---
-title: "La Chaumiere"
+title: "La Chaumière"
 url: /les-sables-dolonne/la-chaumiere/
-shop: tabac
+shop: marchand de journaux
 ---
