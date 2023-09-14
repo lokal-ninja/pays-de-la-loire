@@ -1,5 +1,5 @@
 ---
 title: "Picard"
-url: /nantes/picard/
+url: /nantes/picard-boulevard-robert-schuman/
 shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Nicolas"
-url: /nantes/nicolas/
+url: /nantes/nicolas-rue-de-talensac/
 shop: alcool
 ---

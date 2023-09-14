@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Market"
-url: /le-mans/carrefour-market/
+url: /le-mans/carrefour-market-rue-darnage/
 shop: supermarché
 ---
