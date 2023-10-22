@@ -1,5 +1,5 @@
 ---
-title: "LDLC"
+title: "Ldlc"
 url: /trignac/ldlc/
-shop: boulangerie
+shop: ordinateur
 ---
