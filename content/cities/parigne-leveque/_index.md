@@ -1,6 +1,6 @@
 ---
-title: Parigné l'Eveque
+title: Parigné L'Evêque
 url: /parigne-leveque/
-latitude: 47.938
-longitude: 0.355
+latitude: 47.936
+longitude: 0.365
 ---
