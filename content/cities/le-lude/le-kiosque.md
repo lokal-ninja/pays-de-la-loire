@@ -1,5 +1,5 @@
 ---
 title: "Le Kiosque"
 url: /le-lude/le-kiosque/
-shop: tabac
+shop: marchand de journaux
 ---
