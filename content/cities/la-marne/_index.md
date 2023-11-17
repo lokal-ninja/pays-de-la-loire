@@ -1,6 +1,6 @@
 ---
 title: La Marne
 url: /la-marne/
-latitude: 46.998
-longitude: -1.736
+latitude: 46.999
+longitude: -1.735
 ---
