@@ -1,6 +1,6 @@
 ---
 title: Rezé
 url: /reze/
-latitude: 47.191
+latitude: 47.192
 longitude: -1.57
 ---
