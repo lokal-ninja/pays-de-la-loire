@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
-url: /mayenne/biocoop/
+url: /chateau-gontier/biocoop/
 shop: commodité
 ---
