@@ -1,5 +1,5 @@
 ---
 title: "Monsieur Store"
 url: /chateau-dolonne/monsieur-store/
-shop: cuisine
+shop: store de fenêtre
 ---
