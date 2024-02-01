@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
-url: /angers/noz-avenue-rene-gasnier/
+url: /angers/noz-rue-du-maine/
 shop: magasin de variétés
 ---
