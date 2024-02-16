@@ -1,6 +1,6 @@
 ---
-title: Les Ponts-de-Cé
+title: Les Ponts de Cé
 url: /les-ponts-de-ce/
-latitude: 47.434
-longitude: -0.502
+latitude: 47.436
+longitude: -0.516
 ---
