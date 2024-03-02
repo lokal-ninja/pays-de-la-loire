@@ -1,5 +1,5 @@
 ---
 title: "Mille stocks"
 url: /les-herbiers/mille-stocks/
-shop: shop
+shop: magasin de variétés
 ---
