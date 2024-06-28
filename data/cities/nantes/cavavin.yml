@@ -1,11 +1,11 @@
-id: 7110463021
+id: 6051458182
 type: node
-latitude: 47.204
-longitude: -1.56592
-postcode: "44200"
+latitude: 47.22145
+longitude: -1.55701
+postcode: "44000"
 city: Nantes
-street: "Boulevard de la Prairie au Duc"
-housenumber: 73
-phone: ""
-opening_hours: "Tu-Th 09:30-13:00,15:00-19:30; Fr,Sa 09:30-13:30,14:15-20:00"
-website: ""
+street: "Rue de Talensac"
+housenumber: 10
+phone: "+33 2 28 49 59 80"
+opening_hours: "Mo 15:00-19:30; Tu-Fr 09:00-13:30, 15:00-19:30; Sa 09:00-19:30; Su 09:00-13:00"
+website: "https://nantes.cavavin.co/"
