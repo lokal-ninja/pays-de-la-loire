@@ -1,6 +1,6 @@
 ---
 title: Nesmy
 url: /nesmy/
-latitude: 46.596
-longitude: -1.412
+latitude: 46.586
+longitude: -1.397
 ---
