@@ -1,5 +1,5 @@
 ---
 title: "Racines"
 url: /nantes/racines/
-shop: fromage
+shop: Käse
 ---

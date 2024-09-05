@@ -1,5 +1,5 @@
 ---
 title: "Bar Tabac du Bourg"
 url: /la-roche-sur-yon/bar-tabac-du-bourg/
-shop: marchand de journaux
+shop: Zeitungen
 ---

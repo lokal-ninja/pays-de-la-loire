@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /nantes/citroen/
-shop: voiture
+shop: Autohaus
 ---

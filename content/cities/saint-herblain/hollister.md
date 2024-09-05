@@ -1,5 +1,5 @@
 ---
 title: "Hollister"
 url: /saint-herblain/hollister/
-shop: vêtements
+shop: Kleidung
 ---

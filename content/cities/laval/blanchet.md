@@ -1,5 +1,5 @@
 ---
 title: "Blanchet"
 url: /laval/blanchet/
-shop: chaussures
+shop: Schuhe
 ---

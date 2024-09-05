@@ -1,5 +1,5 @@
 ---
 title: "sud bikes"
 url: /basse-goulaine/sud-bikes/
-shop: moto
+shop: Motorrad
 ---

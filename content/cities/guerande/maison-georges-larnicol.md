@@ -1,5 +1,5 @@
 ---
 title: "Maison Georges Larnicol"
 url: /guerande/maison-georges-larnicol/
-shop: chocolat
+shop: Schokolade
 ---

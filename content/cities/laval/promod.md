@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /laval/promod/
-shop: vêtements
+shop: Kleidung
 ---

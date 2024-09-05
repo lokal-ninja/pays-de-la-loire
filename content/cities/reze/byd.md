@@ -1,5 +1,5 @@
 ---
 title: "BYD"
 url: /reze/byd/
-shop: voiture
+shop: Autohaus
 ---

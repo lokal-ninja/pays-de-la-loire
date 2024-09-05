@@ -1,5 +1,5 @@
 ---
 title: "L'Onglerie"
 url: /pornichet/longlerie/
-shop: cadeau
+shop: Andenken
 ---

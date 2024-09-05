@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /saint-herblain/sfr/
-shop: téléphone portable
+shop: Handy
 ---

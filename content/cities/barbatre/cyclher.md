@@ -1,5 +1,5 @@
 ---
 title: "Cycl'Her"
 url: /barbatre/cyclher/
-shop: vélo
+shop: Fahrrad
 ---

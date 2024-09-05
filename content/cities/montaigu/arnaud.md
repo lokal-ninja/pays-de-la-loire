@@ -1,5 +1,5 @@
 ---
 title: "Arnaud"
 url: /montaigu/arnaud/
-shop: vêtements
+shop: Kleidung
 ---

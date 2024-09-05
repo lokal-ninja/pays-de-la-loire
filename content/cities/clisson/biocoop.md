@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /clisson/biocoop/
-shop: supermarché
+shop: Supermarkt
 ---

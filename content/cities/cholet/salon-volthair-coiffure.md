@@ -1,5 +1,5 @@
 ---
 title: "Salon Volt'HAIR Coiffure"
 url: /cholet/salon-volthair-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /mamers/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

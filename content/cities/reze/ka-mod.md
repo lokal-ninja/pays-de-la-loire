@@ -1,5 +1,5 @@
 ---
 title: "KA MOD"
 url: /reze/ka-mod/
-shop: coiffeur
+shop: Friseur
 ---

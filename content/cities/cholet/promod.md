@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /cholet/promod/
-shop: vêtements
+shop: Kleidung
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /saumur/monoprix/
-shop: supermarché
+shop: Supermarkt
 ---

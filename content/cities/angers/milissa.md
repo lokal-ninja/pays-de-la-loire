@@ -1,5 +1,5 @@
 ---
 title: "milissa"
 url: /angers/milissa/
-shop: beauté
+shop: Kosmetik
 ---

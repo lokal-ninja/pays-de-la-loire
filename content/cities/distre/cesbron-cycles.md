@@ -1,5 +1,5 @@
 ---
 title: "Cesbron Cycles"
 url: /distre/cesbron-cycles/
-shop: vélo
+shop: Fahrrad
 ---

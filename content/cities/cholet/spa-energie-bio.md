@@ -1,5 +1,5 @@
 ---
 title: "Spa énergie Bio"
 url: /cholet/spa-energie-bio/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Picard Motos"
 url: /sable-sur-sarthe/picard-motos/
-shop: moto
+shop: Motorrad
 ---

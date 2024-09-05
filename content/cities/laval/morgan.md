@@ -1,5 +1,5 @@
 ---
 title: "Morgan"
 url: /laval/morgan/
-shop: vêtements
+shop: Kleidung
 ---

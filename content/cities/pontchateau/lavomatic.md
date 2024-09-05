@@ -1,5 +1,5 @@
 ---
 title: "Lavomatic"
 url: /pontchateau/lavomatic/
-shop: blanchisserie
+shop: Wäscherei
 ---

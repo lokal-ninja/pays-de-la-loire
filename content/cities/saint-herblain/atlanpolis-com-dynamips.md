@@ -1,5 +1,5 @@
 ---
 title: "Atlanpolis.com - Dynamips"
 url: /saint-herblain/atlanpolis-com-dynamips/
-shop: ordinateur
+shop: Computer
 ---

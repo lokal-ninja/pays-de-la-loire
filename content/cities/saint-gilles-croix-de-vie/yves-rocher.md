@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /saint-gilles-croix-de-vie/yves-rocher/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cyclable"
 url: /nantes/cyclable/
-shop: vélo
+shop: Fahrrad
 ---

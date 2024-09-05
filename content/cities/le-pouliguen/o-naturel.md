@@ -1,5 +1,5 @@
 ---
 title: "Ô Naturel"
 url: /le-pouliguen/o-naturel/
-shop: coiffeur
+shop: Friseur
 ---

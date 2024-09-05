@@ -1,5 +1,5 @@
 ---
 title: "Boutique"
 url: /la-fleche/boutique/
-shop: cadeau
+shop: Andenken
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /prefailles/spar/
-shop: supermarché
+shop: Supermarkt
 ---

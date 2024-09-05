@@ -1,5 +1,5 @@
 ---
 title: "Derval"
 url: /laval/derval/
-shop: boulangerie
+shop: Bäckerei
 ---

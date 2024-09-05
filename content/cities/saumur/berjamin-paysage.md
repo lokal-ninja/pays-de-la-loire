@@ -1,5 +1,5 @@
 ---
 title: "Berjamin Paysage"
 url: /saumur/berjamin-paysage/
-shop: centre de jardinage
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cavavin"
 url: /reze/cavavin/
-shop: alcool
+shop: Spirituosen
 ---

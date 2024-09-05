@@ -1,5 +1,5 @@
 ---
 title: "Zone industrielle Les Recolets"
 url: /la-ferte-bernard/zone-industrielle-les-recolets/
-shop: centre commercial
+shop: Einkaufszentrum
 ---

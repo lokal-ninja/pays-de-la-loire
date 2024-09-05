@@ -1,5 +1,5 @@
 ---
 title: "Aubert Opticien"
 url: /clisson/aubert-opticien/
-shop: opticien
+shop: Optiker
 ---

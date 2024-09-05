@@ -1,5 +1,5 @@
 ---
 title: "Conforama"
 url: /orvault/conforama/
-shop: meubles
+shop: Möbel
 ---

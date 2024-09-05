@@ -1,5 +1,5 @@
 ---
 title: "Meubles Thibaudeau"
 url: /les-achards/meubles-thibaudeau/
-shop: meubles
+shop: Möbel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /cugand/spar/
-shop: supermarché
+shop: Supermarkt
 ---

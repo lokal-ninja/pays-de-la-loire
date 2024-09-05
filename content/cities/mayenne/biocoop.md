@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /mayenne/biocoop/
-shop: commodité
+shop: Lebensmittel
 ---

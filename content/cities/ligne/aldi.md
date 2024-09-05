@@ -1,5 +1,5 @@
 ---
 title: "Aldi"
 url: /ligne/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

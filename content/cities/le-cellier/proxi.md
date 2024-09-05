@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /le-cellier/proxi/
-shop: commodité
+shop: Lebensmittel
 ---

@@ -1,5 +1,5 @@
 ---
 title: "RougeGorge"
 url: /laval/rougegorge/
-shop: vêtements
+shop: Kleidung
 ---

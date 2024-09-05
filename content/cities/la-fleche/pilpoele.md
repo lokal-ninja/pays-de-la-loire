@@ -1,5 +1,5 @@
 ---
 title: "Pil'poêle"
 url: /la-fleche/pilpoele/
-shop: cheminée
+shop: Kamine & Öfen
 ---

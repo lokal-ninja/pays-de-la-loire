@@ -1,5 +1,5 @@
 ---
 title: "Harmonie"
 url: /sautron/harmonie/
-shop: coiffeur
+shop: Friseur
 ---

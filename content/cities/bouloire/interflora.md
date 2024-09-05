@@ -1,5 +1,5 @@
 ---
 title: "Interflora"
 url: /bouloire/interflora/
-shop: fleuriste
+shop: Blumen
 ---

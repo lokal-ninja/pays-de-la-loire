@@ -1,5 +1,5 @@
 ---
 title: "Monsieur Meuble"
 url: /chateau-dolonne/monsieur-meuble/
-shop: meubles
+shop: Möbel
 ---

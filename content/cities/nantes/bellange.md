@@ -1,5 +1,5 @@
 ---
 title: "Bellange"
 url: /nantes/bellange/
-shop: beauté
+shop: Kosmetik
 ---

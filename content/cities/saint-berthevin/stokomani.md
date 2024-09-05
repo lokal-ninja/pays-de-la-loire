@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /saint-berthevin/stokomani/
-shop: magasin de variétés
+shop: Kramladen
 ---

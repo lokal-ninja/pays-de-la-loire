@@ -1,5 +1,5 @@
 ---
 title: "Joujou"
 url: /nantes/joujou/
-shop: jouets
+shop: Spielzeug
 ---

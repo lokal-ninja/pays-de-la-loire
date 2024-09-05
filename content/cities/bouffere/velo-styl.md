@@ -1,5 +1,5 @@
 ---
 title: "Velo Styl'"
 url: /bouffere/velo-styl/
-shop: vélo
+shop: Fahrrad
 ---

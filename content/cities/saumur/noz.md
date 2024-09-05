@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saumur/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

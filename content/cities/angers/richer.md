@@ -1,5 +1,5 @@
 ---
 title: "Richer"
 url: /angers/richer/
-shop: livres
+shop: Bücher
 ---

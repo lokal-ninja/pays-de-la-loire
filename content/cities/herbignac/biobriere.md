@@ -1,5 +1,5 @@
 ---
 title: "BioBrière"
 url: /herbignac/biobriere/
-shop: supermarché
+shop: Supermarkt
 ---

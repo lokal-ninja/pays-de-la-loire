@@ -1,5 +1,5 @@
 ---
 title: "Jigé"
 url: /cholet/jige/
-shop: vêtements
+shop: Kleidung
 ---

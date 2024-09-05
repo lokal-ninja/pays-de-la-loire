@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /mayenne/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

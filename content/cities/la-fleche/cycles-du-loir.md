@@ -1,5 +1,5 @@
 ---
 title: "Cycles du Loir"
 url: /la-fleche/cycles-du-loir/
-shop: vélo
+shop: Fahrrad
 ---

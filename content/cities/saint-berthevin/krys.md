@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /saint-berthevin/krys/
-shop: opticien
+shop: Optiker
 ---

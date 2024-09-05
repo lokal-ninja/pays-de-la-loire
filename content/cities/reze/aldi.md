@@ -1,5 +1,5 @@
 ---
 title: "ALDI"
 url: /reze/aldi/
-shop: supermarché
+shop: Supermarkt
 ---

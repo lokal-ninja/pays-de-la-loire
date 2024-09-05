@@ -1,5 +1,5 @@
 ---
 title: "Scael"
 url: /ligne/scael/
-shop: centre de jardinage
+shop: Garten-Center
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sephora"
 url: /laval/sephora/
-shop: beauté
+shop: Kosmetik
 ---

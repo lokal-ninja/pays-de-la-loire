@@ -1,5 +1,5 @@
 ---
 title: "Darty"
 url: /beaucouze/darty/
-shop: électronique
+shop: Elektronik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Art du Pain"
 url: /mayenne/art-du-pain/
-shop: boulangerie
+shop: Bäckerei
 ---

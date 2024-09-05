@@ -1,5 +1,5 @@
 ---
 title: "Talbicyclette"
 url: /clisson/talbicyclette/
-shop: vélo
+shop: Fahrrad
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Secourable"
 url: /le-mans/la-secourable/
-shop: beauté
+shop: Kosmetik
 ---

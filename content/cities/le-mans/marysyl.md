@@ -1,5 +1,5 @@
 ---
 title: "Marysyl"
 url: /le-mans/marysyl/
-shop: beauté
+shop: Kosmetik
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /beaupreau/intermarche/
-shop: gaz
+shop: Gasflaschen
 ---

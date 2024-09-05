@@ -1,5 +1,5 @@
 ---
 title: "Meubles Gautier"
 url: /chateau-dolonne/meubles-gautier/
-shop: meubles
+shop: Möbel
 ---

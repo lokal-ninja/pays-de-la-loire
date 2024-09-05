@@ -1,5 +1,5 @@
 ---
 title: "Brûlerie BOC"
 url: /le-mans/brulerie-boc/
-shop: café
+shop: Kaffee
 ---

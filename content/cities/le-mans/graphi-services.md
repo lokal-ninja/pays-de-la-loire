@@ -1,5 +1,5 @@
 ---
 title: "Graphi services"
 url: /le-mans/graphi-services/
-shop: copyshop
+shop: Kopieren
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Comptoir de la Beauté"
 url: /pouzauges/le-comptoir-de-la-beaute/
-shop: beauté
+shop: Kosmetik
 ---

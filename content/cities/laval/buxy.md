@@ -1,5 +1,5 @@
 ---
 title: "Buxy"
 url: /laval/buxy/
-shop: vêtements
+shop: Kleidung
 ---

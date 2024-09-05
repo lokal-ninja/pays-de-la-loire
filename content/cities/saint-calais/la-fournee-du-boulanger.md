@@ -1,5 +1,5 @@
 ---
 title: "La Fournée du Boulanger"
 url: /saint-calais/la-fournee-du-boulanger/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Khedive"
 url: /les-sorinieres/le-khedive/
-shop: tabac
+shop: Tabak
 ---

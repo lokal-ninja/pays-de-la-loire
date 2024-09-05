@@ -1,5 +1,5 @@
 ---
 title: "Véronika"
 url: /laval/veronika/
-shop: pâtisserie
+shop: Konditorei
 ---

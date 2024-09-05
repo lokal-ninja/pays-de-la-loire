@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie ZUCCARINI"
 url: /evron/boulangerie-zuccarini/
-shop: boulangerie
+shop: Bäckerei
 ---

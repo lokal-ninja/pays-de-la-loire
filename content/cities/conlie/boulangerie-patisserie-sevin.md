@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie Sevin"
 url: /conlie/boulangerie-patisserie-sevin/
-shop: boulangerie
+shop: Bäckerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "/perene"
 url: /challans/perene/
-shop: cuisine
+shop: Küchen
 ---

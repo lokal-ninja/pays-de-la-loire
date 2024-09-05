@@ -1,5 +1,5 @@
 ---
 title: "Spar"
 url: /la-gueriniere/spar/
-shop: commodité
+shop: Lebensmittel
 ---

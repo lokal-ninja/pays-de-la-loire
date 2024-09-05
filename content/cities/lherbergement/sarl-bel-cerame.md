@@ -1,5 +1,5 @@
 ---
 title: "SARL Bel' Cérame"
 url: /lherbergement/sarl-bel-cerame/
-shop: tuiles
+shop: Fliesen
 ---

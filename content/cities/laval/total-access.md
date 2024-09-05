@@ -1,5 +1,5 @@
 ---
 title: "Total Access"
 url: /laval/total-access/
-shop: commodité
+shop: Lebensmittel
 ---

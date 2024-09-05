@@ -1,5 +1,5 @@
 ---
 title: "Acajou coiffure"
 url: /sevremont/acajou-coiffure/
-shop: coiffeur
+shop: Friseur
 ---

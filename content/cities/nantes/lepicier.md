@@ -1,5 +1,5 @@
 ---
 title: "L'epicier"
 url: /nantes/lepicier/
-shop: commodité
+shop: Lebensmittel
 ---

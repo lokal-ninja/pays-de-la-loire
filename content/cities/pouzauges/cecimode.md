@@ -1,5 +1,5 @@
 ---
 title: "Cécimode"
 url: /pouzauges/cecimode/
-shop: chaussures
+shop: Schuhe
 ---

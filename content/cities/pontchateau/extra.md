@@ -1,5 +1,5 @@
 ---
 title: "Extra"
 url: /pontchateau/extra/
-shop: appareil ménager
+shop: Haushaltsgeräte
 ---

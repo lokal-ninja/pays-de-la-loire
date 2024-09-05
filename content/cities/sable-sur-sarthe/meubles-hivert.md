@@ -1,5 +1,5 @@
 ---
 title: "Meubles Hivert"
 url: /sable-sur-sarthe/meubles-hivert/
-shop: meubles
+shop: Möbel
 ---

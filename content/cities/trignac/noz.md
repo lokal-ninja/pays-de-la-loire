@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /trignac/noz/
-shop: magasin de variétés
+shop: Kramladen
 ---

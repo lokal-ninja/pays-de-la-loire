@@ -1,5 +1,5 @@
 ---
 title: "Nolenzo"
 url: /riaille/nolenzo/
-shop: coiffeur
+shop: Friseur
 ---

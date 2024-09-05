@@ -1,5 +1,5 @@
 ---
 title: "MC Perraud"
 url: /clisson/mc-perraud/
-shop: bijoux
+shop: Schmuck
 ---

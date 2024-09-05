@@ -1,5 +1,5 @@
 ---
 title: "Albizia"
 url: /pouzauges/albizia/
-shop: fleuriste
+shop: Blumen
 ---

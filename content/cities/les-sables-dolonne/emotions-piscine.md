@@ -1,5 +1,5 @@
 ---
 title: "Emotions Piscine"
 url: /les-sables-dolonne/emotions-piscine/
-shop: piscine
+shop: Pool
 ---

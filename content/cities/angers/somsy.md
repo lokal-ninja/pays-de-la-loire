@@ -1,5 +1,5 @@
 ---
 title: "Somsy"
 url: /angers/somsy/
-shop: beauté
+shop: Kosmetik
 ---

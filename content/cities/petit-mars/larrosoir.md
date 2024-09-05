@@ -1,5 +1,5 @@
 ---
 title: "L'Arrosoir"
 url: /petit-mars/larrosoir/
-shop: fleuriste
+shop: Blumen
 ---

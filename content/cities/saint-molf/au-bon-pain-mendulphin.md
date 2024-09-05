@@ -1,5 +1,5 @@
 ---
 title: "Au bon pain Mendulphin"
 url: /saint-molf/au-bon-pain-mendulphin/
-shop: boulangerie
+shop: Bäckerei
 ---

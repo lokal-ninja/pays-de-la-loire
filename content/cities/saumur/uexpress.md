@@ -1,5 +1,5 @@
 ---
 title: "Uexpress"
 url: /saumur/uexpress/
-shop: commodité
+shop: Lebensmittel
 ---

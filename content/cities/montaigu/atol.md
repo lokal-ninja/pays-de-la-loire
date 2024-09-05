@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /montaigu/atol/
-shop: opticien
+shop: Optiker
 ---

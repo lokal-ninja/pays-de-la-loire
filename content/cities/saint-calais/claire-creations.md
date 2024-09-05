@@ -1,5 +1,5 @@
 ---
 title: "Claire Créations"
 url: /saint-calais/claire-creations/
-shop: tissu
+shop: Textil
 ---

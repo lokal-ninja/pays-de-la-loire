@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /savenay/blackstore/
-shop: vêtements
+shop: Kleidung
 ---

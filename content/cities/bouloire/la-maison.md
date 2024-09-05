@@ -1,5 +1,5 @@
 ---
 title: "La Maison"
 url: /bouloire/la-maison/
-shop: centre de jardinage
+shop: Garten-Center
 ---

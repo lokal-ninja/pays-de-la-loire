@@ -1,5 +1,5 @@
 ---
 title: "Suzuki"
 url: /orvault/suzuki/
-shop: voiture
+shop: Autohaus
 ---

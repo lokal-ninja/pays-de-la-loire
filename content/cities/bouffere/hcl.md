@@ -1,5 +1,5 @@
 ---
 title: "HCL"
 url: /bouffere/hcl/
-shop: cheminée
+shop: Kamine & Öfen
 ---

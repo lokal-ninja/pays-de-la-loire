@@ -1,5 +1,5 @@
 ---
 title: "Myozentis"
 url: /pouzauges/myozentis/
-shop: massage
+shop: Massage
 ---

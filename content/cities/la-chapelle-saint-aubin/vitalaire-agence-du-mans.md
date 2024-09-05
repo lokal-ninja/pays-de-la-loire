@@ -1,5 +1,5 @@
 ---
 title: "Vitalaire - Agence du Mans"
 url: /la-chapelle-saint-aubin/vitalaire-agence-du-mans/
-shop: approvisionnement médical
+shop: Sanitätshaus
 ---

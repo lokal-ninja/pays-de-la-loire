@@ -1,5 +1,5 @@
 ---
 title: "Lacoste"
 url: /saint-herblain/lacoste/
-shop: vêtements
+shop: Kleidung
 ---

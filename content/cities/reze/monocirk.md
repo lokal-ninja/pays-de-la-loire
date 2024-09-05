@@ -1,5 +1,5 @@
 ---
 title: "Monocirk"
 url: /reze/monocirk/
-shop: shop
+shop: Allgemein
 ---

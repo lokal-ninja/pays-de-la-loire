@@ -1,5 +1,5 @@
 ---
 title: "A Delaroche"
 url: /la-fleche/a-delaroche/
-shop: boucherie
+shop: Metzgerei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ducati"
 url: /reze/ducati/
-shop: moto
+shop: Motorrad
 ---

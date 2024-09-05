@@ -1,5 +1,5 @@
 ---
 title: "Chaigneau"
 url: /pouzauges/chaigneau/
-shop: voiture
+shop: Autohaus
 ---

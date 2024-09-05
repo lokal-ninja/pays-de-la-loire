@@ -1,5 +1,5 @@
 ---
 title: "Couleur Nautick"
 url: /les-sables-dolonne/couleur-nautick/
-shop: vêtements
+shop: Kleidung
 ---

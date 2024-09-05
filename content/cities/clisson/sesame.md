@@ -1,5 +1,5 @@
 ---
 title: "Sésame"
 url: /clisson/sesame/
-shop: boulangerie
+shop: Bäckerei
 ---

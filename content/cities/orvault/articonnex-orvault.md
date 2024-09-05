@@ -1,5 +1,5 @@
 ---
 title: "Articonnex Orvault"
 url: /orvault/articonnex-orvault/
-shop: vente en gros
+shop: Großhandel
 ---

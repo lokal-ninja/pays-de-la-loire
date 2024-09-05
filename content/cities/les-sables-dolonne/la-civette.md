@@ -1,5 +1,5 @@
 ---
 title: "La Civette"
 url: /les-sables-dolonne/la-civette/
-shop: tabac
+shop: Tabak
 ---

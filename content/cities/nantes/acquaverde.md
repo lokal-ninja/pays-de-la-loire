@@ -1,5 +1,5 @@
 ---
 title: "Acquaverde"
 url: /nantes/acquaverde/
-shop: fleuriste
+shop: Blumen
 ---

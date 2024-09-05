@@ -1,5 +1,5 @@
 ---
 title: "Caillaud"
 url: /pouzauges/caillaud/
-shop: bijoux
+shop: Schmuck
 ---

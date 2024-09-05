@@ -1,5 +1,5 @@
 ---
 title: "Intersport"
 url: /solesmes/intersport/
-shop: sports
+shop: Sport
 ---

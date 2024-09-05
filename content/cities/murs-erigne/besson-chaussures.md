@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /murs-erigne/besson-chaussures/
-shop: chaussures
+shop: Schuhe
 ---

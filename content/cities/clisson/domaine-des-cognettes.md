@@ -1,5 +1,5 @@
 ---
 title: "Domaine des Cognettes"
 url: /clisson/domaine-des-cognettes/
-shop: alcool
+shop: Spirituosen
 ---

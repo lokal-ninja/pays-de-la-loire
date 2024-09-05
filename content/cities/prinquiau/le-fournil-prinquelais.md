@@ -1,5 +1,5 @@
 ---
 title: "Le Fournil Prinquelais"
 url: /prinquiau/le-fournil-prinquelais/
-shop: boulangerie
+shop: Bäckerei
 ---

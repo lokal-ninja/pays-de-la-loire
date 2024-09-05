@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /saint-nazaire/yves-rocher/
-shop: beauté
+shop: Kosmetik
 ---

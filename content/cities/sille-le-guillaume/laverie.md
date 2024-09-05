@@ -1,5 +1,5 @@
 ---
 title: "Laverie"
 url: /sille-le-guillaume/laverie/
-shop: blanchisserie
+shop: Wäscherei
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Institut Villa Romaine"
 url: /clisson/institut-villa-romaine/
-shop: beauté
+shop: Kosmetik
 ---

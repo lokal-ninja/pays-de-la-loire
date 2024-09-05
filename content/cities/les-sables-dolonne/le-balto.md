@@ -1,5 +1,5 @@
 ---
 title: "Le Balto"
 url: /les-sables-dolonne/le-balto/
-shop: tabac
+shop: Tabak
 ---

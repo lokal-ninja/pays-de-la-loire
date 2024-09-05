@@ -1,5 +1,5 @@
 ---
 title: "Antonelle"
 url: /le-mans/antonelle/
-shop: vêtements
+shop: Kleidung
 ---

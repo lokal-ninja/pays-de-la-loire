@@ -1,5 +1,5 @@
 ---
 title: "Aubance Beauté"
 url: /murs-erigne/aubance-beaute/
-shop: beauté
+shop: Kosmetik
 ---

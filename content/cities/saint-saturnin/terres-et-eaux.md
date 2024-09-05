@@ -1,5 +1,5 @@
 ---
 title: "Terres et Eaux"
 url: /saint-saturnin/terres-et-eaux/
-shop: extérieur
+shop: Outdoor
 ---

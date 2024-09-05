@@ -1,5 +1,5 @@
 ---
 title: "Zeeman"
 url: /le-mans/zeeman/
-shop: vêtements
+shop: Kleidung
 ---

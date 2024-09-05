@@ -1,5 +1,5 @@
 ---
 title: "Boutique du Jouet"
 url: /pornic/boutique-du-jouet/
-shop: jouets
+shop: Spielzeug
 ---

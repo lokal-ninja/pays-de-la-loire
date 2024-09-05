@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /laval/proxi/
-shop: commodité
+shop: Lebensmittel
 ---

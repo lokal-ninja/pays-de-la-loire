@@ -1,5 +1,5 @@
 ---
 title: "Pandora"
 url: /le-mans/pandora/
-shop: bijoux
+shop: Schmuck
 ---

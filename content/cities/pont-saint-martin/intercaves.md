@@ -1,5 +1,5 @@
 ---
 title: "InterCaves"
 url: /pont-saint-martin/intercaves/
-shop: alcool
+shop: Spirituosen
 ---

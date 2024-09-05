@@ -1,5 +1,5 @@
 ---
 title: "Ma boulangerie"
 url: /vertou/ma-boulangerie/
-shop: boulangerie
+shop: Bäckerei
 ---

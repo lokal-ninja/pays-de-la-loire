@@ -1,5 +1,5 @@
 ---
 title: "Thiriet"
 url: /laval/thiriet/
-shop: aliments surgelés
+shop: Tiefkühl
 ---

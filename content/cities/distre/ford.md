@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /distre/ford/
-shop: voiture
+shop: Autohaus
 ---

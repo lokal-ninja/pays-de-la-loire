@@ -1,5 +1,5 @@
 ---
 title: "Laverie Atlantique Ouest"
 url: /reze/laverie-atlantique-ouest/
-shop: blanchisserie
+shop: Wäscherei
 ---
