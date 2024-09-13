@@ -1,5 +1,5 @@
 ---
 title: "Cache Cache"
 url: /la-fleche/cache-cache/
-shop: Kleidung
+shop: vêtements
 ---

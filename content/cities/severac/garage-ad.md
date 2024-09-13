@@ -1,5 +1,5 @@
 ---
 title: "Garage AD"
 url: /severac/garage-ad/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

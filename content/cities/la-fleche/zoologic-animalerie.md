@@ -1,5 +1,5 @@
 ---
 title: "Zoologic Animalerie"
 url: /la-fleche/zoologic-animalerie/
-shop: Tiere
+shop: animal de compagnie
 ---

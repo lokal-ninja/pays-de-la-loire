@@ -1,5 +1,5 @@
 ---
 title: "Morin Automobiles"
 url: /sainte-pazanne/morin-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

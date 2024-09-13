@@ -1,5 +1,5 @@
 ---
 title: "Mélanger"
 url: /laval/melanger/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /nantes/midas-boulevard-du-tertre/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

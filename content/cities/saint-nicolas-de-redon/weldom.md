@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /saint-nicolas-de-redon/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

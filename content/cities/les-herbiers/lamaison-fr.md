@@ -1,5 +1,5 @@
 ---
 title: "LaMaison.fr"
 url: /les-herbiers/lamaison-fr/
-shop: Baumarkt
+shop: à faire soi-même
 ---

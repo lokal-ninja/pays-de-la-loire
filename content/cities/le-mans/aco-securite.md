@@ -1,5 +1,5 @@
 ---
 title: "ACO Sécurité"
 url: /le-mans/aco-securite/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

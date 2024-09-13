@@ -1,5 +1,5 @@
 ---
 title: "Mes binocles"
 url: /la-fleche/mes-binocles/
-shop: Optiker
+shop: opticien
 ---

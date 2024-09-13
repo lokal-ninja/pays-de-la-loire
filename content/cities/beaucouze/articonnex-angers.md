@@ -1,5 +1,5 @@
 ---
 title: "Articonnex Angers"
 url: /beaucouze/articonnex-angers/
-shop: Großhandel
+shop: vente en gros
 ---

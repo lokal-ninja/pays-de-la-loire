@@ -1,5 +1,5 @@
 ---
 title: "Renault trucks"
 url: /les-herbiers/renault-trucks/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

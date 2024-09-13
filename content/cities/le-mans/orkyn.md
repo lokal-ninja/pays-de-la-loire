@@ -1,5 +1,5 @@
 ---
 title: "Orkyn'"
 url: /le-mans/orkyn/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Club"
 url: /les-sables-dolonne/coiffure-club/
-shop: Friseur
+shop: coiffeur
 ---

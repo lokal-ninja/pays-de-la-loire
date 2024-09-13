@@ -1,5 +1,5 @@
 ---
 title: "Yes Eye"
 url: /le-mans/yes-eye/
-shop: Optiker
+shop: opticien
 ---

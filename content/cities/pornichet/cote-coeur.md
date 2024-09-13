@@ -1,5 +1,5 @@
 ---
 title: "Côté cœur"
 url: /pornichet/cote-coeur/
-shop: Kleidung
+shop: vêtements
 ---

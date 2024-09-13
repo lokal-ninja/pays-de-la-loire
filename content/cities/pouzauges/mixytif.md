@@ -1,5 +1,5 @@
 ---
 title: "Mixytif"
 url: /pouzauges/mixytif/
-shop: Friseur
+shop: coiffeur
 ---

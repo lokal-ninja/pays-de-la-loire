@@ -1,5 +1,5 @@
 ---
 title: "Mastock"
 url: /montaigu/mastock/
-shop: Baumarkt
+shop: à faire soi-même
 ---

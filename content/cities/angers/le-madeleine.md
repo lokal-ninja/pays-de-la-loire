@@ -1,5 +1,5 @@
 ---
 title: "Le Madeleine"
 url: /angers/le-madeleine/
-shop: Tabak
+shop: tabac
 ---

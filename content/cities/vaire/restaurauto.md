@@ -1,5 +1,5 @@
 ---
 title: "Restaur'Auto"
 url: /vaire/restaurauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

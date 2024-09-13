@@ -1,5 +1,5 @@
 ---
 title: "iBureau"
 url: /allonnes/ibureau/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

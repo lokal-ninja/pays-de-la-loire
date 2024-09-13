@@ -1,5 +1,5 @@
 ---
 title: "Chastanet"
 url: /vaire/chastanet/
-shop: Kramladen
+shop: magasin de variétés
 ---

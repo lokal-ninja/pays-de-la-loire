@@ -1,5 +1,5 @@
 ---
 title: "Les Etincelles"
 url: /nort-sur-erdre/les-etincelles/
-shop: Bücher
+shop: livres
 ---

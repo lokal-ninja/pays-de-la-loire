@@ -1,5 +1,5 @@
 ---
 title: "La Caravelle"
 url: /avrille/la-caravelle/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Richou"
 url: /challans/richou/
-shop: Reisebüro
+shop: agence de voyage
 ---

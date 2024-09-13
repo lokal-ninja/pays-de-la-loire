@@ -1,5 +1,5 @@
 ---
 title: "Domaine du Colombier"
 url: /tillieres/domaine-du-colombier/
-shop: Spirituosen
+shop: alcool
 ---

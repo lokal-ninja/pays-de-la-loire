@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /challans/orange/
-shop: Handy
+shop: téléphone portable
 ---

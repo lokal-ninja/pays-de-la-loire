@@ -1,5 +1,5 @@
 ---
 title: "Mondovélo"
 url: /orvault/mondovelo/
-shop: Fahrrad
+shop: vélo
 ---

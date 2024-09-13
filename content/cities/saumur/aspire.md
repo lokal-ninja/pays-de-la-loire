@@ -1,5 +1,5 @@
 ---
 title: "ASPIRE"
 url: /saumur/aspire/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

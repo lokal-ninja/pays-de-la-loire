@@ -1,5 +1,5 @@
 ---
 title: "Agri Mouzeil"
 url: /mouzeil/agri-mouzeil/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

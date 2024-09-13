@@ -1,5 +1,5 @@
 ---
 title: "Le Papyrus"
 url: /le-mans/le-papyrus/
-shop: Zeitungen
+shop: marchand de journaux
 ---

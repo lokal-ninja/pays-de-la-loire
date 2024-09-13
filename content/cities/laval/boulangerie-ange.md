@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Ange"
 url: /laval/boulangerie-ange/
-shop: Bäckerei
+shop: boulangerie
 ---

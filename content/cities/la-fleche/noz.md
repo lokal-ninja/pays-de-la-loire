@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /la-fleche/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

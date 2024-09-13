@@ -1,5 +1,5 @@
 ---
 title: "Escale Coiffure"
 url: /argentre/escale-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

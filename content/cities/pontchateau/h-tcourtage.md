@@ -1,5 +1,5 @@
 ---
 title: "H.TCourtage"
 url: /pontchateau/h-tcourtage/
-shop: Leiher
+shop: prêteur sur gages
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Écouter Voir"
 url: /montaigu/ecouter-voir/
-shop: Optiker
+shop: opticien
 ---

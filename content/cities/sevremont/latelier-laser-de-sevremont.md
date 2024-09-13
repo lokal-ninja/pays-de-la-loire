@@ -1,5 +1,5 @@
 ---
 title: "L'atelier laser de Sèvremont"
 url: /sevremont/latelier-laser-de-sevremont/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sam coiff"
 url: /blain/sam-coiff/
-shop: Friseur
+shop: coiffeur
 ---

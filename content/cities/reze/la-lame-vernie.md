@@ -1,5 +1,5 @@
 ---
 title: "La Lame Vernie"
 url: /reze/la-lame-vernie/
-shop: Friseur
+shop: coiffeur
 ---

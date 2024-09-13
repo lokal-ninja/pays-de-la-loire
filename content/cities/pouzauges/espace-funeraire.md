@@ -1,5 +1,5 @@
 ---
 title: "Espace funéraire"
 url: /pouzauges/espace-funeraire/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atlantis"
 url: /saint-herblain/atlantis/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

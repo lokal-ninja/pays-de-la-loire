@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /pannece/vival/
-shop: Kramladen
+shop: magasin de variétés
 ---

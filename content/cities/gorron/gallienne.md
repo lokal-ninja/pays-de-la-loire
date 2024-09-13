@@ -1,5 +1,5 @@
 ---
 title: "Gallienne"
 url: /gorron/gallienne/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

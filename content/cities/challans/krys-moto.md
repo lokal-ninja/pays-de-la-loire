@@ -1,5 +1,5 @@
 ---
 title: "Krys Moto"
 url: /challans/krys-moto/
-shop: Motorrad
+shop: moto
 ---

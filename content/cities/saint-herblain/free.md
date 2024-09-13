@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /saint-herblain/free/
-shop: Handy
+shop: téléphone portable
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Viviers de la Corniche"
 url: /bretignolles-sur-mer/viviers-de-la-corniche/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cybelle Coiffure"
 url: /reze/cybelle-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

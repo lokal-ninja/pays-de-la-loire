@@ -1,5 +1,5 @@
 ---
 title: "Mes Petits Secrets"
 url: /pontchateau/mes-petits-secrets/
-shop: Kleidung
+shop: vêtements
 ---

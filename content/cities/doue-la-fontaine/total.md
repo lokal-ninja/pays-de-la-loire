@@ -1,5 +1,5 @@
 ---
 title: "Total"
 url: /doue-la-fontaine/total/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Maison de la Presse"
 url: /noyen-sur-sarthe/maison-de-la-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

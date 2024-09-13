@@ -1,5 +1,5 @@
 ---
 title: "Perle Marine"
 url: /carquefou/perle-marine/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "U Express"
 url: /argentre/u-express/
-shop: Gasflaschen
+shop: gaz
 ---

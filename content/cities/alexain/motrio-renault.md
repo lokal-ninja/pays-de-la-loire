@@ -1,5 +1,5 @@
 ---
 title: "Motrio - Renault"
 url: /alexain/motrio-renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

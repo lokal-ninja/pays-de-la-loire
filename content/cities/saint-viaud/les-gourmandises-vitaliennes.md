@@ -1,5 +1,5 @@
 ---
 title: "Les Gourmandises Vitaliennes"
 url: /saint-viaud/les-gourmandises-vitaliennes/
-shop: Bäckerei
+shop: boulangerie
 ---

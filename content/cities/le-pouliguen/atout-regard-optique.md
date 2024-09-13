@@ -1,5 +1,5 @@
 ---
 title: "Atout Regard Optique"
 url: /le-pouliguen/atout-regard-optique/
-shop: Optiker
+shop: opticien
 ---

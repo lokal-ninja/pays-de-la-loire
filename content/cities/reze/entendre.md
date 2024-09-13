@@ -1,5 +1,5 @@
 ---
 title: "Entendre"
 url: /reze/entendre/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

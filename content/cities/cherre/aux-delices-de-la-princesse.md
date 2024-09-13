@@ -1,5 +1,5 @@
 ---
 title: "Aux délices de la Princesse"
 url: /cherre/aux-delices-de-la-princesse/
-shop: Bäckerei
+shop: boulangerie
 ---

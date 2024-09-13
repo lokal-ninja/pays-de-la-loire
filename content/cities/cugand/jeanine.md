@@ -1,5 +1,5 @@
 ---
 title: "Jeanine"
 url: /cugand/jeanine/
-shop: Lampen
+shop: lampes
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Pâte Sarthoise"
 url: /yvre-leveque/la-pate-sarthoise/
-shop: Lebensmittel
+shop: commodité
 ---

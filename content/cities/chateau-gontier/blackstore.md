@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /chateau-gontier/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

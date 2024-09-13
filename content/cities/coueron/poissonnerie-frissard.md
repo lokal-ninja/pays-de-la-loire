@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Frissard"
 url: /coueron/poissonnerie-frissard/
-shop: Fisch
+shop: fruits de mer
 ---

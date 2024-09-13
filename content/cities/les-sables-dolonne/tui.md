@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /les-sables-dolonne/tui/
-shop: Reisebüro
+shop: agence de voyage
 ---

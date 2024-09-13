@@ -1,5 +1,5 @@
 ---
 title: "Wija tattoo"
 url: /bonchamp-les-laval/wija-tattoo/
-shop: Tattoo
+shop: tatouage
 ---

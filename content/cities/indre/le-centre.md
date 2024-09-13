@@ -1,5 +1,5 @@
 ---
 title: "Le Centre"
 url: /indre/le-centre/
-shop: Zeitungen
+shop: marchand de journaux
 ---

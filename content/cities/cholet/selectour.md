@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /cholet/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

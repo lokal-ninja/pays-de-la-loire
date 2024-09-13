@@ -1,5 +1,5 @@
 ---
 title: "salon K"
 url: /fegreac/salon-k/
-shop: Friseur
+shop: coiffeur
 ---

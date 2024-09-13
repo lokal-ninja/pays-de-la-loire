@@ -1,5 +1,5 @@
 ---
 title: "Raimond"
 url: /noirmoutier-en-lile/raimond/
-shop: Fisch
+shop: fruits de mer
 ---

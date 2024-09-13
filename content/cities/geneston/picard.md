@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /geneston/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "H.B Coiffure"
 url: /nantes/h-b-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

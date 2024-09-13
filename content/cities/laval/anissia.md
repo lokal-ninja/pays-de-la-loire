@@ -1,5 +1,5 @@
 ---
 title: "Anissia"
 url: /laval/anissia/
-shop: Friseur
+shop: coiffeur
 ---

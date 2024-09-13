@@ -1,5 +1,5 @@
 ---
 title: "outiror"
 url: /reze/outiror/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Cyril Bazin"
 url: /nort-sur-erdre/cyril-bazin/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "AMC Mariage"
 url: /le-mans/amc-mariage/
-shop: Kleidung
+shop: vêtements
 ---

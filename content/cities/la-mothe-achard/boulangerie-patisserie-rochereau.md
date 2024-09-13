@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie Rochereau"
 url: /la-mothe-achard/boulangerie-patisserie-rochereau/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Weldom"
 url: /chateau-dolonne/weldom/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diff'Info"
 url: /nort-sur-erdre/diffinfo/
-shop: Computer
+shop: ordinateur
 ---

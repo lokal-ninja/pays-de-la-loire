@@ -1,5 +1,5 @@
 ---
 title: "Cave Delavigne"
 url: /coueron/cave-delavigne/
-shop: Wein
+shop: vin
 ---

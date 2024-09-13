@@ -1,5 +1,5 @@
 ---
 title: "Votre Salon by Lydia"
 url: /bonchamp-les-laval/votre-salon-by-lydia/
-shop: Friseur
+shop: coiffeur
 ---

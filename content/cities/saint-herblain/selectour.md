@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /saint-herblain/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

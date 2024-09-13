@@ -1,5 +1,5 @@
 ---
 title: "Colorisme"
 url: /laval/colorisme/
-shop: Farben
+shop: peinture
 ---

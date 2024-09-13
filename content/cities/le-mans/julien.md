@@ -1,5 +1,5 @@
 ---
 title: "Julien"
 url: /le-mans/julien/
-shop: Schmuck
+shop: bijoux
 ---

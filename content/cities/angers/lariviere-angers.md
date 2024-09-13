@@ -1,5 +1,5 @@
 ---
 title: "Larivière Angers"
 url: /angers/lariviere-angers/
-shop: Baustoffe
+shop: commerce
 ---

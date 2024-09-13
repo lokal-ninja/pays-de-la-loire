@@ -1,5 +1,5 @@
 ---
 title: "Paille"
 url: /pornichet/paille/
-shop: Kleidung
+shop: vêtements
 ---

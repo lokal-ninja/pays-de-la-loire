@@ -1,5 +1,5 @@
 ---
 title: "Selectour"
 url: /pouzauges/selectour/
-shop: Reisebüro
+shop: agence de voyage
 ---

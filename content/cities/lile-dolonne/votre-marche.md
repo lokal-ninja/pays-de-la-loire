@@ -1,5 +1,5 @@
 ---
 title: "Votre Marché"
 url: /lile-dolonne/votre-marche/
-shop: Lebensmittel
+shop: commodité
 ---

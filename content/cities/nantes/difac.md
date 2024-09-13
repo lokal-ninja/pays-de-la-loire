@@ -1,5 +1,5 @@
 ---
 title: "Difac"
 url: /nantes/difac/
-shop: Autoteile
+shop: pièces de voitures
 ---

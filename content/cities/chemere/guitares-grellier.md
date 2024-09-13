@@ -1,5 +1,5 @@
 ---
 title: "Guitares Grellier"
 url: /chemere/guitares-grellier/
-shop: Instrumente
+shop: instrument de musique
 ---

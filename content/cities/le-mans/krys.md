@@ -1,5 +1,5 @@
 ---
 title: "Krys"
 url: /le-mans/krys/
-shop: Optiker
+shop: opticien
 ---

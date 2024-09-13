@@ -1,5 +1,5 @@
 ---
 title: "Chorus"
 url: /les-sables-dolonne/chorus/
-shop: Kleidung
+shop: vêtements
 ---

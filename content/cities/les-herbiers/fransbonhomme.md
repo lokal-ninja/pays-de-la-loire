@@ -1,5 +1,5 @@
 ---
 title: "Fransbonhomme"
 url: /les-herbiers/fransbonhomme/
-shop: Allgemein
+shop: shop
 ---

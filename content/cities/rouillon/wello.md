@@ -1,5 +1,5 @@
 ---
 title: "Wello"
 url: /rouillon/wello/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /saint-nicolas-de-redon/decathlon/
-shop: Sport
+shop: sports
 ---

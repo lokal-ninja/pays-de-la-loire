@@ -1,5 +1,5 @@
 ---
 title: "Carrefour Contact"
 url: /sainte-luce-sur-loire/carrefour-contact/
-shop: Supermarkt
+shop: supermarché
 ---

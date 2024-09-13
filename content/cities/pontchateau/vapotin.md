@@ -1,5 +1,5 @@
 ---
 title: "Vapot'In"
 url: /pontchateau/vapotin/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

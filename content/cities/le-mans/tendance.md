@@ -1,5 +1,5 @@
 ---
 title: "Tendance"
 url: /le-mans/tendance/
-shop: Kleidung
+shop: vêtements
 ---

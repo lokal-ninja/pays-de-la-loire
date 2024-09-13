@@ -1,5 +1,5 @@
 ---
 title: "Le Mans Mobile"
 url: /le-mans/le-mans-mobile/
-shop: Handy
+shop: téléphone portable
 ---

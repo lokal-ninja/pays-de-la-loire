@@ -1,5 +1,5 @@
 ---
 title: "Jennyfer"
 url: /beaucouze/jennyfer/
-shop: Kleidung
+shop: vêtements
 ---

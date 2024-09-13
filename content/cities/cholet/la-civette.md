@@ -1,5 +1,5 @@
 ---
 title: "La Civette"
 url: /cholet/la-civette/
-shop: Zeitungen
+shop: marchand de journaux
 ---

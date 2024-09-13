@@ -1,5 +1,5 @@
 ---
 title: "Centre Feu Vert Nantes Paridis"
 url: /nantes/centre-feu-vert-nantes-paridis/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

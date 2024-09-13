@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /challans/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

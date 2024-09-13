@@ -1,5 +1,5 @@
 ---
 title: "La Cave Nature"
 url: /pornic/la-cave-nature/
-shop: Wein
+shop: vin
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bistro du Cours"
 url: /nantes/bistro-du-cours/
-shop: Zeitungen
+shop: marchand de journaux
 ---

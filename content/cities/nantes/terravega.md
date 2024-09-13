@@ -1,5 +1,5 @@
 ---
 title: "TerraVega"
 url: /nantes/terravega/
-shop: Bücher
+shop: livres
 ---

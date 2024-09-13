@@ -1,5 +1,5 @@
 ---
 title: "Easy Clic"
 url: /la-ferte-bernard/easy-clic/
-shop: Computer
+shop: ordinateur
 ---

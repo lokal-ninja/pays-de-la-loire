@@ -1,5 +1,5 @@
 ---
 title: "Memoria"
 url: /nantes/memoria/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

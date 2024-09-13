@@ -1,5 +1,5 @@
 ---
 title: "Renault Garage de la Butte"
 url: /bouloire/renault-garage-de-la-butte/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

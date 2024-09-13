@@ -1,5 +1,5 @@
 ---
 title: "Pierre et Parquet"
 url: /beaucouze/pierre-et-parquet/
-shop: Allgemein
+shop: shop
 ---

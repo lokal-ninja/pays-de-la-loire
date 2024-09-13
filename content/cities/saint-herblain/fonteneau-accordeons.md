@@ -1,5 +1,5 @@
 ---
 title: "Fonteneau Accordéons"
 url: /saint-herblain/fonteneau-accordeons/
-shop: Instrumente
+shop: instrument de musique
 ---

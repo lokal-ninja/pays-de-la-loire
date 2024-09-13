@@ -1,5 +1,5 @@
 ---
 title: "Garage Peugeot"
 url: /les-hauts-danjou/garage-peugeot/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

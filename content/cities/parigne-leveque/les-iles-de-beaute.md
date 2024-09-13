@@ -1,5 +1,5 @@
 ---
 title: "Les îles de Beauté"
 url: /parigne-leveque/les-iles-de-beaute/
-shop: Kosmetik
+shop: beauté
 ---

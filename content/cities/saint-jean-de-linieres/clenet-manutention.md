@@ -1,5 +1,5 @@
 ---
 title: "Clenet Manutention"
 url: /saint-jean-de-linieres/clenet-manutention/
-shop: Landwirtschaftlich
+shop: agraire
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mille stocks"
 url: /les-herbiers/mille-stocks/
-shop: Kramladen
+shop: magasin de variétés
 ---

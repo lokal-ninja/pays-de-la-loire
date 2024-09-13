@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /montaigu/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

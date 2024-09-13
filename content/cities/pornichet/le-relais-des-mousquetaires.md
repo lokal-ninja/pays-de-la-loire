@@ -1,5 +1,5 @@
 ---
 title: "Le Relais des Mousquetaires"
 url: /pornichet/le-relais-des-mousquetaires/
-shop: Lebensmittel
+shop: commodité
 ---

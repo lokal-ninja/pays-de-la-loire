@@ -1,5 +1,5 @@
 ---
 title: "Coëvrons Automobiles"
 url: /evron/coevrons-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

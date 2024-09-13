@@ -1,5 +1,5 @@
 ---
 title: "Hair Marin"
 url: /saint-molf/hair-marin/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Speedy"
 url: /angers/speedy/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

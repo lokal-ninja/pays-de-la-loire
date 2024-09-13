@@ -1,5 +1,5 @@
 ---
 title: "Écomiam"
 url: /guerande/ecomiam/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Kris"
 url: /reze/kris/
-shop: Optiker
+shop: opticien
 ---

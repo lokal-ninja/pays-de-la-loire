@@ -1,5 +1,5 @@
 ---
 title: "HBP Automobiles"
 url: /les-brouzils/hbp-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

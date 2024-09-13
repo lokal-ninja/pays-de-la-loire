@@ -1,5 +1,5 @@
 ---
 title: "Maison Mahé"
 url: /guecelard/maison-mahe/
-shop: Bäckerei
+shop: boulangerie
 ---

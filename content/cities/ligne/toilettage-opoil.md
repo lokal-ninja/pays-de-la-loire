@@ -1,5 +1,5 @@
 ---
 title: "Toilettage O'Poil"
 url: /ligne/toilettage-opoil/
-shop: Tiersalon
+shop: toilettage des animaux
 ---

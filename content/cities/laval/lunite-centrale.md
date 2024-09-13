@@ -1,5 +1,5 @@
 ---
 title: "L'Unité Centrale"
 url: /laval/lunite-centrale/
-shop: Computer
+shop: ordinateur
 ---

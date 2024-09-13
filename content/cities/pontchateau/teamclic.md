@@ -1,5 +1,5 @@
 ---
 title: "TeamClic"
 url: /pontchateau/teamclic/
-shop: Computer
+shop: ordinateur
 ---

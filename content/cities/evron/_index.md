@@ -1,6 +1,6 @@
 ---
-title: Evron
+title: Évron
 url: /evron/
 latitude: 48.156
-longitude: -0.404
+longitude: -0.402
 ---

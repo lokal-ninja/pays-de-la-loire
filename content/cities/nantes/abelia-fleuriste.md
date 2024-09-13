@@ -1,5 +1,5 @@
 ---
 title: "Abélia Fleuriste"
 url: /nantes/abelia-fleuriste/
-shop: Blumen
+shop: fleuriste
 ---

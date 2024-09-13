@@ -1,5 +1,5 @@
 ---
 title: "Blackstore"
 url: /cholet/blackstore/
-shop: Kleidung
+shop: vêtements
 ---

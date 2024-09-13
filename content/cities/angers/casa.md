@@ -1,5 +1,5 @@
 ---
 title: "Casa"
 url: /angers/casa/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

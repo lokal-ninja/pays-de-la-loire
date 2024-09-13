@@ -1,5 +1,5 @@
 ---
 title: "Arrêt sur image"
 url: /nort-sur-erdre/arret-sur-image/
-shop: Friseur
+shop: coiffeur
 ---

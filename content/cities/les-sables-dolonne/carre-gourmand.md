@@ -1,5 +1,5 @@
 ---
 title: "Carré Gourmand"
 url: /les-sables-dolonne/carre-gourmand/
-shop: Schokolade
+shop: chocolat
 ---

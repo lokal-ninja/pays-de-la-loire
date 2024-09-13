@@ -1,5 +1,5 @@
 ---
 title: "Biosfaire"
 url: /beaucouze/biosfaire/
-shop: Farben
+shop: peinture
 ---

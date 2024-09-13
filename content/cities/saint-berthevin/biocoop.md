@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /saint-berthevin/biocoop/
-shop: Supermarkt
+shop: supermarché
 ---

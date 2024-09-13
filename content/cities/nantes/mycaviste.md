@@ -1,5 +1,5 @@
 ---
 title: "mycaviste"
 url: /nantes/mycaviste/
-shop: Außenstelle
+shop: avant-poste
 ---

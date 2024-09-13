@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie - Pâtisserie Hiron"
 url: /la-gueriniere/boulangerie-patisserie-hiron/
-shop: Bäckerei
+shop: boulangerie
 ---

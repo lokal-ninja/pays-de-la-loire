@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /nort-sur-erdre/atol/
-shop: Optiker
+shop: opticien
 ---

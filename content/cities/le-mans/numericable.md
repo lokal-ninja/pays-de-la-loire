@@ -1,5 +1,5 @@
 ---
 title: "Numéricâble"
 url: /le-mans/numericable/
-shop: Handy
+shop: téléphone portable
 ---

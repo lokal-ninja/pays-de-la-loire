@@ -1,5 +1,5 @@
 ---
 title: "Garage Fourny"
 url: /avrille/garage-fourny/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

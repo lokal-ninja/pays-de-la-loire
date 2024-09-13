@@ -1,5 +1,5 @@
 ---
 title: "Angelo cave"
 url: /la-suze-sur-sarthe/angelo-cave/
-shop: Spirituosen
+shop: alcool
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Comptoir Irlandais"
 url: /le-mans/le-comptoir-irlandais/
-shop: Kleidung
+shop: vêtements
 ---

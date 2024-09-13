@@ -1,5 +1,5 @@
 ---
 title: "Bézier Vincent"
 url: /sautron/bezier-vincent/
-shop: Fisch
+shop: fruits de mer
 ---

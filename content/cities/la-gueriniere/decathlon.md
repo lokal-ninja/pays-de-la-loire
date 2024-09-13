@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /la-gueriniere/decathlon/
-shop: Sport
+shop: sports
 ---

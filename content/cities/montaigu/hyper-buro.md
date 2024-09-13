@@ -1,5 +1,5 @@
 ---
 title: "Hyper Buro"
 url: /montaigu/hyper-buro/
-shop: Schreibwaren
+shop: fournitures de bureau
 ---

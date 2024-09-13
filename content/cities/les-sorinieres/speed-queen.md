@@ -1,5 +1,5 @@
 ---
 title: "Speed Queen"
 url: /les-sorinieres/speed-queen/
-shop: Wäscherei
+shop: blanchisserie
 ---

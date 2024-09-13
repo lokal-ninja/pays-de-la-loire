@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Pâtisserie Thibaud"
 url: /saint-jean-de-monts/boulangerie-patisserie-thibaud/
-shop: Bäckerei
+shop: boulangerie
 ---

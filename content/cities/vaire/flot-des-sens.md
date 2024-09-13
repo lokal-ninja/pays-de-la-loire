@@ -1,5 +1,5 @@
 ---
 title: "Flot des Sens"
 url: /vaire/flot-des-sens/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /cholet/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

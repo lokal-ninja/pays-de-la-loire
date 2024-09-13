@@ -1,5 +1,5 @@
 ---
 title: "Garage Gazeau"
 url: /denee/garage-gazeau/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

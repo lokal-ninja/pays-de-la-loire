@@ -1,5 +1,5 @@
 ---
 title: "Le Saint-Mihiel"
 url: /nantes/le-saint-mihiel/
-shop: Zeitungen
+shop: marchand de journaux
 ---

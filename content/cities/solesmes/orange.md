@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /solesmes/orange/
-shop: Handy
+shop: téléphone portable
 ---

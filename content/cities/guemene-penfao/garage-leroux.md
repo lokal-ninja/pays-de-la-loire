@@ -1,5 +1,5 @@
 ---
 title: "Garage Leroux"
 url: /guemene-penfao/garage-leroux/
-shop: Autohaus
+shop: voiture
 ---

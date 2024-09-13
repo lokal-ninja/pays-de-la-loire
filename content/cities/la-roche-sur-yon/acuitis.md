@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
 url: /la-roche-sur-yon/acuitis/
-shop: Optiker
+shop: opticien
 ---

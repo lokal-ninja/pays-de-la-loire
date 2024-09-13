@@ -1,5 +1,5 @@
 ---
 title: "Michaud JJH"
 url: /chemere/michaud-jjh/
-shop: Schlüsseldienst
+shop: serrurier
 ---

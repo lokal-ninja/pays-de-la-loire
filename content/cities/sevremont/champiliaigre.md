@@ -1,5 +1,5 @@
 ---
 title: "Champiliaigre"
 url: /sevremont/champiliaigre/
-shop: Bioladen
+shop: alimentation saine
 ---

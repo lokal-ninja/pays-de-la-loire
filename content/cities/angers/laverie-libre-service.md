@@ -1,5 +1,5 @@
 ---
 title: "Laverie Libre Service"
 url: /angers/laverie-libre-service/
-shop: Wäscherei
+shop: blanchisserie
 ---

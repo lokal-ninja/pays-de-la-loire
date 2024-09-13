@@ -1,5 +1,5 @@
 ---
 title: "Biscuiterie Le Phare"
 url: /batz-sur-mer/biscuiterie-le-phare/
-shop: Konditorei
+shop: pâtisserie
 ---

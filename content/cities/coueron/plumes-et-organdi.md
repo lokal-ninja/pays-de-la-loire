@@ -1,5 +1,5 @@
 ---
 title: "Plumes et Organdi"
 url: /coueron/plumes-et-organdi/
-shop: Kleidung
+shop: vêtements
 ---

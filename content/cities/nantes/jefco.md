@@ -1,5 +1,5 @@
 ---
 title: "Jefco"
 url: /nantes/jefco/
-shop: Farben
+shop: peinture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Quaterback"
 url: /saint-herblain/quaterback/
-shop: Kleidung
+shop: vêtements
 ---

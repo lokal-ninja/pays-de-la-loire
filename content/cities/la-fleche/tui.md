@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /la-fleche/tui/
-shop: Reisebüro
+shop: agence de voyage
 ---

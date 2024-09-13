@@ -1,5 +1,5 @@
 ---
 title: "Bricorama"
 url: /sable-sur-sarthe/bricorama/
-shop: Baumarkt
+shop: à faire soi-même
 ---

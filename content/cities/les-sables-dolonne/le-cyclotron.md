@@ -1,5 +1,5 @@
 ---
 title: "Le Cyclotron"
 url: /les-sables-dolonne/le-cyclotron/
-shop: Mieten
+shop: location de stockage
 ---

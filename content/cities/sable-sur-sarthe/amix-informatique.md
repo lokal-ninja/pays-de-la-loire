@@ -1,5 +1,5 @@
 ---
 title: "Amix Informatique"
 url: /sable-sur-sarthe/amix-informatique/
-shop: Computer
+shop: ordinateur
 ---

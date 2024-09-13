@@ -1,5 +1,5 @@
 ---
 title: "Lexus"
 url: /saint-herblain/lexus/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Aden"
 url: /nantes/aden/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

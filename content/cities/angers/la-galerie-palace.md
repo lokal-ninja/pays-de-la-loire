@@ -1,5 +1,5 @@
 ---
 title: "La Galerie Palace"
 url: /angers/la-galerie-palace/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

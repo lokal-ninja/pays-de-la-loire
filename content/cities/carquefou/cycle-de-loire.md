@@ -1,5 +1,5 @@
 ---
 title: "Cycle de Loire"
 url: /carquefou/cycle-de-loire/
-shop: Fahrrad
+shop: vélo
 ---

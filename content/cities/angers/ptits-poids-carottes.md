@@ -1,5 +1,5 @@
 ---
 title: "P'tits poids carottes"
 url: /angers/ptits-poids-carottes/
-shop: Lebensmittel
+shop: commodité
 ---

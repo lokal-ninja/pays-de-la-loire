@@ -1,5 +1,5 @@
 ---
 title: "Irrijardin"
 url: /guerande/irrijardin/
-shop: Pool
+shop: piscine
 ---

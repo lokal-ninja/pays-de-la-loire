@@ -1,5 +1,5 @@
 ---
 title: "Amplifon solutions auditives"
 url: /le-mans/amplifon-solutions-auditives/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

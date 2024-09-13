@@ -1,5 +1,5 @@
 ---
 title: "Ferme de Sergonne"
 url: /frossay/ferme-de-sergonne/
-shop: Hofladen
+shop: ferme
 ---

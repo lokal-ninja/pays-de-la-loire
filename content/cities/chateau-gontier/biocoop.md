@@ -1,5 +1,5 @@
 ---
 title: "Biocoop"
 url: /chateau-gontier/biocoop/
-shop: Lebensmittel
+shop: commodité
 ---

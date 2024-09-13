@@ -1,5 +1,5 @@
 ---
 title: "OMA"
 url: /ligne/oma/
-shop: Allgemein
+shop: shop
 ---

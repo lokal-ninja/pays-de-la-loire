@@ -1,5 +1,5 @@
 ---
 title: "Les savons de Raphaël"
 url: /mayenne/les-savons-de-raphael/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Automobile Immaculée"
 url: /saint-nazaire/garage-automobile-immaculee/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

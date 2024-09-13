@@ -1,5 +1,5 @@
 ---
 title: "Carter-Cash"
 url: /beaucouze/carter-cash/
-shop: Autoteile
+shop: pièces de voitures
 ---

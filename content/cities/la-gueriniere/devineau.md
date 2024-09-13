@@ -1,5 +1,5 @@
 ---
 title: "Devineau"
 url: /la-gueriniere/devineau/
-shop: Fisch
+shop: fruits de mer
 ---

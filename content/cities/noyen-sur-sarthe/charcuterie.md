@@ -1,5 +1,5 @@
 ---
 title: "Charcuterie"
 url: /noyen-sur-sarthe/charcuterie/
-shop: Metzgerei
+shop: boucherie
 ---

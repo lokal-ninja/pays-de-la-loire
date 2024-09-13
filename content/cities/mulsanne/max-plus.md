@@ -1,5 +1,5 @@
 ---
 title: "Max Plus"
 url: /mulsanne/max-plus/
-shop: Kramladen
+shop: magasin de variétés
 ---

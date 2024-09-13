@@ -1,5 +1,5 @@
 ---
 title: "Garage Naulleau"
 url: /ligne/garage-naulleau/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

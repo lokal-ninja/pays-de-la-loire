@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Gemy"
 url: /les-ponts-de-ce/peugeot-gemy/
-shop: Autohaus
+shop: voiture
 ---

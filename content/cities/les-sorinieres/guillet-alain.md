@@ -1,5 +1,5 @@
 ---
 title: "Guillet Alain"
 url: /les-sorinieres/guillet-alain/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

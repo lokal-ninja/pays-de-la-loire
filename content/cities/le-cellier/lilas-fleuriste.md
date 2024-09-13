@@ -1,5 +1,5 @@
 ---
 title: "Lilas Fleuriste"
 url: /le-cellier/lilas-fleuriste/
-shop: Blumen
+shop: fleuriste
 ---

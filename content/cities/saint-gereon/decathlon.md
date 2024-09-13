@@ -1,5 +1,5 @@
 ---
 title: "Decathlon"
 url: /saint-gereon/decathlon/
-shop: Sport
+shop: sports
 ---

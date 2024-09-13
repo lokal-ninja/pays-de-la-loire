@@ -1,5 +1,5 @@
 ---
 title: "MS Mode"
 url: /cholet/ms-mode/
-shop: Kleidung
+shop: vêtements
 ---

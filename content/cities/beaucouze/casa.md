@@ -1,5 +1,5 @@
 ---
-title: "Casa"
+title: "CASA"
 url: /beaucouze/casa/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

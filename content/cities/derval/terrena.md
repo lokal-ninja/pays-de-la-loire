@@ -1,5 +1,5 @@
 ---
 title: "Terrena"
 url: /derval/terrena/
-shop: Garten-Center
+shop: centre de jardinage
 ---

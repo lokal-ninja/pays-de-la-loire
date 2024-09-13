@@ -1,5 +1,5 @@
 ---
 title: "Promod"
 url: /saint-herblain/promod/
-shop: Kleidung
+shop: vêtements
 ---

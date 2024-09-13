@@ -1,5 +1,5 @@
 ---
 title: "Le Pasteur"
 url: /nantes/le-pasteur/
-shop: Zeitungen
+shop: marchand de journaux
 ---

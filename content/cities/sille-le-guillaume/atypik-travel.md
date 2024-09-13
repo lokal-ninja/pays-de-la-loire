@@ -1,5 +1,5 @@
 ---
 title: "Atypik-Travel"
 url: /sille-le-guillaume/atypik-travel/
-shop: Reisebüro
+shop: agence de voyage
 ---

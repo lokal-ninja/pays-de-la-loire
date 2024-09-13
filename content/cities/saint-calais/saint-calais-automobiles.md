@@ -1,5 +1,5 @@
 ---
 title: "Saint Calais Automobiles"
 url: /saint-calais/saint-calais-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Voyages Robin"
 url: /sable-sur-sarthe/voyages-robin/
-shop: Reisebüro
+shop: agence de voyage
 ---

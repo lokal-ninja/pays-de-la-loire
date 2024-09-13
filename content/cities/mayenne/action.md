@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /mayenne/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

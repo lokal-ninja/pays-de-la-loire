@@ -1,5 +1,5 @@
 ---
 title: "Audilab"
 url: /sable-sur-sarthe/audilab/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

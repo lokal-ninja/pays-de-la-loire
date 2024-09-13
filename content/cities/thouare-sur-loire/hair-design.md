@@ -1,5 +1,5 @@
 ---
 title: "Hair Design"
 url: /thouare-sur-loire/hair-design/
-shop: Friseur
+shop: coiffeur
 ---

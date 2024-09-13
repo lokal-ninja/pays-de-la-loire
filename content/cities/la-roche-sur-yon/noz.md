@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /la-roche-sur-yon/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

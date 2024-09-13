@@ -1,5 +1,5 @@
 ---
 title: "Electro Dépôt"
 url: /orvault/electro-depot/
-shop: Elektronik
+shop: électronique
 ---

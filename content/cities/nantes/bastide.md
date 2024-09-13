@@ -1,5 +1,5 @@
 ---
 title: "Bastide"
 url: /nantes/bastide/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

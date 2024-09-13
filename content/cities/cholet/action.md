@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /cholet/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

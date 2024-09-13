@@ -1,5 +1,5 @@
 ---
 title: "La Cavannaise"
 url: /sainte-pazanne/la-cavannaise/
-shop: Feinkost
+shop: charcuterie
 ---

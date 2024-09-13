@@ -1,5 +1,5 @@
 ---
 title: "Miss en scène"
 url: /saint-molf/miss-en-scene/
-shop: Möbel
+shop: meubles
 ---

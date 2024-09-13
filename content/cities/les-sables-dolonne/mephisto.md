@@ -1,5 +1,5 @@
 ---
 title: "Mephisto"
 url: /les-sables-dolonne/mephisto/
-shop: Schuhe
+shop: chaussures
 ---

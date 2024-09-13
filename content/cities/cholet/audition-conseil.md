@@ -1,5 +1,5 @@
 ---
 title: "Audition Conseil"
 url: /cholet/audition-conseil/
-shop: Hörgeräte
+shop: les appareils auditifs
 ---

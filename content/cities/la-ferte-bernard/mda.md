@@ -1,5 +1,5 @@
 ---
 title: "MDA"
 url: /la-ferte-bernard/mda/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

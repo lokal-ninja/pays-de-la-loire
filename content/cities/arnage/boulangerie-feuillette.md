@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Feuillette"
 url: /arnage/boulangerie-feuillette/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "La Gitane"
 url: /pouzauges/la-gitane/
-shop: Tabak
+shop: tabac
 ---

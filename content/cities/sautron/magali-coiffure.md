@@ -1,5 +1,5 @@
 ---
 title: "Magali Coiffure"
 url: /sautron/magali-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

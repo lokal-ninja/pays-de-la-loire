@@ -1,5 +1,5 @@
 ---
 title: "La Fée Maraboutée"
 url: /le-mans/la-fee-maraboutee/
-shop: Kleidung
+shop: vêtements
 ---

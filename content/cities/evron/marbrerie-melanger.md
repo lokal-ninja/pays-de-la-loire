@@ -1,5 +1,5 @@
 ---
 title: "Marbrerie Mélanger"
 url: /evron/marbrerie-melanger/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

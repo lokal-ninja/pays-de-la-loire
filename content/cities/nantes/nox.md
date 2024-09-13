@@ -1,5 +1,5 @@
 ---
 title: "Nox"
 url: /nantes/nox/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

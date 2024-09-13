@@ -1,5 +1,5 @@
 ---
 title: "auvapoteur.com"
 url: /reze/auvapoteur-com/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Mill’Idées"
 url: /lys-haut-layon/millidees/
-shop: Baumarkt
+shop: à faire soi-même
 ---

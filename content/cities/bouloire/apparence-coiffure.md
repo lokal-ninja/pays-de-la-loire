@@ -1,5 +1,5 @@
 ---
 title: "Apparence Coiffure"
 url: /bouloire/apparence-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

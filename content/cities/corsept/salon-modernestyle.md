@@ -1,5 +1,5 @@
 ---
 title: "Salon Moderne'style"
 url: /corsept/salon-modernestyle/
-shop: Friseur
+shop: coiffeur
 ---

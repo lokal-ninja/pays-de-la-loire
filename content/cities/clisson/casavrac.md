@@ -1,5 +1,5 @@
 ---
 title: "CasaVrac"
 url: /clisson/casavrac/
-shop: Lebensmittel
+shop: commodité
 ---

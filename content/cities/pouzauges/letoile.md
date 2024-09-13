@@ -1,5 +1,5 @@
 ---
 title: "L'Etoile"
 url: /pouzauges/letoile/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

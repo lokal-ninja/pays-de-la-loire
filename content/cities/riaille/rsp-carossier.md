@@ -1,5 +1,5 @@
 ---
 title: "RSP - Carossier"
 url: /riaille/rsp-carossier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

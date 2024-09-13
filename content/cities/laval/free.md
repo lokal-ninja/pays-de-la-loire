@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /laval/free/
-shop: Handy
+shop: téléphone portable
 ---

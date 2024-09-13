@@ -1,5 +1,5 @@
 ---
 title: "Top Garage"
 url: /reze/top-garage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

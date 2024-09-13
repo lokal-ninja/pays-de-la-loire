@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /reze/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

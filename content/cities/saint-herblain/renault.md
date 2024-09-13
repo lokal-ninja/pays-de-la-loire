@@ -1,5 +1,5 @@
 ---
 title: "Renault"
 url: /saint-herblain/renault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

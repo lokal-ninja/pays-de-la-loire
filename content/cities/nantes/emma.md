@@ -1,5 +1,5 @@
 ---
 title: "Emma"
 url: /nantes/emma/
-shop: Bäckerei
+shop: boulangerie
 ---

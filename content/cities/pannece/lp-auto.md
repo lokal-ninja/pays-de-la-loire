@@ -1,5 +1,5 @@
 ---
 title: "LP Auto"
 url: /pannece/lp-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

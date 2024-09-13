@@ -1,5 +1,5 @@
 ---
 title: "Yves Rocher"
 url: /saint-herblain/yves-rocher/
-shop: Kosmetik
+shop: beauté
 ---

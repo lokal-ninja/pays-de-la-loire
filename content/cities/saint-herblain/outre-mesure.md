@@ -1,5 +1,5 @@
 ---
 title: "Outre Mesure"
 url: /saint-herblain/outre-mesure/
-shop: Schuhe
+shop: chaussures
 ---

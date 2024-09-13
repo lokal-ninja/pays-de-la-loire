@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /saint-herblain/lapeyre/
-shop: Baumarkt
+shop: à faire soi-même
 ---

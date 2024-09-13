@@ -1,5 +1,5 @@
 ---
 title: "Chocolaterie Bellanger"
 url: /le-mans/chocolaterie-bellanger/
-shop: Schokolade
+shop: chocolat
 ---

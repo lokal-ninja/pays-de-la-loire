@@ -1,5 +1,5 @@
 ---
 title: "Tabac Presse"
 url: /orvault/tabac-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

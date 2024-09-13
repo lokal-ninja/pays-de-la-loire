@@ -1,5 +1,5 @@
 ---
 title: "Firmin"
 url: /guerande/firmin/
-shop: Bäckerei
+shop: boulangerie
 ---

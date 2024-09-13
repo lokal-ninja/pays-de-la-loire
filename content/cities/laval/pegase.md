@@ -1,5 +1,5 @@
 ---
 title: "Pégase"
 url: /laval/pegase/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

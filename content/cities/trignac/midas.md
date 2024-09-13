@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /trignac/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Paris-Pornic Pâtisserie"
 url: /pornic/paris-pornic-patisserie/
-shop: Konditorei
+shop: pâtisserie
 ---

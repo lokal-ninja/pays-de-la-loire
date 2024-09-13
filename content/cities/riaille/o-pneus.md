@@ -1,5 +1,5 @@
 ---
 title: "O' Pneus"
 url: /riaille/o-pneus/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

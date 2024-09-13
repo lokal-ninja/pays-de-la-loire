@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /les-sables-dolonne/lissac/
-shop: Optiker
+shop: opticien
 ---

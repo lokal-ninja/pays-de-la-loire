@@ -1,5 +1,5 @@
 ---
 title: "claire's"
 url: /cholet/claires/
-shop: Modehaus
+shop: boutique
 ---

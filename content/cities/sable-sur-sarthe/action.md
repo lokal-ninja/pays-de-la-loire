@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /sable-sur-sarthe/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

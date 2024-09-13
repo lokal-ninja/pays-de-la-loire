@@ -1,5 +1,5 @@
 ---
 title: "Mr.Bricolage"
 url: /saint-jean-de-monts/mr-bricolage/
-shop: Baumarkt
+shop: à faire soi-même
 ---

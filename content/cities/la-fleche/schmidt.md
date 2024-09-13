@@ -1,5 +1,5 @@
 ---
 title: "Schmidt"
 url: /la-fleche/schmidt/
-shop: Küchen
+shop: cuisine
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bidule"
 url: /jupilles/bidule/
-shop: Andenken
+shop: cadeau
 ---

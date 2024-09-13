@@ -1,5 +1,5 @@
 ---
 title: "L'Escapade"
 url: /ruaudin/lescapade/
-shop: Zeitungen
+shop: marchand de journaux
 ---

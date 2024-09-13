@@ -1,5 +1,5 @@
 ---
 title: "La Parenthèse"
 url: /roeze-sur-sarthe/la-parenthese/
-shop: Zeitungen
+shop: marchand de journaux
 ---

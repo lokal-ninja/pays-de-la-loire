@@ -1,5 +1,5 @@
 ---
 title: "Garage Renault Coipeault"
 url: /change/garage-renault-coipeault/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Dispano Nantes"
 url: /nantes/dispano-nantes/
-shop: Baustoffe
+shop: commerce
 ---

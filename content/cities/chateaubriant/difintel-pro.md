@@ -1,5 +1,5 @@
 ---
 title: "Difintel PRO"
 url: /chateaubriant/difintel-pro/
-shop: Computer
+shop: ordinateur
 ---

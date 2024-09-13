@@ -1,5 +1,5 @@
 ---
 title: "Garage Colin"
 url: /rouans/garage-colin/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

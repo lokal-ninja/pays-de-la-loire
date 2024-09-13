@@ -1,5 +1,5 @@
 ---
 title: "mécano"
 url: /la-remaudiere/mecano/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Garage Orillard"
 url: /derval/garage-orillard/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

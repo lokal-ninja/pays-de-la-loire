@@ -1,5 +1,5 @@
 ---
 title: "La cave"
 url: /cholet/la-cave/
-shop: Wein
+shop: vin
 ---

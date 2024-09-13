@@ -1,5 +1,5 @@
 ---
 title: "Havas Voyages"
 url: /cholet/havas-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

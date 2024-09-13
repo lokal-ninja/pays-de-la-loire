@@ -1,5 +1,5 @@
 ---
 title: "Emmanuel Manceau"
 url: /le-croisic/emmanuel-manceau/
-shop: Bäckerei
+shop: boulangerie
 ---

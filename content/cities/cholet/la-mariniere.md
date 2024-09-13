@@ -1,5 +1,5 @@
 ---
 title: "La Marinière"
 url: /cholet/la-mariniere/
-shop: Fisch
+shop: fruits de mer
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /solesmes/atol/
-shop: Optiker
+shop: opticien
 ---

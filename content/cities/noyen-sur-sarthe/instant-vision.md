@@ -1,5 +1,5 @@
 ---
 title: "Instant Vision"
 url: /noyen-sur-sarthe/instant-vision/
-shop: Optiker
+shop: opticien
 ---

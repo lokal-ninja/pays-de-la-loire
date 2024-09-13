@@ -1,5 +1,5 @@
 ---
 title: "Tchip Coiffure"
 url: /le-mans/tchip-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

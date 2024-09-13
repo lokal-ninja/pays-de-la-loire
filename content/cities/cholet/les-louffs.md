@@ -1,5 +1,5 @@
 ---
 title: "Les Louff’s"
 url: /cholet/les-louffs/
-shop: Kleidung
+shop: vêtements
 ---

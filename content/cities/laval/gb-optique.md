@@ -1,5 +1,5 @@
 ---
 title: "GB optique"
 url: /laval/gb-optique/
-shop: Optiker
+shop: opticien
 ---

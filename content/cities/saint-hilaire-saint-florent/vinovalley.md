@@ -1,5 +1,5 @@
 ---
 title: "VinoValley"
 url: /saint-hilaire-saint-florent/vinovalley/
-shop: Wein
+shop: vin
 ---

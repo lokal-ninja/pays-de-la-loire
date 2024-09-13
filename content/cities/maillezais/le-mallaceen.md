@@ -1,5 +1,5 @@
 ---
 title: "Le Mallacéen"
 url: /maillezais/le-mallaceen/
-shop: Tabak
+shop: tabac
 ---

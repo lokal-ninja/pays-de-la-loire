@@ -1,5 +1,5 @@
 ---
 title: "Babylon"
 url: /le-mans/babylon/
-shop: Friseur
+shop: coiffeur
 ---

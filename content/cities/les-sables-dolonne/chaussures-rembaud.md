@@ -1,5 +1,5 @@
 ---
 title: "Chaussures Rembaud"
 url: /les-sables-dolonne/chaussures-rembaud/
-shop: Schuhe
+shop: chaussures
 ---

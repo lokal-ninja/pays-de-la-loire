@@ -1,5 +1,5 @@
 ---
 title: "Peugeot Motocycles"
 url: /la-fleche/peugeot-motocycles/
-shop: Motorrad
+shop: moto
 ---

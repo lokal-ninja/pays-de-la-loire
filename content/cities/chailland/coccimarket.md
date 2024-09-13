@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /chailland/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

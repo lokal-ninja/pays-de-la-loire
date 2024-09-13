@@ -1,5 +1,5 @@
 ---
 title: "Alliance Automobiles"
 url: /lherbergement/alliance-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

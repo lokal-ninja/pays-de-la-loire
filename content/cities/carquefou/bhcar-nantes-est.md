@@ -1,5 +1,5 @@
 ---
 title: "BHcar Nantes Est"
 url: /carquefou/bhcar-nantes-est/
-shop: Autohaus
+shop: voiture
 ---

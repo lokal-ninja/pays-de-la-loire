@@ -1,5 +1,5 @@
 ---
 title: "Carglass"
 url: /mayenne/carglass/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

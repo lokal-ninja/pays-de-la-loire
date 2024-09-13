@@ -1,5 +1,5 @@
 ---
 title: "Aux temps fleuris"
 url: /durtal/aux-temps-fleuris/
-shop: Blumen
+shop: fleuriste
 ---

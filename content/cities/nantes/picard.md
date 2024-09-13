@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /nantes/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

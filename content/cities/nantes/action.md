@@ -1,5 +1,5 @@
 ---
 title: "Action"
 url: /nantes/action/
-shop: Kramladen
+shop: magasin de variétés
 ---

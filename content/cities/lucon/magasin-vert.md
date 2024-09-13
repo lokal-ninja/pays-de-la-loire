@@ -1,5 +1,5 @@
 ---
 title: "Magasin Vert"
 url: /lucon/magasin-vert/
-shop: Garten-Center
+shop: centre de jardinage
 ---

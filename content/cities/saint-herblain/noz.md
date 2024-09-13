@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /saint-herblain/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

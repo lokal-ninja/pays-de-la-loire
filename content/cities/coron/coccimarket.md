@@ -1,5 +1,5 @@
 ---
 title: "CocciMarket"
 url: /coron/coccimarket/
-shop: Lebensmittel
+shop: commodité
 ---

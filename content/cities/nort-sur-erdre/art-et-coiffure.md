@@ -1,5 +1,5 @@
 ---
 title: "Art et Coiffure"
 url: /nort-sur-erdre/art-et-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

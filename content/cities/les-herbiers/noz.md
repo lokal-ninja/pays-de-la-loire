@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /les-herbiers/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Hyper U"
 url: /les-herbiers/hyper-u/
-shop: Supermarkt
+shop: supermarché
 ---

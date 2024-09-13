@@ -1,5 +1,5 @@
 ---
 title: "Oui clope !"
 url: /saint-herblain/oui-clope/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

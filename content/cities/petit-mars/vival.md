@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /petit-mars/vival/
-shop: Lebensmittel
+shop: commodité
 ---

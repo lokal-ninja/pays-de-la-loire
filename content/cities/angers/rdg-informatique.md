@@ -1,5 +1,5 @@
 ---
 title: "RDG Informatique"
 url: /angers/rdg-informatique/
-shop: Computer
+shop: ordinateur
 ---

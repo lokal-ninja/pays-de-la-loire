@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /orvault/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

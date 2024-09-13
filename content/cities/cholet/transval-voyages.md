@@ -1,5 +1,5 @@
 ---
 title: "Transval Voyages"
 url: /cholet/transval-voyages/
-shop: Reisebüro
+shop: agence de voyage
 ---

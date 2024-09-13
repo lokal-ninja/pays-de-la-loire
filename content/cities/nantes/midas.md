@@ -1,5 +1,5 @@
 ---
 title: "Midas"
 url: /nantes/midas/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

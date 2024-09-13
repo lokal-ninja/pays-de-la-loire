@@ -1,5 +1,5 @@
 ---
 title: "Le Lutetia"
 url: /nantes/le-lutetia/
-shop: Zeitungen
+shop: marchand de journaux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Coiffure Détente"
 url: /saint-viaud/coiffure-detente/
-shop: Friseur
+shop: coiffeur
 ---

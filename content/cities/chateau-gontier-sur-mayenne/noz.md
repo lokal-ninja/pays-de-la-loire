@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /chateau-gontier-sur-mayenne/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

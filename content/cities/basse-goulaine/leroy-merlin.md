@@ -1,5 +1,5 @@
 ---
 title: "Leroy Merlin"
 url: /basse-goulaine/leroy-merlin/
-shop: Baumarkt
+shop: à faire soi-même
 ---

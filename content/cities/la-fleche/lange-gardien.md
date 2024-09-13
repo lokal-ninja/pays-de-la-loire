@@ -1,5 +1,5 @@
 ---
 title: "L'ange Gardien"
 url: /la-fleche/lange-gardien/
-shop: Kleidung
+shop: vêtements
 ---

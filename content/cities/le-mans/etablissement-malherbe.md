@@ -1,5 +1,5 @@
 ---
 title: "Établissement Malherbe"
 url: /le-mans/etablissement-malherbe/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Prun'elle"
 url: /reze/prunelle/
-shop: Kleidung
+shop: vêtements
 ---

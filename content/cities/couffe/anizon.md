@@ -1,5 +1,5 @@
 ---
 title: "Anizon"
 url: /couffe/anizon/
-shop: Kramladen
+shop: magasin de variétés
 ---

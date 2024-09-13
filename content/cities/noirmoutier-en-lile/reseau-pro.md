@@ -1,5 +1,5 @@
 ---
 title: "Réseau Pro"
 url: /noirmoutier-en-lile/reseau-pro/
-shop: Baumarkt
+shop: à faire soi-même
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ciron DAF"
 url: /saint-saturnin/ciron-daf/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

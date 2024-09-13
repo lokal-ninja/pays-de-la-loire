@@ -1,5 +1,5 @@
 ---
 title: "L'Info"
 url: /le-mans/linfo/
-shop: Zeitungen
+shop: marchand de journaux
 ---

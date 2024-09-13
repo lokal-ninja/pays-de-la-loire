@@ -1,5 +1,5 @@
 ---
 title: "Lissac"
 url: /mayenne/lissac/
-shop: Optiker
+shop: opticien
 ---

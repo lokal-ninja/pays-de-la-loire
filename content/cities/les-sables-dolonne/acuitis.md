@@ -1,5 +1,5 @@
 ---
 title: "Acuitis"
 url: /les-sables-dolonne/acuitis/
-shop: Optiker
+shop: opticien
 ---

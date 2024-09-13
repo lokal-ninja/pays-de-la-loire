@@ -1,5 +1,5 @@
 ---
 title: "Kohler"
 url: /les-sables-dolonne/kohler/
-shop: Optiker
+shop: opticien
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Delien"
 url: /mesanger/delien/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

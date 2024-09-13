@@ -1,5 +1,5 @@
 ---
 title: "Roy Automobiles"
 url: /savenay/roy-automobiles/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

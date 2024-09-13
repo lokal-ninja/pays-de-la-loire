@@ -1,5 +1,5 @@
 ---
 title: "Carotel"
 url: /clisson/carotel/
-shop: Reisebüro
+shop: agence de voyage
 ---

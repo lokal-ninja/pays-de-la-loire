@@ -1,5 +1,5 @@
 ---
 title: "La Bouquinerie"
 url: /ingrandes-le-fresne-sur-loire/la-bouquinerie/
-shop: Bücher
+shop: livres
 ---

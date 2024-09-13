@@ -1,5 +1,5 @@
 ---
 title: "Tante Huguette"
 url: /les-sables-dolonne/tante-huguette/
-shop: Kleidung
+shop: vêtements
 ---

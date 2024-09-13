@@ -1,5 +1,5 @@
 ---
 title: "Besson Chaussures"
 url: /saint-berthevin/besson-chaussures/
-shop: Schuhe
+shop: chaussures
 ---

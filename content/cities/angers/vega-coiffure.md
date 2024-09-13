@@ -1,5 +1,5 @@
 ---
 title: "Véga Coiffure"
 url: /angers/vega-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

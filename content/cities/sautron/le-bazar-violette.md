@@ -1,5 +1,5 @@
 ---
 title: "Le Bazar Violette"
 url: /sautron/le-bazar-violette/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Acteo Coiffure"
 url: /angers/acteo-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

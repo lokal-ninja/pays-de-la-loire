@@ -1,5 +1,5 @@
 ---
 title: "Sablé Décor"
 url: /solesmes/sable-decor/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

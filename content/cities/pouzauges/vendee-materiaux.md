@@ -1,5 +1,5 @@
 ---
 title: "Vendée matériaux"
 url: /pouzauges/vendee-materiaux/
-shop: Baumarkt
+shop: à faire soi-même
 ---

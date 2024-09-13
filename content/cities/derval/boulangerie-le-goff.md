@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Le Goff"
 url: /derval/boulangerie-le-goff/
-shop: Bäckerei
+shop: boulangerie
 ---

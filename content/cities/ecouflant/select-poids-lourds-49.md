@@ -1,5 +1,5 @@
 ---
 title: "Select Poids Lourds 49"
 url: /ecouflant/select-poids-lourds-49/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

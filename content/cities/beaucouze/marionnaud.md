@@ -1,5 +1,5 @@
 ---
 title: "Marionnaud"
 url: /beaucouze/marionnaud/
-shop: Kosmetik
+shop: parfumerie
 ---

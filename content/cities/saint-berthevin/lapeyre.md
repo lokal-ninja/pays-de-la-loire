@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /saint-berthevin/lapeyre/
-shop: Baumarkt
+shop: à faire soi-même
 ---

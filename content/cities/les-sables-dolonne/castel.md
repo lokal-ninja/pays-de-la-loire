@@ -1,5 +1,5 @@
 ---
 title: "Castel"
 url: /les-sables-dolonne/castel/
-shop: Spirituosen
+shop: alcool
 ---

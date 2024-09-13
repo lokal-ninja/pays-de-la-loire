@@ -1,5 +1,5 @@
 ---
 title: "Mimoza"
 url: /le-mans/mimoza/
-shop: Konditorei
+shop: pâtisserie
 ---

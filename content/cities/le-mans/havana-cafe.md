@@ -1,5 +1,5 @@
 ---
 title: "Havana Café"
 url: /le-mans/havana-cafe/
-shop: Zeitungen
+shop: marchand de journaux
 ---

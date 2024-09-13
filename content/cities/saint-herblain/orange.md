@@ -1,5 +1,5 @@
 ---
 title: "Orange"
 url: /saint-herblain/orange/
-shop: Handy
+shop: téléphone portable
 ---

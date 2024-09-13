@@ -1,5 +1,5 @@
 ---
 title: "La Belle Îloise"
 url: /guerande/la-belle-iloise/
-shop: Fisch
+shop: fruits de mer
 ---

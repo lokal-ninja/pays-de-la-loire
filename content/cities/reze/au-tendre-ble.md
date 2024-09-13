@@ -1,5 +1,5 @@
 ---
 title: "Au Tendre Blé"
 url: /reze/au-tendre-ble/
-shop: Bäckerei
+shop: boulangerie
 ---

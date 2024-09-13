@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /orvault/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

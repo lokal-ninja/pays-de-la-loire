@@ -1,5 +1,5 @@
 ---
 title: "Antiquaire Jean Menu"
 url: /saint-calais/antiquaire-jean-menu/
-shop: Antiquitäten
+shop: antiquités
 ---

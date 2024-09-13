@@ -1,5 +1,5 @@
 ---
 title: "Chic Mode"
 url: /sable-sur-sarthe/chic-mode/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Promovacances"
 url: /pornichet/promovacances/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Le Vivier"
 url: /angers/le-vivier/
-shop: Fisch
+shop: fruits de mer
 ---

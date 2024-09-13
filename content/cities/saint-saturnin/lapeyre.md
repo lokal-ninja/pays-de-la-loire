@@ -1,5 +1,5 @@
 ---
 title: "Lapeyre"
 url: /saint-saturnin/lapeyre/
-shop: Baumarkt
+shop: à faire soi-même
 ---

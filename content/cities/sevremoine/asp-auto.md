@@ -1,5 +1,5 @@
 ---
 title: "ASP auto"
 url: /sevremoine/asp-auto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

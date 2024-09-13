@@ -1,5 +1,5 @@
 ---
 title: "La Chaumière"
 url: /yvre-leveque/la-chaumiere/
-shop: Zeitungen
+shop: marchand de journaux
 ---

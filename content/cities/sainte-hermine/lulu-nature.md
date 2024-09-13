@@ -1,5 +1,5 @@
 ---
 title: "Lulu Nature"
 url: /sainte-hermine/lulu-nature/
-shop: Babysachen
+shop: produits pour bébés
 ---

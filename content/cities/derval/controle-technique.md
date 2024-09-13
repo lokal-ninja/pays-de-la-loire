@@ -1,5 +1,5 @@
 ---
 title: "Contrôle technique"
 url: /derval/controle-technique/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

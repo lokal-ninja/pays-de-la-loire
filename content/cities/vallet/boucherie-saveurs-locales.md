@@ -1,5 +1,5 @@
 ---
 title: "Boucherie Saveurs Locales"
 url: /vallet/boucherie-saveurs-locales/
-shop: Metzgerei
+shop: boucherie
 ---

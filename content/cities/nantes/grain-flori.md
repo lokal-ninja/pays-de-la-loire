@@ -1,5 +1,5 @@
 ---
 title: "Grain Flori"
 url: /nantes/grain-flori/
-shop: Lebensmittel
+shop: commodité
 ---

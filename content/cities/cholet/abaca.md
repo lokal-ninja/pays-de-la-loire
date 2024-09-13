@@ -1,5 +1,5 @@
 ---
 title: "Abaca"
 url: /cholet/abaca/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

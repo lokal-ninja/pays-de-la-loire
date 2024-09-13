@@ -1,5 +1,5 @@
 ---
 title: "Mat presse"
 url: /laval/mat-presse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

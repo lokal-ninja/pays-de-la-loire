@@ -1,5 +1,5 @@
 ---
 title: "L'Oasis"
 url: /saint-mars-du-desert/loasis/
-shop: Zeitungen
+shop: marchand de journaux
 ---

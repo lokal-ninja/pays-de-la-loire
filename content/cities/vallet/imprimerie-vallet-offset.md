@@ -1,5 +1,5 @@
 ---
 title: "Imprimerie Vallet Offset"
 url: /vallet/imprimerie-vallet-offset/
-shop: Kopieren
+shop: copyshop
 ---

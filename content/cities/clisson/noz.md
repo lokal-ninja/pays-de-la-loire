@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /clisson/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

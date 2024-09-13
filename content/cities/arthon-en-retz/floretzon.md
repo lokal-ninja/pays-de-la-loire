@@ -1,5 +1,5 @@
 ---
 title: "Floretzon"
 url: /arthon-en-retz/floretzon/
-shop: Blumen
+shop: fleuriste
 ---

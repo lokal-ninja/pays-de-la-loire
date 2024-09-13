@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /severac/vival/
-shop: Lebensmittel
+shop: commodité
 ---

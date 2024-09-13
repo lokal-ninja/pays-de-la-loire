@@ -1,5 +1,5 @@
 ---
 title: "Free"
 url: /le-mans/free/
-shop: Handy
+shop: téléphone portable
 ---

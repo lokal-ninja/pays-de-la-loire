@@ -1,5 +1,5 @@
 ---
 title: "Huet Services"
 url: /evron/huet-services/
-shop: Autoteile
+shop: pièces de voitures
 ---

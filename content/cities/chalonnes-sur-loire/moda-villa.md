@@ -1,5 +1,5 @@
 ---
 title: "moda villa"
 url: /chalonnes-sur-loire/moda-villa/
-shop: Supermarkt
+shop: supermarché
 ---

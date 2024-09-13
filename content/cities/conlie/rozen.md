@@ -1,5 +1,5 @@
 ---
 title: "Rozen"
 url: /conlie/rozen/
-shop: Kleidung
+shop: vêtements
 ---

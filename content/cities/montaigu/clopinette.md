@@ -1,5 +1,5 @@
 ---
 title: "Clopinette"
 url: /montaigu/clopinette/
-shop: E-Zigaretten
+shop: e-cigarette
 ---

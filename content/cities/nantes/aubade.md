@@ -1,5 +1,5 @@
 ---
 title: "Aubade"
 url: /nantes/aubade/
-shop: Dorfladen
+shop: magasin de campagne
 ---

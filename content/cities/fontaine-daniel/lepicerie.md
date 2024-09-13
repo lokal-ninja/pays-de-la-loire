@@ -1,5 +1,5 @@
 ---
 title: "L'Epicerie"
 url: /fontaine-daniel/lepicerie/
-shop: Lebensmittel
+shop: commodité
 ---

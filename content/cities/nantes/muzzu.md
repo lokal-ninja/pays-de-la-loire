@@ -1,5 +1,5 @@
 ---
 title: "Muzzu"
 url: /nantes/muzzu/
-shop: Drogerie
+shop: chimiste
 ---

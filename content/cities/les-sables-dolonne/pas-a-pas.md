@@ -1,5 +1,5 @@
 ---
 title: "Pas à Pas"
 url: /les-sables-dolonne/pas-a-pas/
-shop: Schuhe
+shop: chaussures
 ---

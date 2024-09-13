@@ -1,5 +1,5 @@
 ---
 title: "Mondial Tissus"
 url: /angers/mondial-tissus/
-shop: Textil
+shop: tissu
 ---

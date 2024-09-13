@@ -1,5 +1,5 @@
 ---
 title: "SFR"
 url: /cholet/sfr/
-shop: Handy
+shop: téléphone portable
 ---

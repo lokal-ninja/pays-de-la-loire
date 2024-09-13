@@ -1,5 +1,5 @@
 ---
 title: "Marie-Christine Testard"
 url: /mesanger/marie-christine-testard/
-shop: Friseur
+shop: coiffeur
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tiflo Destock"
 url: /lys-haut-layon/tiflo-destock/
-shop: Kramladen
+shop: magasin de variétés
 ---

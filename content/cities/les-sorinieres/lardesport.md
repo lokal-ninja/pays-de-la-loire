@@ -1,5 +1,5 @@
 ---
 title: "Lardesport"
 url: /les-sorinieres/lardesport/
-shop: Sport
+shop: sports
 ---

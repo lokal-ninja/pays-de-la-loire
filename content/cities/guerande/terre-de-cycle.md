@@ -1,5 +1,5 @@
 ---
 title: "Terre De Cycle"
 url: /guerande/terre-de-cycle/
-shop: Fahrrad
+shop: vélo
 ---

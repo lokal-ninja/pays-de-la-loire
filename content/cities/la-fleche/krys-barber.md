@@ -1,5 +1,5 @@
 ---
 title: "Krys Barber"
 url: /la-fleche/krys-barber/
-shop: Friseur
+shop: coiffeur
 ---

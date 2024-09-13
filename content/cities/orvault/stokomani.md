@@ -1,5 +1,5 @@
 ---
 title: "Stokomani"
 url: /orvault/stokomani/
-shop: Kramladen
+shop: magasin de variétés
 ---

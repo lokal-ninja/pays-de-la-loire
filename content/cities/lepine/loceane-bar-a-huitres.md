@@ -1,5 +1,5 @@
 ---
 title: "L'Océane - Bar à huîtres"
 url: /lepine/loceane-bar-a-huitres/
-shop: Fisch
+shop: fruits de mer
 ---

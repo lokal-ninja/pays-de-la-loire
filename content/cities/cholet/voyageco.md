@@ -1,5 +1,5 @@
 ---
 title: "Voyagéco"
 url: /cholet/voyageco/
-shop: Reisebüro
+shop: agence de voyage
 ---

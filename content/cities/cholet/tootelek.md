@@ -1,5 +1,5 @@
 ---
 title: "Tootelek"
 url: /cholet/tootelek/
-shop: Haushaltsgeräte
+shop: appareil ménager
 ---

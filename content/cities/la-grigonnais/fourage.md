@@ -1,5 +1,5 @@
 ---
 title: "Fourage"
 url: /la-grigonnais/fourage/
-shop: Bäckerei
+shop: boulangerie
 ---

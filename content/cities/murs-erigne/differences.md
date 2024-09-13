@@ -1,5 +1,5 @@
 ---
 title: "Différences"
 url: /murs-erigne/differences/
-shop: Friseur
+shop: coiffeur
 ---

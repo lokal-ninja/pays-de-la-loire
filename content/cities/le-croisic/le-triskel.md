@@ -1,5 +1,5 @@
 ---
 title: "Le Triskel"
 url: /le-croisic/le-triskel/
-shop: Andenken
+shop: cadeau
 ---

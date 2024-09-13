@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /laval/intermarche/
-shop: Gasflaschen
+shop: gaz
 ---

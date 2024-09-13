@@ -1,5 +1,5 @@
 ---
 title: "Éric Touchard"
 url: /le-mans/eric-touchard/
-shop: Bestattungen
+shop: directeurs de funérailles
 ---

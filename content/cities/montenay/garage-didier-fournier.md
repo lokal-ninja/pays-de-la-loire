@@ -1,5 +1,5 @@
 ---
 title: "Garage Didier Fournier"
 url: /montenay/garage-didier-fournier/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

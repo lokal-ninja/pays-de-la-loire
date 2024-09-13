@@ -1,5 +1,5 @@
 ---
 title: "Mille Stocks"
 url: /challans/mille-stocks/
-shop: Kramladen
+shop: magasin de variétés
 ---

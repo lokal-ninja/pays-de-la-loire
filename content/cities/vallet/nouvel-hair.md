@@ -1,5 +1,5 @@
 ---
 title: "Nouvel Hair"
 url: /vallet/nouvel-hair/
-shop: Friseur
+shop: coiffeur
 ---

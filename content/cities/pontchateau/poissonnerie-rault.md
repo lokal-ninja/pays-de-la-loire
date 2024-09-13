@@ -1,5 +1,5 @@
 ---
 title: "Poissonnerie Rault"
 url: /pontchateau/poissonnerie-rault/
-shop: Fisch
+shop: fruits de mer
 ---

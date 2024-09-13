@@ -1,5 +1,5 @@
 ---
 title: "Zic'Mu 2000"
 url: /la-ferte-bernard/zicmu-2000/
-shop: Instrumente
+shop: instrument de musique
 ---

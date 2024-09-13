@@ -1,5 +1,5 @@
 ---
 title: "Distinxion "
 url: /chateaubriant/distinxion/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

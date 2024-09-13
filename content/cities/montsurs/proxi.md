@@ -1,5 +1,5 @@
 ---
 title: "Proxi"
 url: /montsurs/proxi/
-shop: Lebensmittel
+shop: commodité
 ---

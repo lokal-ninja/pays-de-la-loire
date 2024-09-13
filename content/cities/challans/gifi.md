@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /challans/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

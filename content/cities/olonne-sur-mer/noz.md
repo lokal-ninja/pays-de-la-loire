@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /olonne-sur-mer/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

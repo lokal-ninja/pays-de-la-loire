@@ -1,5 +1,5 @@
 ---
 title: "Atol"
 url: /la-mothe-achard/atol/
-shop: Optiker
+shop: opticien
 ---

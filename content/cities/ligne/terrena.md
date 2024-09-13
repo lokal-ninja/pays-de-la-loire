@@ -1,5 +1,5 @@
 ---
 title: "Terrena"
 url: /ligne/terrena/
-shop: Garten-Center
+shop: centre de jardinage
 ---

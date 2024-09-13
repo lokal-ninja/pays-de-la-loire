@@ -1,5 +1,5 @@
 ---
 title: "Moto Expert"
 url: /reze/moto-expert/
-shop: Motorrad
+shop: moto
 ---

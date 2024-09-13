@@ -1,5 +1,5 @@
 ---
 title: "Hyper U"
 url: /evron/hyper-u/
-shop: Supermarkt
+shop: supermarché
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bonobo"
 url: /vallet/bonobo/
-shop: Kleidung
+shop: vêtements
 ---

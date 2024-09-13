@@ -1,5 +1,5 @@
 ---
 title: "Menji"
 url: /cholet/menji/
-shop: Friseur
+shop: coiffeur
 ---

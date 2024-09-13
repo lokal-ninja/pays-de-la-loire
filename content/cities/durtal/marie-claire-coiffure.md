@@ -1,5 +1,5 @@
 ---
 title: "Marie-Claire Coiffure"
 url: /durtal/marie-claire-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

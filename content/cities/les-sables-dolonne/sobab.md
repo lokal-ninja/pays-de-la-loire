@@ -1,5 +1,5 @@
 ---
 title: "Sobab"
 url: /les-sables-dolonne/sobab/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Citroën"
 url: /solesmes/citroen/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Au Marché du Pain"
 url: /la-roche-sur-yon/au-marche-du-pain/
-shop: Bäckerei
+shop: boulangerie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Artisan Boulanger Pâtisser"
 url: /barbatre/artisan-boulanger-patisser/
-shop: Bäckerei
+shop: boulangerie
 ---

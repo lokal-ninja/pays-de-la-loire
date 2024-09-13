@@ -1,5 +1,5 @@
 ---
 title: "Centre Commercial Carrefour"
 url: /saint-herblain/centre-commercial-carrefour/
-shop: Einkaufszentrum
+shop: centre commercial
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sécher"
 url: /boussay/secher/
-shop: Bäckerei
+shop: boulangerie
 ---

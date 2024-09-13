@@ -1,5 +1,5 @@
 ---
 title: "Cavavin"
 url: /guerande/cavavin/
-shop: Spirituosen
+shop: alcool
 ---

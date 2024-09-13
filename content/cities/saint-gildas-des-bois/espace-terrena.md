@@ -1,5 +1,5 @@
 ---
 title: "Espace Terrena"
 url: /saint-gildas-des-bois/espace-terrena/
-shop: Garten-Center
+shop: centre de jardinage
 ---

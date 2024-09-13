@@ -1,5 +1,5 @@
 ---
 title: "P'tea Bonheur"
 url: /guerande/ptea-bonheur/
-shop: Schmuck
+shop: bijoux
 ---

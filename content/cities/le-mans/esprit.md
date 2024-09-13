@@ -1,5 +1,5 @@
 ---
 title: "Esprit"
 url: /le-mans/esprit/
-shop: Kleidung
+shop: vêtements
 ---

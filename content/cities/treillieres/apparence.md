@@ -1,5 +1,5 @@
 ---
 title: "Apparence"
 url: /treillieres/apparence/
-shop: Friseur
+shop: coiffeur
 ---

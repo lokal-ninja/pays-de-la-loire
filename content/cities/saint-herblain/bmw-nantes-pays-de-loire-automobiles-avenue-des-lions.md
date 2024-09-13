@@ -1,5 +1,5 @@
 ---
-title: "Bmw Nantes - Pays De Loire Automobiles"
+title: "BMW Nantes - Pays de Loire Automobiles"
 url: /saint-herblain/bmw-nantes-pays-de-loire-automobiles-avenue-des-lions/
-shop: Autohaus
+shop: voiture
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Bijouterie Frank Briand"
 url: /cholet/bijouterie-frank-briand/
-shop: Schmuck
+shop: bijoux
 ---

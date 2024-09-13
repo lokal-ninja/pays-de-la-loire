@@ -1,5 +1,5 @@
 ---
 title: "Criée"
 url: /la-turballe/criee/
-shop: Fisch
+shop: fruits de mer
 ---

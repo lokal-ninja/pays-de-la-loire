@@ -1,5 +1,5 @@
 ---
 title: "GiFi"
 url: /sable-sur-sarthe/gifi/
-shop: Kramladen
+shop: magasin de variétés
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Elisa Joallerie"
 url: /les-sables-dolonne/elisa-joallerie/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "L'Atelier de Justine"
 url: /nort-sur-erdre/latelier-de-justine/
-shop: Friseur
+shop: coiffeur
 ---

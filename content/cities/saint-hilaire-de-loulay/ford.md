@@ -1,5 +1,5 @@
 ---
 title: "Ford"
 url: /saint-hilaire-de-loulay/ford/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

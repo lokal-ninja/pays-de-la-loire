@@ -1,5 +1,5 @@
 ---
 title: "Cordonnerie Bouyer"
 url: /vallet/cordonnerie-bouyer/
-shop: Basteln
+shop: artisanat
 ---

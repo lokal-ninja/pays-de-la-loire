@@ -1,5 +1,5 @@
 ---
 title: "mobile House"
 url: /reze/mobile-house/
-shop: Handy
+shop: téléphone portable
 ---

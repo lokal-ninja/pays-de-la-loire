@@ -1,5 +1,5 @@
 ---
 title: "Café du Bac"
 url: /le-pellerin/cafe-du-bac/
-shop: Zeitungen
+shop: marchand de journaux
 ---

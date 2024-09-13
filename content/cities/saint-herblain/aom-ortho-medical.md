@@ -1,5 +1,5 @@
 ---
 title: "AOM Ortho medical"
 url: /saint-herblain/aom-ortho-medical/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

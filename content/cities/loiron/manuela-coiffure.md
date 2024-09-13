@@ -1,5 +1,5 @@
 ---
 title: "Manuela Coiffure"
 url: /loiron/manuela-coiffure/
-shop: Friseur
+shop: coiffeur
 ---

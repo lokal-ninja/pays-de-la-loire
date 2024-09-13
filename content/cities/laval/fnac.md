@@ -1,5 +1,5 @@
 ---
 title: "Fnac"
 url: /laval/fnac/
-shop: Elektronik
+shop: électronique
 ---

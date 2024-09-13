@@ -1,5 +1,5 @@
 ---
 title: "La Croustine"
 url: /la-garnache/la-croustine/
-shop: Bäckerei
+shop: boulangerie
 ---

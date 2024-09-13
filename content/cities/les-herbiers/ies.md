@@ -1,5 +1,5 @@
 ---
 title: "IES"
 url: /les-herbiers/ies/
-shop: Instrumente
+shop: instrument de musique
 ---

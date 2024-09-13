@@ -1,5 +1,5 @@
 ---
 title: "Le Yatou"
 url: /remouille/le-yatou/
-shop: Zeitungen
+shop: marchand de journaux
 ---

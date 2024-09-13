@@ -1,5 +1,5 @@
 ---
 title: "Optique Regard"
 url: /pouzauges/optique-regard/
-shop: Optiker
+shop: opticien
 ---

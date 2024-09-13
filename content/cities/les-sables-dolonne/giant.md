@@ -1,5 +1,5 @@
 ---
 title: "Giant"
 url: /les-sables-dolonne/giant/
-shop: Fahrrad
+shop: vélo
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Intermarché"
 url: /saumur/intermarche-zone-industrielle-ecoparc/
-shop: Supermarkt
+shop: supermarché
 ---

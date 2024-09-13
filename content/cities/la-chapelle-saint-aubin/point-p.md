@@ -1,5 +1,5 @@
 ---
 title: "Point P"
 url: /la-chapelle-saint-aubin/point-p/
-shop: Baumarkt
+shop: à faire soi-même
 ---

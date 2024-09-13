@@ -1,5 +1,5 @@
 ---
 title: "Aelys"
 url: /nantes/aelys/
-shop: Schmuck
+shop: bijoux
 ---

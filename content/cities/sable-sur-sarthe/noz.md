@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /sable-sur-sarthe/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

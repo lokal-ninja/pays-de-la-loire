@@ -1,5 +1,5 @@
 ---
 title: "Apamh"
 url: /saint-herblain/apamh/
-shop: Sanitätshaus
+shop: approvisionnement médical
 ---

@@ -1,5 +1,5 @@
 ---
 title: "General Automobile"
 url: /sautron/general-automobile/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

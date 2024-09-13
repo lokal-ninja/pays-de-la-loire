@@ -1,5 +1,5 @@
 ---
 title: "La Croquetterie"
 url: /saint-herblain/la-croquetterie/
-shop: Tiere
+shop: animal de compagnie
 ---

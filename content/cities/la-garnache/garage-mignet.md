@@ -1,5 +1,5 @@
 ---
 title: "Garage Mignet"
 url: /la-garnache/garage-mignet/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

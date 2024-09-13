@@ -1,5 +1,5 @@
 ---
 title: "Grandbains"
 url: /nantes/grandbains/
-shop: Badezimmer
+shop: salle de bains
 ---

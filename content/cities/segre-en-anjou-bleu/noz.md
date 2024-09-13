@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /segre-en-anjou-bleu/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

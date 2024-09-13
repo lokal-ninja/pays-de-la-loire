@@ -1,5 +1,5 @@
 ---
 title: "Maison du monde"
 url: /beaucouze/maison-du-monde/
-shop: Möbel
+shop: meubles
 ---

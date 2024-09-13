@@ -1,5 +1,5 @@
 ---
 title: "Tilt Auto"
 url: /parce-sur-sarthe/tilt-auto/
-shop: Autoteile
+shop: pièces de voitures
 ---

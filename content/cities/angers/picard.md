@@ -1,5 +1,5 @@
 ---
 title: "Picard"
 url: /angers/picard/
-shop: Tiefkühl
+shop: aliments surgelés
 ---

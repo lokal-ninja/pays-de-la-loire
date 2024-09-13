@@ -1,5 +1,5 @@
 ---
 title: "Distinxion "
 url: /le-poire-sur-vie/distinxion/
-shop: Autohaus
+shop: voiture
 ---

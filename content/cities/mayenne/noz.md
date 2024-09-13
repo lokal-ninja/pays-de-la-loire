@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /mayenne/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

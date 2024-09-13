@@ -1,5 +1,5 @@
 ---
 title: "Boulangerie Patisserie Ferré"
 url: /savenay/boulangerie-patisserie-ferre/
-shop: Bäckerei
+shop: boulangerie
 ---

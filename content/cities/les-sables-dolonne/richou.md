@@ -1,5 +1,5 @@
 ---
 title: "Richou"
 url: /les-sables-dolonne/richou/
-shop: Reisebüro
+shop: agence de voyage
 ---

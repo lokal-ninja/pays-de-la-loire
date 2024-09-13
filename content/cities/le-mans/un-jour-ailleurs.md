@@ -1,5 +1,5 @@
 ---
 title: "Un Jour Ailleurs"
 url: /le-mans/un-jour-ailleurs/
-shop: Kleidung
+shop: vêtements
 ---

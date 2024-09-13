@@ -1,5 +1,5 @@
 ---
 title: "Ablain"
 url: /orvault/ablain/
-shop: Badezimmer
+shop: salle de bains
 ---

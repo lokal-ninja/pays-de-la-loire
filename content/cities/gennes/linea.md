@@ -1,5 +1,5 @@
 ---
 title: "LINEA"
 url: /gennes/linea/
-shop: Friseur
+shop: coiffeur
 ---

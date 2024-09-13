@@ -1,5 +1,5 @@
 ---
 title: "Précisium"
 url: /sevremont/precisium/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

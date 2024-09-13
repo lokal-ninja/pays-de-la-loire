@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /la-chapelle-sur-erdre/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

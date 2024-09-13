@@ -1,5 +1,5 @@
 ---
 title: "Beauséjour"
 url: /sainte-suzanne-et-chammes/beausejour/
-shop: Tabak
+shop: tabac
 ---

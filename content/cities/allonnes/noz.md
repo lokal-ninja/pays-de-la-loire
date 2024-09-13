@@ -1,5 +1,5 @@
 ---
 title: "NOZ"
 url: /allonnes/noz/
-shop: Kramladen
+shop: magasin de variétés
 ---

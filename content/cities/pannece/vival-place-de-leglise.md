@@ -1,5 +1,5 @@
 ---
 title: "Vival"
 url: /pannece/vival-place-de-leglise/
-shop: Lebensmittel
+shop: commodité
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Optical Center"
 url: /la-chapelle-saint-aubin/optical-center/
-shop: Optiker
+shop: opticien
 ---

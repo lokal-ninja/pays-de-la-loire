@@ -1,5 +1,5 @@
 ---
 title: "Norauto"
 url: /saint-herblain/norauto/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ferron Recyclage"
 url: /neau/ferron-recyclage/
-shop: Autowerkstatt
+shop: réparation de voitures
 ---

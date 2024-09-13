@@ -1,5 +1,5 @@
 ---
 title: "Mondovélo"
 url: /mulsanne/mondovelo/
-shop: Eisenwaren
+shop: matériel informatique
 ---

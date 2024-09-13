@@ -1,5 +1,5 @@
 ---
 title: "Concessionnaire Peugeot"
 url: /sable-sur-sarthe/concessionnaire-peugeot/
-shop: Autohaus
+shop: voiture
 ---

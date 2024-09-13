@@ -1,5 +1,5 @@
 ---
 title: "Ideal Beauty"
 url: /laval/ideal-beauty/
-shop: Kosmetik
+shop: beauté
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Diana's hair"
 url: /reze/dianas-hair/
-shop: Friseur
+shop: coiffeur
 ---

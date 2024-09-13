@@ -1,5 +1,5 @@
 ---
 title: "Julien d'Orcel"
 url: /allonnes/julien-dorcel/
-shop: Schmuck
+shop: bijoux
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Ô bois façonné"
 url: /sevremont/o-bois-faconne/
-shop: Raumausstattung
+shop: décoration intérieure
 ---

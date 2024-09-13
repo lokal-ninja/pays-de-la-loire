@@ -1,5 +1,5 @@
 ---
 title: "Équip'Jardin"
 url: /sable-sur-sarthe/equipjardin/
-shop: Allgemein
+shop: shop
 ---

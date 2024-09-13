@@ -1,5 +1,5 @@
 ---
 title: "Imua"
 url: /laval/imua/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Tartapain"
 url: /nantes/tartapain/
-shop: Bäckerei
+shop: boulangerie
 ---

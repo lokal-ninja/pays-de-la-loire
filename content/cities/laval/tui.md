@@ -1,5 +1,5 @@
 ---
 title: "TUI"
 url: /laval/tui/
-shop: Reisebüro
+shop: agence de voyage
 ---

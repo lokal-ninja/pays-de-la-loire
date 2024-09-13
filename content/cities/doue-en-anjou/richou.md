@@ -1,5 +1,5 @@
 ---
 title: "Richou"
 url: /doue-en-anjou/richou/
-shop: Reisebüro
+shop: agence de voyage
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Sandro"
 url: /angers/sandro/
-shop: Kleidung
+shop: vêtements
 ---

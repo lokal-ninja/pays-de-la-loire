@@ -1,5 +1,5 @@
 ---
 title: "Préférence Voyage"
 url: /montaigu/preference-voyage/
-shop: Reisebüro
+shop: agence de voyage
 ---

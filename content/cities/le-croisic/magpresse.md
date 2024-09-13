@@ -1,5 +1,5 @@
 ---
 title: "MagPresse"
 url: /le-croisic/magpresse/
-shop: Zeitungen
+shop: marchand de journaux
 ---

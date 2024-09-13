@@ -1,5 +1,5 @@
 ---
 title: "Celio"
 url: /beaucouze/celio/
-shop: Kleidung
+shop: vêtements
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Baobab"
 url: /sable-sur-sarthe/baobab/
-shop: Garten-Center
+shop: centre de jardinage
 ---

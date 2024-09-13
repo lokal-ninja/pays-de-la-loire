@@ -1,5 +1,5 @@
 ---
 title: "Monoprix"
 url: /angers/monoprix/
-shop: Supermarkt
+shop: supermarché
 ---

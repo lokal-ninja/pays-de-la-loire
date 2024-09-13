@@ -1,5 +1,5 @@
 ---
 title: "Eau pressing"
 url: /la-fleche/eau-pressing/
-shop: Wäscherei
+shop: blanchisserie
 ---

@@ -1,5 +1,5 @@
 ---
 title: "Les Coteaux Nantais"
 url: /vertou/les-coteaux-nantais/
-shop: Lebensmittel
+shop: commodité
 ---
