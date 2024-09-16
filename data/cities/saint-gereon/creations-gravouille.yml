@@ -4,8 +4,8 @@ latitude: 47.37539
 longitude: -1.19652
 postcode: "44150"
 city: Saint-Géréon
-street: "Boulevard de la Prairie"
-housenumber: 650
-phone: "+33 2 40 98 76 35"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://www.gravouille.fr/"
+street: Boulevard de la Prairie
+housenumber: "650"
+phone: +33 2 40 98 76 35
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00
+website: https://www.gravouille.fr/

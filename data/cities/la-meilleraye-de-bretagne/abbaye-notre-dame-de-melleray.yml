@@ -1,11 +1,11 @@
 id: 268923680
-type: way
+type: node
 latitude: 47.55048
 longitude: -1.37668
 postcode: "44520"
 city: La Meilleraye-de-Bretagne
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://melleray.chemin-neuf.fr/"
+website: https://melleray.chemin-neuf.fr/

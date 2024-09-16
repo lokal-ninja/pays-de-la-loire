@@ -1,11 +1,11 @@
 id: 230704036
-type: way
+type: node
 latitude: 48.18534
 longitude: 0.65496
 postcode: "72400"
 city: La Ferté-Bernard
-street: "Rue Bourgneuf"
-housenumber: 17
-phone: "+33 2 43 93 32 32"
-opening_hours: "Tu-Fr 10:00-12:00,14:30-18:30; Sa 10:00-12:00,14:30-16:00"
-website: "https://zicmu2000.jimdo.com/"
+street: Rue Bourgneuf
+housenumber: "17"
+phone: +33 2 43 93 32 32
+opening_hours: Tu-Fr 10:00-12:00,14:30-18:30; Sa 10:00-12:00,14:30-16:00
+website: https://zicmu2000.jimdo.com/

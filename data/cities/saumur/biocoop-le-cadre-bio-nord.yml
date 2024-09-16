@@ -1,11 +1,11 @@
 id: 149974314
-type: way
+type: node
 latitude: 47.27754
 longitude: -0.06112
 postcode: "49400"
 city: Saumur
-street: "Chemin des Patureaux"
-housenumber: 12
+street: Chemin des Patureaux
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:30-13:00,14:30-19:00; Sa 09:30-19:00"
-website: "https://lecadrebionord.biocoop.net/"
+opening_hours: Mo-Fr 09:30-13:00,14:30-19:00; Sa 09:30-19:00
+website: https://lecadrebionord.biocoop.net/

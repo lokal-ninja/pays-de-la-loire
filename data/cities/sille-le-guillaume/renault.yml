@@ -1,11 +1,11 @@
 id: 251148174
-type: way
+type: node
 latitude: 48.17551
 longitude: -0.14131
 postcode: "72140"
 city: Sillé-le-Guillaume
-street: "Route d'Evron"
-housenumber: 
+street: Route d'Evron
+housenumber: ""
 phone: "+33243200182"
 opening_hours: ""
 website: ""

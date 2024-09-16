@@ -1,11 +1,11 @@
 id: 65504482
-type: way
+type: node
 latitude: 47.18875
 longitude: -1.49192
 postcode: "44230"
 city: Saint-Sébastien-sur-Loire
-street: "Rue Louis Blanc"
-housenumber: 
+street: Rue Louis Blanc
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:30-19:30; Sa 09:30-19:00; Su off"
-website: "https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Pays-de-la-Loire/Loire-Atlantique/BIOCOOP-NANTES-SUD"
+opening_hours: Mo-Fr 09:30-19:30; Sa 09:30-19:00; Su off
+website: https://www.biocoop.fr/magasins-bio/Trouver-mon-magasin-Biocoop/Pays-de-la-Loire/Loire-Atlantique/BIOCOOP-NANTES-SUD

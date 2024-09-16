@@ -1,11 +1,11 @@
 id: 166983577
-type: way
+type: node
 latitude: 47.97285
 longitude: 0.56004
 postcode: "72440"
 city: Bouloire
-street: "Rue Nationale"
-housenumber: 
-phone: "+33 2 43 35 49 70"
+street: Rue Nationale
+housenumber: ""
+phone: +33 2 43 35 49 70
 opening_hours: ""
-website: "https://www.lamaison.fr/stores/bouloire-lamaison-fr"
+website: https://www.lamaison.fr/stores/bouloire-lamaison-fr

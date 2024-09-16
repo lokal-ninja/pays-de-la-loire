@@ -4,8 +4,8 @@ latitude: 48.07055
 longitude: -0.77434
 postcode: "53000"
 city: Laval
-street: "Rue du Général de Gaulle"
-housenumber: 5
-phone: "+33 2 43 59 11 50"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.fnac.com/Laval/Fnac-Laval/cl449/w-4"
+street: Rue du Général de Gaulle
+housenumber: "5"
+phone: +33 2 43 59 11 50
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.fnac.com/Laval/Fnac-Laval/cl449/w-4

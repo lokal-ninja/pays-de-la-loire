@@ -1,11 +1,11 @@
 id: 135005425
-type: way
+type: node
 latitude: 47.69927
 longitude: -0.0746
 postcode: "72200"
 city: La Flèche
-street: "Grande Rue"
-housenumber: 8
+street: Grande Rue
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

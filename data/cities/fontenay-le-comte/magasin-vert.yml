@@ -1,11 +1,11 @@
 id: 107592449
-type: way
+type: node
 latitude: 46.46449
 longitude: -0.82469
 postcode: "85200"
 city: Fontenay-le-Comte
-street: "Avenue du Général de Gaulle"
-housenumber: 
+street: Avenue du Général de Gaulle
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:15, 14:15-19:00"
+opening_hours: Mo-Sa 09:30-12:15, 14:15-19:00
 website: ""

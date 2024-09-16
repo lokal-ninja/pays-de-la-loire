@@ -1,11 +1,11 @@
 id: 134562439
-type: way
+type: node
 latitude: 46.6014
 longitude: -1.65662
 postcode: "85150"
 city: La Chapelle-Achard
-street: "ZA Sud"
-housenumber: 
+street: ZA Sud
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.3274
 longitude: -2.42984
 postcode: "44350"
 city: Guérande
-street: "Rue du Beau Soleil"
-housenumber: 1
+street: Rue du Beau Soleil
+housenumber: "1"
 phone: "+33652960591"
-opening_hours: "10:30-12:30,14:30-18:30"
-website: "http://www.sophiarancatore.com/"
+opening_hours: 10:30-12:30,14:30-18:30
+website: http://www.sophiarancatore.com/

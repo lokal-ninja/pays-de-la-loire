@@ -1,11 +1,11 @@
 id: 82543863
-type: way
+type: node
 latitude: 47.25151
 longitude: -1.51372
 postcode: "44300"
 city: Nantes
-street: "Rue du Perray"
-housenumber: 
-phone: "+33 2 40 68 97 97"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00"
-website: "https://www.feuvert.fr/centres-auto/nantes-paridis/feu-vert-nantes-paridis/15.html"
+street: Rue du Perray
+housenumber: ""
+phone: +33 2 40 68 97 97
+opening_hours: Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00
+website: https://www.feuvert.fr/centres-auto/nantes-paridis/feu-vert-nantes-paridis/15.html

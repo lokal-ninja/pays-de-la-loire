@@ -1,11 +1,11 @@
 id: 241144010
-type: way
+type: node
 latitude: 47.43957
 longitude: -0.2126
 postcode: "49250"
 city: Beaufort-en-Anjou
-street: "Rue Bourguillaume"
-housenumber: 18
-phone: "+33 2 41 97 56 43"
+street: Rue Bourguillaume
+housenumber: "18"
+phone: +33 2 41 97 56 43
 opening_hours: ""
 website: ""

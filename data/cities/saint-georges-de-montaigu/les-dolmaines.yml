@@ -1,11 +1,11 @@
 id: 875734785
-type: way
+type: node
 latitude: 46.95997
 longitude: -1.30711
 postcode: "85600"
 city: Saint-Georges-de-Montaigu
-street: "Chassereau"
-housenumber: 
+street: Chassereau
+housenumber: ""
 phone: ""
-opening_hours: "Mo,Tu,Th,Sa 09:00-13:00; We,Fr 09:00-19:00"
-website: "https://www.dolmaines.fr/"
+opening_hours: Mo,Tu,Th,Sa 09:00-13:00; We,Fr 09:00-19:00
+website: https://www.dolmaines.fr/

@@ -1,11 +1,11 @@
 id: 68089960
-type: way
+type: node
 latitude: 47.00034
 longitude: -2.24577
 postcode: "85330"
 city: Noirmoutier-en-l'Île
-street: "Place de la République"
-housenumber: 6
+street: Place de la République
+housenumber: "6"
 phone: ""
-opening_hours: "Fr-We 07:30-13:00"
+opening_hours: Fr-We 07:30-13:00
 website: ""

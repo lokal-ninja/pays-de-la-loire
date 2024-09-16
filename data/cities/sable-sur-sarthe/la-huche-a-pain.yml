@@ -4,8 +4,8 @@ latitude: 47.84044
 longitude: -0.3356
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Grande Rue"
-housenumber: 65
+street: Grande Rue
+housenumber: "65"
 phone: ""
-opening_hours: "05:00-19:45; Tu off"
+opening_hours: 05:00-19:45; Tu off
 website: ""

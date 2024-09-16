@@ -1,11 +1,11 @@
 id: 888884180
-type: way
+type: node
 latitude: 46.7255
 longitude: -2.35024
 postcode: "85350"
 city: L'Île-d'Yeu
-street: "Rue de la République"
-housenumber: 11
+street: Rue de la République
+housenumber: "11"
 phone: "+337499930767"
 opening_hours: ""
-website: "https://lamaisondoya.fr/"
+website: https://lamaisondoya.fr/

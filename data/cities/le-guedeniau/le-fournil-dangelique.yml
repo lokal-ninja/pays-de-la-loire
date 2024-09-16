@@ -1,11 +1,11 @@
 id: 107442876
-type: way
+type: node
 latitude: 47.49494
 longitude: -0.0473
 postcode: "49150"
 city: Le Guédeniau
-street: "Rue de Chandelais"
-housenumber: 1
+street: Rue de Chandelais
+housenumber: "1"
 phone: ""
-opening_hours: "08:00-13:00"
+opening_hours: 08:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 961680673
-type: way
+type: node
 latitude: 47.61543
 longitude: -0.70852
 postcode: "49220"
 city: Grez-Neuville
-street: "Rue du Lionnais"
-housenumber: 
+street: Rue du Lionnais
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

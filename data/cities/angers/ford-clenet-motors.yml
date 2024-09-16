@@ -1,11 +1,11 @@
 id: 711279243
-type: way
+type: node
 latitude: 47.44433
 longitude: -0.53675
 postcode: "49000"
 city: Angers
-street: "Avenue de Lattre de Tassigny"
-housenumber: 170
+street: Avenue de Lattre de Tassigny
+housenumber: "170"
 phone: "+33241444444"
-opening_hours: "Mo-Fr 08:30-19:00; Sa 08:45-19:00"
-website: "https://www.fordgroupedmd.fr/"
+opening_hours: Mo-Fr 08:30-19:00; Sa 08:45-19:00
+website: https://www.fordgroupedmd.fr/

@@ -4,8 +4,9 @@ latitude: 47.08623
 longitude: -1.33564
 postcode: "44190"
 city: Saint-Lumine-de-Clisson
-street: "ZA de la Praire"
-housenumber: 12
+street: ZA de la Praire
+housenumber: "12"
 phone: ""
-opening_hours: "We 09:00-13:00,14:00-18:00; Fr 09:00-13:00; Sa[2,4] 10:00-13:00,14:00-18:00; PH off"
-website: "https://larecuperette.jimdofree.com/"
+opening_hours: We 09:00-13:00,14:00-18:00; Fr 09:00-13:00; Sa[2,4] 10:00-13:00,14:00-18:00;
+    PH off
+website: https://larecuperette.jimdofree.com/

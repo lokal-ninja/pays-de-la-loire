@@ -1,11 +1,11 @@
 id: 353503034
-type: way
+type: node
 latitude: 48.34274
 longitude: 0.37004
 postcode: "72600"
 city: Mamers
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

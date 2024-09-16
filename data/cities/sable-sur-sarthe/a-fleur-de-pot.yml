@@ -4,8 +4,8 @@ latitude: 47.84044
 longitude: -0.33665
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Place du Champ de Foire"
-housenumber: 9
-phone: "+33 2 43 95 30 18"
-opening_hours: "Tu-Fr 09:30-19:00; Sa 09:00-19:30; Su 09:30-13:00"
-website: "https://www.fleuriste-sable.fr/"
+street: Place du Champ de Foire
+housenumber: "9"
+phone: +33 2 43 95 30 18
+opening_hours: Tu-Fr 09:30-19:00; Sa 09:00-19:30; Su 09:30-13:00
+website: https://www.fleuriste-sable.fr/

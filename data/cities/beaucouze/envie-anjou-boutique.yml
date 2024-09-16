@@ -1,11 +1,11 @@
 id: 144476218
-type: way
+type: node
 latitude: 47.45886
 longitude: -0.62383
 postcode: "49070"
 city: Beaucouzé
-street: "Rue de l'Argelette"
-housenumber: 
+street: Rue de l'Argelette
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.envieanjou.com/"
+website: https://www.envieanjou.com/

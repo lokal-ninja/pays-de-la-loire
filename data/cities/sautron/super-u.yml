@@ -1,11 +1,11 @@
 id: 60261993
-type: way
+type: node
 latitude: 47.2605
 longitude: -1.65572
 postcode: "44880"
 city: Sautron
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

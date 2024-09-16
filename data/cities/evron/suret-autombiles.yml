@@ -4,8 +4,8 @@ latitude: 48.15927
 longitude: -0.40932
 postcode: "53600"
 city: Evron
-street: "Rue de l'Orgerie"
-housenumber: 2
+street: Rue de l'Orgerie
+housenumber: "2"
 phone: ""
-opening_hours: "09:00-12:00,14:00-17:00"
+opening_hours: 09:00-12:00,14:00-17:00
 website: ""

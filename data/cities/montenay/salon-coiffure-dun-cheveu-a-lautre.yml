@@ -1,11 +1,11 @@
 id: 318145222
-type: way
+type: node
 latitude: 48.28759
 longitude: -0.89469
 postcode: "53500"
 city: Montenay
-street: "Rue du Roquet Noyer"
-housenumber: 8
+street: Rue du Roquet Noyer
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

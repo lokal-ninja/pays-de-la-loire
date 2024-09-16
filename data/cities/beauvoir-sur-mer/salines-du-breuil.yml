@@ -1,11 +1,11 @@
 id: 66109277
-type: way
+type: node
 latitude: 46.91988
 longitude: -2.0566
 postcode: "85230"
 city: Beauvoir sur Mer
-street: "Le Breuil"
-housenumber: 
-phone: "+33 6 95 59 87 18"
-opening_hours: "10:00-18:00"
-website: "https://www.salinesdubreuil.com/"
+street: Le Breuil
+housenumber: ""
+phone: +33 6 95 59 87 18
+opening_hours: 10:00-18:00
+website: https://www.salinesdubreuil.com/

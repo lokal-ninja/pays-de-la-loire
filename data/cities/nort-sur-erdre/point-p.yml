@@ -1,11 +1,11 @@
 id: 203659489
-type: way
+type: node
 latitude: 47.4384
 longitude: -1.47997
 postcode: "44390"
 city: Nort-sur-Erdre
-street: "Rue de Touraine"
-housenumber: 
+street: Rue de Touraine
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 07:30-12:00, 13:45-17:45; Sa 08:00-12:00"
+opening_hours: Mo-Fr 07:30-12:00, 13:45-17:45; Sa 08:00-12:00
 website: ""

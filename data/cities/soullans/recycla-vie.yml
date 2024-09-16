@@ -1,11 +1,11 @@
 id: 1090857697
-type: way
+type: node
 latitude: 46.79087
 longitude: -1.88866
 postcode: "85300"
 city: Soullans
-street: "Rue des Acacias"
-housenumber: 10
+street: Rue des Acacias
+housenumber: "10"
 phone: ""
-opening_hours: "Mo 13:30-17:00; We,Sa 09:00-12:00,14:00-18:00"
+opening_hours: Mo 13:30-17:00; We,Sa 09:00-12:00,14:00-18:00
 website: ""

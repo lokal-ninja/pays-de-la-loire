@@ -1,11 +1,11 @@
 id: 67778497
-type: way
+type: node
 latitude: 48.05434
 longitude: -0.7379
 postcode: "53000"
 city: Laval
-street: "ZI Les Bozées"
-housenumber: 
+street: ZI Les Bozées
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/laval-1/"
+website: https://www.nozarrivages.com/magasin/laval-1/

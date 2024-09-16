@@ -4,8 +4,8 @@ latitude: 47.46771
 longitude: -0.5244
 postcode: "49000"
 city: Angers
-street: "Avenue Montaigne"
-housenumber: 75
+street: Avenue Montaigne
+housenumber: "75"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.linvosges.com/fr/nos-magasins/angers/"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.linvosges.com/fr/nos-magasins/angers/

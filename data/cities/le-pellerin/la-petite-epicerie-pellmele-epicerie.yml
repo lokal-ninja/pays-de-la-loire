@@ -4,8 +4,8 @@ latitude: 47.20173
 longitude: -1.75468
 postcode: "44640"
 city: Le Pellerin
-street: "Rue du Docteur Sourdille"
-housenumber: 2
+street: Rue du Docteur Sourdille
+housenumber: "2"
 phone: ""
-opening_hours: "Fr 17:00-19:30"
-website: "https://pellmele.fr/la-petite-epicerie/"
+opening_hours: Fr 17:00-19:30
+website: https://pellmele.fr/la-petite-epicerie/

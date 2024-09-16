@@ -4,8 +4,9 @@ latitude: 47.83948
 longitude: -0.31911
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Rue du Mans"
-housenumber: 48
-phone: "+33 2 43 95 06 50"
-opening_hours: "Mo 14:00-19:00; Tu 09:00-19:00; We 09:00-12:00,14:00-19:00; Th-Fr 09:00-19:00; Sa 09:00-17:00"
+street: Rue du Mans
+housenumber: "48"
+phone: +33 2 43 95 06 50
+opening_hours: Mo 14:00-19:00; Tu 09:00-19:00; We 09:00-12:00,14:00-19:00; Th-Fr 09:00-19:00;
+    Sa 09:00-17:00
 website: ""

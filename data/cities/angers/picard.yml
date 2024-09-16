@@ -1,11 +1,11 @@
 id: 126918540
-type: way
+type: node
 latitude: 47.4684
 longitude: -0.53175
 postcode: "49100"
 city: Angers
-street: "Avenue Montaigne"
-housenumber: 84
-phone: "+33 2 41 88 44 95"
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:45"
-website: "https://magasins.picard.fr/29-picard-angers"
+street: Avenue Montaigne
+housenumber: "84"
+phone: +33 2 41 88 44 95
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:45
+website: https://magasins.picard.fr/29-picard-angers

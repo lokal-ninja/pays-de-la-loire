@@ -1,11 +1,11 @@
 id: 67434710
-type: way
+type: node
 latitude: 48.00277
 longitude: 0.18327
 postcode: "72000"
 city: Le Mans
-street: "Avenue de la Libération"
-housenumber: 186
+street: Avenue de la Libération
+housenumber: "186"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.84107
 longitude: -0.33304
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Rue Michel Vielle"
-housenumber: 16
-phone: "+33 2 43 92 86 66"
-opening_hours: "Mo 09:30-12:30,14:00-19:00; We-Fr 09:30-12:30,14:00-19:00; Sa 09:30-13:00,14:00-19:00; Su 09:30-12:30"
-website: "https://www.lateliernature.fr/"
+street: Rue Michel Vielle
+housenumber: "16"
+phone: +33 2 43 92 86 66
+opening_hours: Mo 09:30-12:30,14:00-19:00; We-Fr 09:30-12:30,14:00-19:00; Sa 09:30-13:00,14:00-19:00;
+    Su 09:30-12:30
+website: https://www.lateliernature.fr/

@@ -1,11 +1,11 @@
 id: 539470354
-type: way
+type: node
 latitude: 48.06203
 longitude: -0.81484
 postcode: "53940"
 city: Saint-Berthevin
-street: "Boulevard des Loges"
-housenumber: 
-phone: "+33 2 43 98 18 60"
-opening_hours: "Su 09:00-17:00; Mo-Sa 09:00-20:00"
-website: "https://www.leroymerlin.fr/magasins/saint-berthevin-laval.html"
+street: Boulevard des Loges
+housenumber: ""
+phone: +33 2 43 98 18 60
+opening_hours: Su 09:00-17:00; Mo-Sa 09:00-20:00
+website: https://www.leroymerlin.fr/magasins/saint-berthevin-laval.html

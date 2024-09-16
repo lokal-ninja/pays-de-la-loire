@@ -4,8 +4,8 @@ latitude: 47.25071
 longitude: -1.61663
 postcode: "44706"
 city: Orvault
-street: "Route de Vannes"
-housenumber: 290
+street: Route de Vannes
+housenumber: "290"
 phone: ""
-opening_hours: "Tu-Fr 09:30-19:30; Sa 09:30-18:00; Su off"
-website: "http://www.lesfermiersducoin.fr/"
+opening_hours: Tu-Fr 09:30-19:30; Sa 09:30-18:00; Su off
+website: http://www.lesfermiersducoin.fr/

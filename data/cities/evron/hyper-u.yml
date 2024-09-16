@@ -1,11 +1,11 @@
 id: 235149567
-type: way
+type: node
 latitude: 48.14611
 longitude: -0.41392
 postcode: "53600"
 city: Evron
-street: "Route de Laval"
-housenumber: 
-phone: "+33 2 43 01 34 82"
-opening_hours: "Mo-Sa 08:30-19:30"
-website: "https://www.hyperu-evron.com"
+street: Route de Laval
+housenumber: ""
+phone: +33 2 43 01 34 82
+opening_hours: Mo-Sa 08:30-19:30
+website: https://www.hyperu-evron.com

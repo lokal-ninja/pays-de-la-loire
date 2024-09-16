@@ -4,8 +4,8 @@ latitude: 48.22134
 longitude: -0.86508
 postcode: "53420"
 city: Chailland
-street: "Rue Saint-Germain"
-housenumber: 21
-phone: "+33 2 43 90 55 63"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-13:00"
-website: "https://www.coccinelle.fr/"
+street: Rue Saint-Germain
+housenumber: "21"
+phone: +33 2 43 90 55 63
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-13:00
+website: https://www.coccinelle.fr/

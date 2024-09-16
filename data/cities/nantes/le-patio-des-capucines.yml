@@ -4,8 +4,8 @@ latitude: 47.21188
 longitude: -1.56225
 postcode: "44000"
 city: Nantes
-street: "Rue de l'Héronnière"
-housenumber: 10
-phone: "+33 9 50 94 68 67"
-opening_hours: "Tu-Sa 10:00-19:00"
-website: "https://www.lepatiodescapucines.fr"
+street: Rue de l'Héronnière
+housenumber: "10"
+phone: +33 9 50 94 68 67
+opening_hours: Tu-Sa 10:00-19:00
+website: https://www.lepatiodescapucines.fr

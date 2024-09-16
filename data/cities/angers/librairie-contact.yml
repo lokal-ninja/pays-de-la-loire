@@ -4,8 +4,8 @@ latitude: 47.47279
 longitude: -0.55018
 postcode: "49100"
 city: Angers
-street: "Rue Lenepveu"
-housenumber: 3
-phone: "+33 2 41 24 15 00"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00; Jul-Aug 12:30-14:00 off; PH off"
-website: "http://librairie-contact.over-blog.com/"
+street: Rue Lenepveu
+housenumber: "3"
+phone: +33 2 41 24 15 00
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00; Jul-Aug 12:30-14:00 off; PH off
+website: http://librairie-contact.over-blog.com/

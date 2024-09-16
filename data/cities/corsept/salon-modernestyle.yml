@@ -1,11 +1,11 @@
 id: 64488861
-type: way
+type: node
 latitude: 47.27728
 longitude: -2.06186
 postcode: "44560"
 city: Corsept
-street: "Rue de la Cour"
-housenumber: 4
+street: Rue de la Cour
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

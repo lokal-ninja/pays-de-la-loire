@@ -4,8 +4,8 @@ latitude: 48.07064
 longitude: -0.7763
 postcode: "53000"
 city: Laval
-street: "Rue du Général de Gaulle"
-housenumber: 37
+street: Rue du Général de Gaulle
+housenumber: "37"
 phone: "+33243665875"
-opening_hours: "Mo 10:00-19:00; Tu-Sa 09:30-19:00"
-website: "https://www.morgandetoi.fr"
+opening_hours: Mo 10:00-19:00; Tu-Sa 09:30-19:00
+website: https://www.morgandetoi.fr

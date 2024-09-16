@@ -1,11 +1,11 @@
 id: 266729423
-type: way
+type: node
 latitude: 46.50453
 longitude: -1.79933
 postcode: "85100"
 city: Les Sables-d'Olonne
-street: "Rue Joseph Bénatier"
-housenumber: 68
+street: Rue Joseph Bénatier
+housenumber: "68"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 09:00-20:00; Su 09:00-12:30
 website: ""

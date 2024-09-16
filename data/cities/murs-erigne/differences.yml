@@ -4,8 +4,9 @@ latitude: 47.40587
 longitude: -0.52608
 postcode: "49610"
 city: Mûrs-Erigné
-street: "Rampe d'Erigné"
-housenumber: 7
+street: Rampe d'Erigné
+housenumber: "7"
 phone: ""
-opening_hours: "Tu 09:00-19:00; We 09:00-12:00, 14:00-19:00; Th-Fr 09:00-19:00; Sa 08:00-15:00"
+opening_hours: Tu 09:00-19:00; We 09:00-12:00, 14:00-19:00; Th-Fr 09:00-19:00; Sa
+    08:00-15:00
 website: ""

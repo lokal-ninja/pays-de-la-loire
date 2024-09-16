@@ -1,11 +1,11 @@
 id: 42108504
-type: way
+type: node
 latitude: 47.46934
 longitude: -0.59414
 postcode: "49000"
 city: Angers
-street: "Rue du Grand Launay"
-housenumber: 
+street: Rue du Grand Launay
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-22:00"
-website: "https://www.grandmaine.com/"
+opening_hours: Mo-Sa 08:30-22:00
+website: https://www.grandmaine.com/

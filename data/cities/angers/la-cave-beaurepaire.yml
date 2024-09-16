@@ -4,8 +4,8 @@ latitude: 47.47498
 longitude: -0.56158
 postcode: "49100"
 city: Angers
-street: "Rue Beaurepaire"
-housenumber: 67
+street: Rue Beaurepaire
+housenumber: "67"
 phone: "+33241872761"
-opening_hours: "Tu-Sa 10:00-13:00,15:00-19:30"
-website: "https://www.cavebeaurepaire.com/"
+opening_hours: Tu-Sa 10:00-13:00,15:00-19:30
+website: https://www.cavebeaurepaire.com/

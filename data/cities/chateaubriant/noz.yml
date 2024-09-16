@@ -1,11 +1,11 @@
 id: 273811450
-type: way
+type: node
 latitude: 47.7034
 longitude: -1.39169
 postcode: "44110"
 city: Châteaubriant
-street: "Route de Saint-Nazaire"
-housenumber: 
+street: Route de Saint-Nazaire
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/chateaubriant/"
+website: https://nozarrivages.com/magasin/chateaubriant/

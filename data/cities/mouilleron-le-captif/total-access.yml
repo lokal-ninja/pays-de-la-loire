@@ -1,11 +1,11 @@
 id: 491158750
-type: way
+type: node
 latitude: 46.71333
 longitude: -1.43116
 postcode: "85000"
 city: Mouilleron-le-Captif
-street: "Rue du Clair Bocage"
-housenumber: 208
-phone: "+33 2 51 94 07 28"
-opening_hours: "24/7"
-website: "http://store.total.fr/fr_FR/NF080157"
+street: Rue du Clair Bocage
+housenumber: "208"
+phone: +33 2 51 94 07 28
+opening_hours: 24/7
+website: http://store.total.fr/fr_FR/NF080157

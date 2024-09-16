@@ -1,11 +1,11 @@
 id: 155129098
-type: way
+type: node
 latitude: 47.43724
 longitude: -2.08969
 postcode: "44160"
 city: Pontchâteau
-street: "Rue du Bouffay"
-housenumber: 4
-phone: "+33 2 40 88 20 00"
+street: Rue du Bouffay
+housenumber: "4"
+phone: +33 2 40 88 20 00
 opening_hours: ""
 website: ""

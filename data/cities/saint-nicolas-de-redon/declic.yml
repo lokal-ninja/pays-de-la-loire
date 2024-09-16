@@ -1,11 +1,11 @@
 id: 307731515
-type: way
+type: node
 latitude: 47.62897
 longitude: -2.05433
 postcode: "44460"
 city: Saint-Nicolas-de-Redon
-street: "Rue des Tilleuls"
-housenumber: 5
-phone: "+33 2 99 71 31 42"
+street: Rue des Tilleuls
+housenumber: "5"
+phone: +33 2 99 71 31 42
 opening_hours: ""
-website: "https://declic.coop"
+website: https://declic.coop

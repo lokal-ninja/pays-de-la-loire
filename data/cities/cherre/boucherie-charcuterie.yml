@@ -1,11 +1,11 @@
 id: 309757653
-type: way
+type: node
 latitude: 48.17418
 longitude: 0.65612
 postcode: "72400"
 city: Cherré
-street: "Rue Princesse Alice de Monaco"
+street: Rue Princesse Alice de Monaco
 housenumber: 17 Bis
-phone: "+33 2 43 71 22 19"
-opening_hours: "Tu-Sa 08:00-13:00; Fr 08:00-13:00, 16:00-19:30; Su 08:30-13:00"
+phone: +33 2 43 71 22 19
+opening_hours: Tu-Sa 08:00-13:00; Fr 08:00-13:00, 16:00-19:30; Su 08:30-13:00
 website: ""

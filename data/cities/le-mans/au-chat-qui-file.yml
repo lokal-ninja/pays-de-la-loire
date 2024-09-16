@@ -4,8 +4,8 @@ latitude: 48.00621
 longitude: 0.19511
 postcode: "72000"
 city: Le Mans
-street: "Rue de la Truie qui File"
-housenumber: 7
+street: Rue de la Truie qui File
+housenumber: "7"
 phone: ""
-opening_hours: "Th 15:30-19:00; Fr-Sa 10:30-19:00"
-website: "https://www.auchatquifile.fr/"
+opening_hours: Th 15:30-19:00; Fr-Sa 10:30-19:00
+website: https://www.auchatquifile.fr/

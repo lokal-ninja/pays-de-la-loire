@@ -1,11 +1,11 @@
 id: 72015322
-type: way
+type: node
 latitude: 46.84977
 longitude: -1.87597
 postcode: "85300"
 city: Challans
-street: "Ruelle de la Noue"
-housenumber: 
+street: Ruelle de la Noue
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:15-19:00; Tu 09:00-12:30, 14:30-19:00; We-Sa 09:30-12:30, 14:15-19:00"
-website: "http://destockage.millestocks.fr/"
+opening_hours: Mo 14:15-19:00; Tu 09:00-12:30, 14:30-19:00; We-Sa 09:30-12:30, 14:15-19:00
+website: http://destockage.millestocks.fr/

@@ -4,8 +4,8 @@ latitude: 47.22075
 longitude: -1.5486
 postcode: "44000"
 city: Nantes
-street: "Rue Maréchal Joffre"
-housenumber: 66
+street: Rue Maréchal Joffre
+housenumber: "66"
 phone: ""
-opening_hours: "Tu-Sa 10:00-20:00; Su 09:00-15:00"
+opening_hours: Tu-Sa 10:00-20:00; Su 09:00-15:00
 website: ""

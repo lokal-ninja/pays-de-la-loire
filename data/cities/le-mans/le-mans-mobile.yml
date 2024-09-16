@@ -4,8 +4,8 @@ latitude: 48.00386
 longitude: 0.20225
 postcode: "72000"
 city: Le Mans
-street: "Avenue du Général de Gaulle"
-housenumber: 7
+street: Avenue du Général de Gaulle
+housenumber: "7"
 phone: "+33668838893"
-opening_hours: "Mo-Sa 09:00-19:00"
+opening_hours: Mo-Sa 09:00-19:00
 website: ""

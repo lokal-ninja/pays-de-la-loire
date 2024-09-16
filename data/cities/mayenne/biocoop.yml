@@ -1,11 +1,11 @@
 id: 151953970
-type: way
+type: node
 latitude: 48.29743
 longitude: -0.61546
 postcode: "53100"
 city: Mayenne
-street: "Boulevard Anatole France"
-housenumber: 6
-phone: "+33 2 43 32 14 31"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://mayennebiosoleil.biocoop.net/"
+street: Boulevard Anatole France
+housenumber: "6"
+phone: +33 2 43 32 14 31
+opening_hours: Mo-Sa 09:00-19:30
+website: https://mayennebiosoleil.biocoop.net/

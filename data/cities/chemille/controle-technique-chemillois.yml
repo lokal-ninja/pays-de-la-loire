@@ -1,11 +1,11 @@
 id: 84482275
-type: way
+type: node
 latitude: 47.23057
 longitude: -0.72128
 postcode: "49120"
 city: Chemillé
-street: "Rue de l' Europe"
-housenumber: 2
+street: Rue de l' Europe
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

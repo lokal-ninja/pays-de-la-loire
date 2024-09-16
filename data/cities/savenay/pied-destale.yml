@@ -1,11 +1,11 @@
 id: 224594053
-type: way
+type: node
 latitude: 47.36023
 longitude: -1.94376
 postcode: "44260"
 city: Savenay
-street: "Rue de l'Église"
-housenumber: 10
+street: Rue de l'Église
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

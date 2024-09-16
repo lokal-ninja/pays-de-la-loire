@@ -1,11 +1,11 @@
 id: 72329993
-type: way
+type: node
 latitude: 47.30095
 longitude: -2.21107
 postcode: "44570"
 city: Trignac
-street: "Rue des Typhas"
-housenumber: 14
-phone: "+33 272547779"
+street: Rue des Typhas
+housenumber: "14"
+phone: +33 272547779
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/trignac/"
+website: https://nozarrivages.com/magasin/trignac/

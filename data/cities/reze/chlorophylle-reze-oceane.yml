@@ -1,11 +1,11 @@
 id: 84144147
-type: way
+type: node
 latitude: 47.1552
 longitude: -1.53638
 postcode: "44400"
 city: Rezé
-street: "Route des Sorinières"
-housenumber: 147
+street: Route des Sorinières
+housenumber: "147"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su off"
-website: "http://www.chlorophylle-coop.com/"
+opening_hours: Mo-Sa 09:00-19:30; Su off
+website: http://www.chlorophylle-coop.com/

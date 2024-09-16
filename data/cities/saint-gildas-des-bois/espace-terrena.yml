@@ -1,11 +1,11 @@
 id: 351204040
-type: way
+type: node
 latitude: 47.51994
 longitude: -2.04653
 postcode: "44530"
 city: Saint-Gildas-des-Bois
-street: "la Croix Daniel"
-housenumber: 
-phone: "+33 2 40 01 40 61"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
+street: la Croix Daniel
+housenumber: ""
+phone: +33 2 40 01 40 61
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
 website: ""

@@ -1,11 +1,11 @@
 id: 67786889
-type: way
+type: node
 latitude: 48.05022
 longitude: -0.74701
 postcode: "53000"
 city: Laval
-street: "Avenue d'Angers"
-housenumber: 240
+street: Avenue d'Angers
+housenumber: "240"
 phone: ""
-opening_hours: "Tu-Fr 07:00-13:30, 15:00-19:30; Sa 07:00-13:30, 15:00-19:00; Su 07:30-13:00"
+opening_hours: Tu-Fr 07:00-13:30, 15:00-19:30; Sa 07:00-13:30, 15:00-19:00; Su 07:30-13:00
 website: ""

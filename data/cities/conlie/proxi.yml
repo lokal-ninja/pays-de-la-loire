@@ -4,8 +4,8 @@ latitude: 48.12222
 longitude: -0.01687
 postcode: "72240"
 city: Conlie
-street: "Place des Halles"
-housenumber: 43
-phone: "+33 2 43 52 90 10"
-opening_hours: "Mo-Sa 08:30-13:00,14:30-20:00; Su 09:00-13:00"
+street: Place des Halles
+housenumber: "43"
+phone: +33 2 43 52 90 10
+opening_hours: Mo-Sa 08:30-13:00,14:30-20:00; Su 09:00-13:00
 website: ""

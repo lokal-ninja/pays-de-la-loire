@@ -1,11 +1,11 @@
 id: 135006073
-type: way
+type: node
 latitude: 47.69912
 longitude: -0.07731
 postcode: "72200"
 city: La Flèche
-street: "Rue Carnot"
-housenumber: 27
-phone: "+332 43 45 10 91"
+street: Rue Carnot
+housenumber: "27"
+phone: +332 43 45 10 91
 opening_hours: ""
 website: ""

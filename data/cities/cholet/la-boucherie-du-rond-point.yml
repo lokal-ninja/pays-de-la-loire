@@ -4,8 +4,8 @@ latitude: 47.04604
 longitude: -0.87581
 postcode: "49300"
 city: Cholet
-street: "Rue Roger Hostein"
-housenumber: 2
-phone: "+332 41 65 23 51"
-opening_hours: "Tu-Fr 08:30-13:00,15:30-19:15; Su 08:30-12:30; Mo off"
-website: "https://www.boucherieduparc.fr/"
+street: Rue Roger Hostein
+housenumber: "2"
+phone: +332 41 65 23 51
+opening_hours: Tu-Fr 08:30-13:00,15:30-19:15; Su 08:30-12:30; Mo off
+website: https://www.boucherieduparc.fr/

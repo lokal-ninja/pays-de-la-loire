@@ -1,11 +1,11 @@
 id: 68093465
-type: way
+type: node
 latitude: 46.99919
 longitude: -2.24665
 postcode: "85330"
 city: Noirmoutier-en-l'Île
-street: "Rue de l'Écluse"
-housenumber: 7
+street: Rue de l'Écluse
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

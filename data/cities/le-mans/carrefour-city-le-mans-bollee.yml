@@ -1,11 +1,11 @@
 id: 66200850
-type: way
+type: node
 latitude: 48.00134
 longitude: 0.21084
-postcode: "72000;72100"
+postcode: 72000;72100
 city: Le Mans
-street: "Avenue Léon Bollée"
-housenumber: 101
-phone: "+33 2 43 78 16 15"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-le-mans-bollee"
+street: Avenue Léon Bollée
+housenumber: "101"
+phone: +33 2 43 78 16 15
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-le-mans-bollee

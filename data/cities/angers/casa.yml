@@ -1,11 +1,11 @@
 id: 126973971
-type: way
+type: node
 latitude: 47.46835
 longitude: -0.52798
 postcode: "49000"
 city: Angers
-street: "Avenue Montaigne"
-housenumber: 75
-phone: "+33 2 41 36 78 81"
+street: Avenue Montaigne
+housenumber: "75"
+phone: +33 2 41 36 78 81
 opening_hours: ""
-website: "https://casashops.com"
+website: https://casashops.com

@@ -4,8 +4,8 @@ latitude: 46.9847
 longitude: -1.31908
 postcode: "85600"
 city: Montaigu
-street: "Route de Nantes Avenue Villebois Mareuil"
-housenumber: 13
-phone: "+33 2 51 09 29 29"
-opening_hours: "Mo-Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00,14:00-18:00"
-website: "https://concessions.peugeot.fr/"
+street: Route de Nantes Avenue Villebois Mareuil
+housenumber: "13"
+phone: +33 2 51 09 29 29
+opening_hours: Mo-Fr 08:30-12:00,14:00-19:00; Sa 08:30-12:00,14:00-18:00
+website: https://concessions.peugeot.fr/

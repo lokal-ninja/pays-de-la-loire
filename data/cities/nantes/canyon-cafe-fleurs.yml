@@ -4,8 +4,8 @@ latitude: 47.21784
 longitude: -1.55654
 postcode: "44000"
 city: Nantes
-street: "Rue de l'Hôtel de Ville"
-housenumber: 8
+street: Rue de l'Hôtel de Ville
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Sa 11:00-18:00"
+opening_hours: Tu-Sa 11:00-18:00
 website: ""

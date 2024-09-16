@@ -1,11 +1,11 @@
 id: 759119189
-type: way
+type: node
 latitude: 48.29786
 longitude: -0.61387
 postcode: "53100"
 city: Mayenne
-street: "Rue Louis Blériot"
-housenumber: 21
+street: Rue Louis Blériot
+housenumber: "21"
 phone: ""
 opening_hours: ""
 website: ""

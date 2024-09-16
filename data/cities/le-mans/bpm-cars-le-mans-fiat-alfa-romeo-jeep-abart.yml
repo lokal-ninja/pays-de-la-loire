@@ -1,11 +1,11 @@
 id: 67422296
-type: way
+type: node
 latitude: 47.97172
 longitude: 0.1747
 postcode: "72000"
 city: Le Mans
-street: "Boulevard Pierre Lefaucheux"
+street: Boulevard Pierre Lefaucheux
 housenumber: ZI SUD - 5
 phone: "0243852500"
-opening_hours: "Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-19:00"
-website: "https://www.bpmcars.fr/concessions/fiat-jeep-alfa-romeo-abarth-le-mans/"
+opening_hours: Mo-Fr 08:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-19:00
+website: https://www.bpmcars.fr/concessions/fiat-jeep-alfa-romeo-abarth-le-mans/

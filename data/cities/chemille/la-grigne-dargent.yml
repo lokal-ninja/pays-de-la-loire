@@ -1,11 +1,11 @@
 id: 93483786
-type: way
+type: node
 latitude: 47.20847
 longitude: -0.72962
 postcode: "49120"
 city: Chemillé
-street: "Rue Nationale"
-housenumber: 190
+street: Rue Nationale
+housenumber: "190"
 phone: ""
 opening_hours: ""
 website: ""

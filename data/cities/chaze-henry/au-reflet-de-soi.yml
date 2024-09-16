@@ -4,8 +4,9 @@ latitude: 47.7532
 longitude: -1.11034
 postcode: "49420"
 city: Chazé-Henry
-street: "Rue d'Anjou"
-housenumber: 31
-phone: "+33 2 41 92 55 79"
-opening_hours: "Tu 09:00-12:00,14:00-19:00; We 09:00-12:00,14:00-19:00; Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 07:00-16:00"
+street: Rue d'Anjou
+housenumber: "31"
+phone: +33 2 41 92 55 79
+opening_hours: Tu 09:00-12:00,14:00-19:00; We 09:00-12:00,14:00-19:00; Th 09:00-12:00,14:00-19:00;
+    Fr 09:00-19:00; Sa 07:00-16:00
 website: ""

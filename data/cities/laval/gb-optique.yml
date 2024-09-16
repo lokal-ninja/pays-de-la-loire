@@ -4,8 +4,8 @@ latitude: 48.06863
 longitude: -0.76106
 postcode: "53000"
 city: Laval
-street: "Boulevard Félix Grat"
-housenumber: 61
-phone: "+33 2 43 56 91 90"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-19:00"
-website: "https://www.gboptique.fr/"
+street: Boulevard Félix Grat
+housenumber: "61"
+phone: +33 2 43 56 91 90
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-19:00
+website: https://www.gboptique.fr/

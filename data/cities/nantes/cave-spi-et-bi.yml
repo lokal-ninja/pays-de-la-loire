@@ -4,8 +4,8 @@ latitude: 47.21361
 longitude: -1.56407
 postcode: "44000"
 city: Nantes
-street: "Place Paul-Émile Ladmirault"
-housenumber: 5
+street: Place Paul-Émile Ladmirault
+housenumber: "5"
 phone: ""
-opening_hours: "Mo-Sa 10:00-14:00,15:00-19:30"
+opening_hours: Mo-Sa 10:00-14:00,15:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 65558287
-type: way
+type: node
 latitude: 47.99774
 longitude: 0.21344
 postcode: ""
 city: Le Mans
-street: "Avenue Léon Bollée"
-housenumber: 154
+street: Avenue Léon Bollée
+housenumber: "154"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:30; Su 09:00-13:00"
-website: "https://www.magasins-u.com/magasin/uexpress-lemansbollee.m36785"
+opening_hours: Mo-Sa 08:30-20:30; Su 09:00-13:00
+website: https://www.magasins-u.com/magasin/uexpress-lemansbollee.m36785

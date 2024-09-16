@@ -1,11 +1,11 @@
 id: 64227968
-type: way
+type: node
 latitude: 47.12842
 longitude: -2.21522
 postcode: "44770"
 city: Préfailles
-street: "Grande Rue"
-housenumber: 6
+street: Grande Rue
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

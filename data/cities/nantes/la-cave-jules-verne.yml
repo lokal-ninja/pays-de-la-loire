@@ -4,8 +4,8 @@ latitude: 47.23985
 longitude: -1.53056
 postcode: "44300"
 city: Nantes
-street: "Boulevard Jules Verne"
-housenumber: 78
-phone: "+33 2 51 89 97 52"
-opening_hours: "Mo-Fr 09:30-12:30,14:30-19:30; Sa 09:30-13:00,14:00-19:00"
-website: "https://www.nantes-caviste.fr"
+street: Boulevard Jules Verne
+housenumber: "78"
+phone: +33 2 51 89 97 52
+opening_hours: Mo-Fr 09:30-12:30,14:30-19:30; Sa 09:30-13:00,14:00-19:00
+website: https://www.nantes-caviste.fr

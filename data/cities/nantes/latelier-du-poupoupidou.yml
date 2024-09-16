@@ -4,8 +4,9 @@ latitude: 47.20476
 longitude: -1.57512
 postcode: "44100"
 city: Nantes
-street: "Quai Ernest Renaud"
-housenumber: 21
+street: Quai Ernest Renaud
+housenumber: "21"
 phone: ""
-opening_hours: "Tu,We 11:30-17:00, Sa 10:30-19:30, Th 08:00-16:00, Sa 10:30-19:00, Fr 08:00-19:00"
+opening_hours: Tu,We 11:30-17:00, Sa 10:30-19:30, Th 08:00-16:00, Sa 10:30-19:00,
+    Fr 08:00-19:00
 website: ""

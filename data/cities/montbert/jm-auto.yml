@@ -1,11 +1,11 @@
 id: 79185362
-type: way
+type: node
 latitude: 47.05992
 longitude: -1.49162
 postcode: "44140"
 city: Montbert
-street: "Rue de la Gare"
-housenumber: 59
-phone: "+33 2 40 94 90 29"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:30"
+street: Rue de la Gare
+housenumber: "59"
+phone: +33 2 40 94 90 29
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:30
 website: ""

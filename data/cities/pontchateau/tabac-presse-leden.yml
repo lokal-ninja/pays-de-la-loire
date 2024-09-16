@@ -1,11 +1,11 @@
 id: 1310383573
-type: way
+type: node
 latitude: 47.43654
 longitude: -2.09127
 postcode: "44160"
 city: Pontchâteau
-street: "Rue Maurice Sambron"
-housenumber: 13
+street: Rue Maurice Sambron
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

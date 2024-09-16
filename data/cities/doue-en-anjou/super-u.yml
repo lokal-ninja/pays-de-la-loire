@@ -1,11 +1,11 @@
 id: 160990141
-type: way
+type: node
 latitude: 47.18953
 longitude: -0.2912
 postcode: "49700"
 city: Doué-en-Anjou
-street: "Boulevard du Docteur Lionet"
-housenumber: 
+street: Boulevard du Docteur Lionet
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

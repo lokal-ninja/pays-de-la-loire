@@ -4,8 +4,8 @@ latitude: 46.98047
 longitude: -1.32992
 postcode: "85600"
 city: Saint-Hilaire-de-Loulay
-street: "4 Rue Saint-Exupéry"
-housenumber: 4
+street: 4 Rue Saint-Exupéry
+housenumber: "4"
 phone: ""
-opening_hours: "Fr 09:00-17:00"
-website: "https://www.laressourcerieculturelle.com/"
+opening_hours: Fr 09:00-17:00
+website: https://www.laressourcerieculturelle.com/

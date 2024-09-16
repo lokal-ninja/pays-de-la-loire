@@ -4,8 +4,8 @@ latitude: 48.07885
 longitude: -0.7523
 postcode: "53000"
 city: Laval
-street: "Avenue de Mayenne"
-housenumber: 58
-phone: "+33 2 43 65 96 36"
-opening_hours: "Mo-Sa 08:00-15:00"
-website: "https://www.boulangerie-ange.fr/?magasin_id=70"
+street: Avenue de Mayenne
+housenumber: "58"
+phone: +33 2 43 65 96 36
+opening_hours: Mo-Sa 08:00-15:00
+website: https://www.boulangerie-ange.fr/?magasin_id=70

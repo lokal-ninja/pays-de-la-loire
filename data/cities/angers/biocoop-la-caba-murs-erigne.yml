@@ -4,8 +4,8 @@ latitude: 47.39974
 longitude: -0.53105
 postcode: "49000"
 city: Angers
-street: "Route de Cholet"
-housenumber: 34
-phone: "+33 2 41 80 31 28"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://biocoop-caba.fr/"
+street: Route de Cholet
+housenumber: "34"
+phone: +33 2 41 80 31 28
+opening_hours: Mo-Sa 09:00-19:30
+website: https://biocoop-caba.fr/

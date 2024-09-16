@@ -1,11 +1,11 @@
 id: 66102074
-type: way
+type: node
 latitude: 46.91015
 longitude: -2.03043
 postcode: "85230"
 city: Beauvoir-sur-Mer
-street: "Route de la Roche-sur-Yon"
-housenumber: 39
+street: Route de la Roche-sur-Yon
+housenumber: "39"
 phone: ""
 opening_hours: ""
 website: ""

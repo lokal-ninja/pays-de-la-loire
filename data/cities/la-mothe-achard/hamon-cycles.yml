@@ -1,11 +1,11 @@
 id: 107964406
-type: way
+type: node
 latitude: 46.61807
 longitude: -1.65967
 postcode: "85150"
 city: La Mothe-Achard
-street: "Place de l'Hôtel de Ville"
-housenumber: 26
+street: Place de l'Hôtel de Ville
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

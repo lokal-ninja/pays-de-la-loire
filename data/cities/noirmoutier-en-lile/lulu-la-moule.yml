@@ -1,11 +1,11 @@
 id: 68092840
-type: way
+type: node
 latitude: 47.00089
 longitude: -2.24507
 postcode: "85330"
 city: Noirmoutier-en-l'Île
-street: "Grande Rue"
-housenumber: 22
+street: Grande Rue
+housenumber: "22"
 phone: ""
 opening_hours: ""
 website: ""

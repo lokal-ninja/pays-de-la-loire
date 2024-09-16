@@ -1,11 +1,11 @@
 id: 134831572
-type: way
+type: node
 latitude: 47.46823
 longitude: -0.51847
 postcode: "49000"
 city: Saint-Barthélemy-d'Anjou
-street: "Rue de Malmouche"
-housenumber: 31
-phone: "+33 2 41 60 13 34"
-opening_hours: "Mo-Sa 09:00-19:15"
-website: "https://magasin.netto.fr/183-netto-saint-barthelemy-d-anjou"
+street: Rue de Malmouche
+housenumber: "31"
+phone: +33 2 41 60 13 34
+opening_hours: Mo-Sa 09:00-19:15
+website: https://magasin.netto.fr/183-netto-saint-barthelemy-d-anjou

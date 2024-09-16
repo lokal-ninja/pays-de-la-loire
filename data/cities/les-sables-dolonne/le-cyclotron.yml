@@ -4,8 +4,8 @@ latitude: 46.49473
 longitude: -1.78295
 postcode: "85100"
 city: Les Sables-d'Olonne
-street: "Promenade Georges Clemenceau"
-housenumber: 66
-phone: "+33 2 51 32 64 15"
+street: Promenade Georges Clemenceau
+housenumber: "66"
+phone: +33 2 51 32 64 15
 opening_hours: ""
-website: "https://cyclotron-location.fr/"
+website: https://cyclotron-location.fr/

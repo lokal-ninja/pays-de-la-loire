@@ -4,8 +4,8 @@ latitude: 48.00164
 longitude: 0.19757
 postcode: "72000"
 city: Le Mans
-street: "Rue des Minimes"
-housenumber: 36
-phone: "+33 6 87 37 18 95"
-opening_hours: "Sur rendez-vous"
+street: Rue des Minimes
+housenumber: "36"
+phone: +33 6 87 37 18 95
+opening_hours: '"Sur rendez-vous"'
 website: ""

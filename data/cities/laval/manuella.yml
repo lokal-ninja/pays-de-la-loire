@@ -4,8 +4,8 @@ latitude: 48.06993
 longitude: -0.77308
 postcode: "53000"
 city: Laval
-street: "Rue des Déportés"
-housenumber: 12
-phone: "+33 2 43 53 33 83"
-opening_hours: "Tu-Fr 10:00-12:30,14:00-19:00; Sa 09:30-12:30,14:00-19:00; PH off"
+street: Rue des Déportés
+housenumber: "12"
+phone: +33 2 43 53 33 83
+opening_hours: Tu-Fr 10:00-12:30,14:00-19:00; Sa 09:30-12:30,14:00-19:00; PH off
 website: ""

@@ -1,11 +1,11 @@
 id: 108902527
-type: way
+type: node
 latitude: 46.51372
 longitude: -1.7896
 postcode: "85340"
 city: Olonne-sur-Mer
-street: "Rue Georges Clemenceau"
-housenumber: 108
+street: Rue Georges Clemenceau
+housenumber: "108"
 phone: ""
 opening_hours: ""
 website: ""

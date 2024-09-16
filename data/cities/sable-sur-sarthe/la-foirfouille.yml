@@ -4,8 +4,8 @@ latitude: 47.83606
 longitude: -0.29898
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Avenue de l'Europe"
-housenumber: 
-phone: "+33 2 43 62 06 30"
-opening_hours: "Mo 10:00-12:30,14:00-19:00; Th-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00"
-website: "https://www.lafoirfouille.fr/"
+street: Avenue de l'Europe
+housenumber: ""
+phone: +33 2 43 62 06 30
+opening_hours: Mo 10:00-12:30,14:00-19:00; Th-Fr 09:30-12:30,14:00-19:00; Sa 09:30-19:00
+website: https://www.lafoirfouille.fr/

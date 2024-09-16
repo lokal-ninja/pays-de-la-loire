@@ -1,11 +1,11 @@
 id: 126924118
-type: way
+type: node
 latitude: 47.45226
 longitude: -0.5265
 postcode: "49000"
 city: Angers
-street: "Square Louis Jouvet"
-housenumber: 
+street: Square Louis Jouvet
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.36531
 longitude: -1.17751
 postcode: "44150"
 city: Ancenis
-street: "Place Jeanne-d'Arc"
-housenumber: 41
-phone: "+33 2 40 98 81 54"
-opening_hours: "Tu,We,Fr 10:00-19:00; Th 09:00-19:00; Sa 10:00-18:30"
-website: "https://www.librairie-plumeetfabulettes.fr/"
+street: Place Jeanne-d'Arc
+housenumber: "41"
+phone: +33 2 40 98 81 54
+opening_hours: Tu,We,Fr 10:00-19:00; Th 09:00-19:00; Sa 10:00-18:30
+website: https://www.librairie-plumeetfabulettes.fr/

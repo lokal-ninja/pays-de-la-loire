@@ -1,11 +1,11 @@
 id: 67433624
-type: way
+type: node
 latitude: 48.00597
 longitude: 0.19971
 postcode: "72000"
 city: Le Mans
-street: "Rue Claude Blondeau"
-housenumber: 13
+street: Rue Claude Blondeau
+housenumber: "13"
 phone: ""
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "http://www.centre-jacobins.com/"
+opening_hours: Mo-Sa 10:00-19:00
+website: http://www.centre-jacobins.com/

@@ -1,11 +1,11 @@
 id: 67417264
-type: way
+type: node
 latitude: 48.01372
 longitude: 0.15148
 postcode: "72000"
 city: Le Mans
-street: "Avenue Georges Auric"
-housenumber: 
+street: Avenue Georges Auric
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

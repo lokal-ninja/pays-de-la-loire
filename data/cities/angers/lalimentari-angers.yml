@@ -4,8 +4,8 @@ latitude: 47.47168
 longitude: -0.55356
 postcode: "49100"
 city: Angers
-street: "Rue Saint-Laud"
-housenumber: 59
+street: Rue Saint-Laud
+housenumber: "59"
 phone: "+33983282731"
-opening_hours: "Mo-Sa 08:00-18:00"
-website: "https://www.alimentari-angers.fr/"
+opening_hours: Mo-Sa 08:00-18:00
+website: https://www.alimentari-angers.fr/

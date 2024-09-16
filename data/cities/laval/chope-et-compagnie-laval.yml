@@ -4,8 +4,8 @@ latitude: 48.07832
 longitude: -0.79776
 postcode: "53000"
 city: Laval
-street: "Passage du Docteur Bernard Queinnec"
-housenumber: 36
+street: Passage du Docteur Bernard Queinnec
+housenumber: "36"
 phone: "+33983936126"
-opening_hours: "Mo 15:00-21:00; Tu-We 11:00-21:00; Th-Sa: 11:00-22:00"
-website: "https://www.chopeetcompagnie-laval.fr/"
+opening_hours: 'Mo 15:00-21:00; Tu-We 11:00-21:00; Th-Sa: 11:00-22:00'
+website: https://www.chopeetcompagnie-laval.fr/

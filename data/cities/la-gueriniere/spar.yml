@@ -1,11 +1,11 @@
 id: 73287785
-type: way
+type: node
 latitude: 46.96642
 longitude: -2.21676
 postcode: "85680"
 city: La Guérinière
-street: "Rue de la Tresson"
-housenumber: 
+street: Rue de la Tresson
+housenumber: ""
 phone: "+33251356338"
-opening_hours: "Tu 08:00-13:00,16:00-19:00; We 08:00-13:00; Th-Su 08:00-13:00,16:00-19:00"
-website: "https://magasins.spar.fr/fr/s/spar-la-gueriniere-caravanile"
+opening_hours: Tu 08:00-13:00,16:00-19:00; We 08:00-13:00; Th-Su 08:00-13:00,16:00-19:00
+website: https://magasins.spar.fr/fr/s/spar-la-gueriniere-caravanile

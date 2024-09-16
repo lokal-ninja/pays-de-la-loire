@@ -1,11 +1,11 @@
 id: 288229496
-type: way
+type: node
 latitude: 46.83002
 longitude: -1.59708
 postcode: "85670"
 city: Saint-Étienne-du-Bois
-street: "Place des Anciens Combattants"
-housenumber: 
+street: Place des Anciens Combattants
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

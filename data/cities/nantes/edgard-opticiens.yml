@@ -4,8 +4,8 @@ latitude: 47.21352
 longitude: -1.56096
 postcode: "44000"
 city: Nantes
-street: "Rue Crébillon"
-housenumber: 17
-phone: "+33 2 85 29 34 50"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 09:00-19:00"
-website: "https://www.edgard-opticiens.com"
+street: Rue Crébillon
+housenumber: "17"
+phone: +33 2 85 29 34 50
+opening_hours: Mo 14:00-19:00; Tu-Sa 09:00-19:00
+website: https://www.edgard-opticiens.com

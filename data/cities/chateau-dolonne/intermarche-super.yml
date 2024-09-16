@@ -1,11 +1,11 @@
 id: 170376766
-type: way
+type: node
 latitude: 46.49473
 longitude: -1.74917
 postcode: "85180"
 city: Château-d'Olonne
-street: "Rue des Plesses"
-housenumber: 
+street: Rue des Plesses
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:45-20:00; Su 09:00-12:30"
+opening_hours: Mo-Sa 08:45-20:00; Su 09:00-12:30
 website: ""

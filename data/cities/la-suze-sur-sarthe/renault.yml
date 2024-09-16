@@ -1,11 +1,11 @@
 id: 310255364
-type: way
+type: node
 latitude: 47.89309
 longitude: 0.04191
 postcode: "72210"
 city: La Suze-sur-Sarthe
-street: "Rue Camille Claudel"
-housenumber: 3
+street: Rue Camille Claudel
+housenumber: "3"
 phone: "+33243773882"
-opening_hours: "Mo-Fr 08:00-12:00; Mo-Fr 14:00-18:45; Sa 09:30-12:30; Sa 14:00-17:00"
-website: "https://garage-renault-la-suze.fr/"
+opening_hours: Mo-Fr 08:00-12:00; Mo-Fr 14:00-18:45; Sa 09:30-12:30; Sa 14:00-17:00
+website: https://garage-renault-la-suze.fr/

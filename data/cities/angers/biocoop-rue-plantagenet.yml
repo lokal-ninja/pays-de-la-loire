@@ -4,8 +4,8 @@ latitude: 47.47192
 longitude: -0.55431
 postcode: "49100"
 city: Angers
-street: "Rue Plantagenêt"
-housenumber: 57
-phone: "+33 2 49 89 03 30"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.biocoop-caba.fr/magasin/angers-fleur-deau/"
+street: Rue Plantagenêt
+housenumber: "57"
+phone: +33 2 49 89 03 30
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.biocoop-caba.fr/magasin/angers-fleur-deau/

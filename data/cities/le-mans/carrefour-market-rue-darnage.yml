@@ -1,11 +1,11 @@
 id: 65552907
-type: way
+type: node
 latitude: 47.98578
 longitude: 0.18504
 postcode: "72100"
 city: Le Mans
-street: "Rue d'Arnage"
-housenumber: 168
-phone: "+33 2 43 85 90 20"
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.carrefour.fr/magasin/market-le-mans-la-pointe"
+street: Rue d'Arnage
+housenumber: "168"
+phone: +33 2 43 85 90 20
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.carrefour.fr/magasin/market-le-mans-la-pointe

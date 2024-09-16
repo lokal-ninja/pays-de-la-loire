@@ -1,11 +1,11 @@
 id: 160779449
-type: way
+type: node
 latitude: 48.06085
 longitude: -0.93516
 postcode: "53320"
 city: Loiron
-street: "Rue du Docteur Ramé"
-housenumber: 26
+street: Rue du Docteur Ramé
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

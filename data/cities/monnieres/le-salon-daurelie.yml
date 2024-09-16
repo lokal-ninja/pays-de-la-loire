@@ -4,8 +4,8 @@ latitude: 47.13139
 longitude: -1.3556
 postcode: "44690"
 city: Monnières
-street: "Rue de la Mairie"
-housenumber: 2
-phone: "+33 2 40 54 68 27"
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:00-16:00"
+street: Rue de la Mairie
+housenumber: "2"
+phone: +33 2 40 54 68 27
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:00-16:00
 website: ""

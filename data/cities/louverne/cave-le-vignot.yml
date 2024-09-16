@@ -1,11 +1,11 @@
 id: 800787665
-type: way
+type: node
 latitude: 48.12242
 longitude: -0.72311
 postcode: "53950"
 city: Louverné
-street: "Rue du Lavoir"
-housenumber: 7
-phone: "+33 2 43 37 61 52"
+street: Rue du Lavoir
+housenumber: "7"
+phone: +33 2 43 37 61 52
 opening_hours: ""
-website: "http://www.levignot.com/"
+website: http://www.levignot.com/

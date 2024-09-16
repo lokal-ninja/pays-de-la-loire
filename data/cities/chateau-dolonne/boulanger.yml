@@ -1,11 +1,11 @@
 id: 170380194
-type: way
+type: node
 latitude: 46.491
 longitude: -1.751
 postcode: "85180"
 city: Château-d'Olonne
 street: ""
-housenumber: 26
+housenumber: "26"
 phone: "+33251237777"
 opening_hours: ""
-website: "https://www.boulanger.com/magasins/pays-de-la-loire/vendee/les-sables-d-olonne/26-rue-des-plesses"
+website: https://www.boulanger.com/magasins/pays-de-la-loire/vendee/les-sables-d-olonne/26-rue-des-plesses

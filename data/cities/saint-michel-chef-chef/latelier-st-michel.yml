@@ -1,11 +1,12 @@
 id: 64253125
-type: way
+type: node
 latitude: 47.18051
 longitude: -2.14781
 postcode: "44730"
 city: Saint-Michel-Chef-Chef
-street: "Rue du Chevecier"
-housenumber: 8
+street: Rue du Chevecier
+housenumber: "8"
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:30, 14:00-19:00; Su 09:30-12:30; May,Jun,Sep: Mo-Sa 09:30-19:00; Jul-Aug: Mo-Sa 09:30-19:30; May-Sep: Su,PH 09:30-19:00"
+opening_hours: 'Mo-Sa 09:30-12:30, 14:00-19:00; Su 09:30-12:30; May,Jun,Sep: Mo-Sa
+    09:30-19:00; Jul-Aug: Mo-Sa 09:30-19:30; May-Sep: Su,PH 09:30-19:00'
 website: ""

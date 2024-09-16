@@ -1,11 +1,11 @@
 id: 74026166
-type: way
+type: node
 latitude: 46.36967
 longitude: -0.59461
 postcode: "85490"
 city: Benet
 street: ""
-housenumber: 2
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:15"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:15
 website: ""

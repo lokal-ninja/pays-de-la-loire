@@ -1,11 +1,11 @@
 id: 64775453
-type: way
+type: node
 latitude: 46.89147
 longitude: -1.83143
 postcode: "85710"
 city: La Garnache
-street: "Rue du Centre"
-housenumber: 
+street: Rue du Centre
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

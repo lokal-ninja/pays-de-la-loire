@@ -1,11 +1,11 @@
 id: 1147991094
-type: way
+type: node
 latitude: 46.77259
 longitude: -0.83472
 postcode: "85700"
 city: Pouzauges
-street: "Rue Gustave Eiffel"
-housenumber: 23
+street: Rue Gustave Eiffel
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 240371947
-type: way
+type: node
 latitude: 47.6938
 longitude: 0.4236
 postcode: "72500"
 city: Château-du-Loir
-street: "Rue Sainte-Cécile"
-housenumber: 9
+street: Rue Sainte-Cécile
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

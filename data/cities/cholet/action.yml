@@ -1,11 +1,11 @@
 id: 164498204
-type: way
+type: node
 latitude: 47.07528
 longitude: -0.84553
 postcode: "49300"
 city: Cholet
-street: "Rue des Pagannes"
-housenumber: 
+street: Rue des Pagannes
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30"
+opening_hours: Mo-Sa 08:30-19:30
 website: ""

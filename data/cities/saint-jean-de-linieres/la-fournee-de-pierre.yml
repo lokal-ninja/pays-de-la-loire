@@ -4,8 +4,8 @@ latitude: 47.4591
 longitude: -0.65903
 postcode: "49070"
 city: Saint-Jean-de-Linières
-street: "Place des Plantagenêts"
-housenumber: 15
-phone: "+33 2 41 39 76 06; +33 2 41 19 40 93"
-opening_hours: "Tu-Su 07:00-13:00,16:00-19:30"
-website: "https://www.lafourneedepierre.fr/"
+street: Place des Plantagenêts
+housenumber: "15"
+phone: +33 2 41 39 76 06; +33 2 41 19 40 93
+opening_hours: Tu-Su 07:00-13:00,16:00-19:30
+website: https://www.lafourneedepierre.fr/

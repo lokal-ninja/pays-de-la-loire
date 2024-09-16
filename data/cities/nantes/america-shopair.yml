@@ -4,8 +4,8 @@ latitude: 47.23632
 longitude: -1.58423
 postcode: "44100"
 city: Nantes
-street: "Route de Vannes"
-housenumber: 108
+street: Route de Vannes
+housenumber: "108"
 phone: ""
-opening_hours: "Tu-Sa 10:00-19:30"
+opening_hours: Tu-Sa 10:00-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 241144170
-type: way
+type: node
 latitude: 47.44046
 longitude: -0.21603
 postcode: "49250"
 city: Beaufort-en-Anjou
-street: "Rue d'Alsace"
-housenumber: 2
+street: Rue d'Alsace
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

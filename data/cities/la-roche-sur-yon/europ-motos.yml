@@ -1,11 +1,11 @@
 id: 86228827
-type: way
+type: node
 latitude: 46.66233
 longitude: -1.43812
 postcode: "85000"
 city: La Roche-sur-Yon
-street: "Impasse Ampère"
-housenumber: 60
+street: Impasse Ampère
+housenumber: "60"
 phone: ""
 opening_hours: ""
 website: ""

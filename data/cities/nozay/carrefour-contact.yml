@@ -1,11 +1,11 @@
 id: 276172797
-type: way
+type: node
 latitude: 47.56417
 longitude: -1.61849
 postcode: ""
 city: Nozay
-street: "Rue Marie Curie"
-housenumber: 1
-phone: "+33 2 40 79 40 87"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/contact-nozay"
+street: Rue Marie Curie
+housenumber: "1"
+phone: +33 2 40 79 40 87
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/contact-nozay

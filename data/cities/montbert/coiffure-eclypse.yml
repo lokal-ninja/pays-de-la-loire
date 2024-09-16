@@ -1,11 +1,11 @@
 id: 79187414
-type: way
+type: node
 latitude: 47.05693
 longitude: -1.48759
 postcode: "44140"
 city: Montbert
-street: "Place de l'Église"
-housenumber: 8
+street: Place de l'Église
+housenumber: "8"
 phone: ""
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-15:00"
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-15:00
 website: ""

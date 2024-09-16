@@ -4,8 +4,8 @@ latitude: 47.46664
 longitude: -0.55244
 postcode: "49100"
 city: Angers
-street: "Boulevard du Maréchal Foch"
-housenumber: 59
+street: Boulevard du Maréchal Foch
+housenumber: "59"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://biocoop-caba.fr/"
+opening_hours: Mo-Sa 09:30-19:30
+website: https://biocoop-caba.fr/

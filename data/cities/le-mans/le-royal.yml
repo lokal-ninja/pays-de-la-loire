@@ -1,11 +1,11 @@
 id: 65133885
-type: way
+type: node
 latitude: 47.97431
 longitude: 0.20665
 postcode: "72100"
 city: Le Mans
-street: "Avenue Félix Géneslay"
-housenumber: 255
+street: Avenue Félix Géneslay
+housenumber: "255"
 phone: ""
 opening_hours: ""
 website: ""

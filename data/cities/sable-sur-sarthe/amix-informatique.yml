@@ -4,8 +4,8 @@ latitude: 47.84114
 longitude: -0.33704
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Rue Gambetta"
-housenumber: 24
-phone: "+33 2 43 92 66 22"
-opening_hours: "Mo-fr 09:00-12:00,14:00-18:30"
-website: "http://www.amix.fr/"
+street: Rue Gambetta
+housenumber: "24"
+phone: +33 2 43 92 66 22
+opening_hours: Mo-fr 09:00-12:00,14:00-18:30
+website: http://www.amix.fr/

@@ -4,8 +4,8 @@ latitude: 47.20916
 longitude: -1.57132
 postcode: "44100"
 city: Nantes
-street: "Rue Mathurin Brissonneau"
-housenumber: 17
+street: Rue Mathurin Brissonneau
+housenumber: "17"
 phone: ""
-opening_hours: "Mo 16:00-20:00; Tu-Th 10:00-19:00; Fr 10:00-20:30; Sa 09:00-16:00"
-website: "https://grainflori.fr/"
+opening_hours: Mo 16:00-20:00; Tu-Th 10:00-19:00; Fr 10:00-20:30; Sa 09:00-16:00
+website: https://grainflori.fr/

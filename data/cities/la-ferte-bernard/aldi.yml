@@ -1,11 +1,11 @@
 id: 230707354
-type: way
+type: node
 latitude: 48.19255
 longitude: 0.66396
 postcode: "72400"
 city: La Ferté-Bernard
-street: "Avenue de Verdun"
-housenumber: 116
+street: Avenue de Verdun
+housenumber: "116"
 phone: ""
 opening_hours: ""
 website: ""

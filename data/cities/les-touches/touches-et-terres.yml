@@ -4,8 +4,8 @@ latitude: 47.4421
 longitude: -1.43147
 postcode: "44390"
 city: Les Touches
-street: "Place de la Mairie"
-housenumber: 5
-phone: "+33 2 28 24 07 70"
-opening_hours: "We, Fr, Sa 09:30-12:30, 15:00-19:00; Tu, Su 09:30-12:30"
+street: Place de la Mairie
+housenumber: "5"
+phone: +33 2 28 24 07 70
+opening_hours: We, Fr, Sa 09:30-12:30, 15:00-19:00; Tu, Su 09:30-12:30
 website: ""

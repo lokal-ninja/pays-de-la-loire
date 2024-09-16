@@ -1,11 +1,11 @@
 id: 71567785
-type: way
+type: node
 latitude: 47.32862
 longitude: -2.41541
 postcode: "44350"
 city: Guérande
-street: "Rue de la Fuie"
-housenumber: 2
+street: Rue de la Fuie
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:15-12:00,14:00-19:00"
+opening_hours: Mo-Sa 09:15-12:00,14:00-19:00
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.49574
 longitude: -1.42022
 postcode: "44440"
 city: Joué-sur-Erdre
-street: "Place André Mazureau"
-housenumber: 12
-phone: "+33 2 51 81 83 94"
-opening_hours: "Mo 14:00-18:00;Tu,Th 09:00-12:30,15:00-19:00;Fr,Sa 09:00-12:30,14:30-19:00;Su 09:00-12:30"
+street: Place André Mazureau
+housenumber: "12"
+phone: +33 2 51 81 83 94
+opening_hours: Mo 14:00-18:00;Tu,Th 09:00-12:30,15:00-19:00;Fr,Sa 09:00-12:30,14:30-19:00;Su
+    09:00-12:30
 website: ""

@@ -1,11 +1,11 @@
 id: 106925171
-type: way
+type: node
 latitude: 47.51981
 longitude: -0.66734
 postcode: "49770"
 city: La Meignanne
-street: "Rue du Plessis"
-housenumber: 2
+street: Rue du Plessis
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

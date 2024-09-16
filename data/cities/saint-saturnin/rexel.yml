@@ -1,11 +1,11 @@
 id: 151297866
-type: way
+type: node
 latitude: 48.04707
 longitude: 0.17032
 postcode: "72650"
 city: Saint-Saturnin
-street: "Rue des Petites Marniéres"
-housenumber: 5
+street: Rue des Petites Marniéres
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

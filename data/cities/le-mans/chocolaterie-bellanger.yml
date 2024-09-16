@@ -1,11 +1,11 @@
 id: 67456059
-type: way
+type: node
 latitude: 48.01161
 longitude: 0.15589
 postcode: "72000"
 city: Le Mans
-street: "Rue de Beaugé"
-housenumber: 
+street: Rue de Beaugé
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

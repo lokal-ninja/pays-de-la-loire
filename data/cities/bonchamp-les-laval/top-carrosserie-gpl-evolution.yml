@@ -4,8 +4,8 @@ latitude: 48.0704
 longitude: -0.70423
 postcode: "53960"
 city: Bonchamp-lès-Laval
-street: "Route du Mans"
-housenumber: 4
-phone: "+33 2 43 49 08 59"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-18:00"
-website: "https://carrossiers.top-carrosserie.fr/216-gpl-evolution"
+street: Route du Mans
+housenumber: "4"
+phone: +33 2 43 49 08 59
+opening_hours: Mo-Fr 08:00-12:00,14:00-18:00
+website: https://carrossiers.top-carrosserie.fr/216-gpl-evolution

@@ -5,7 +5,7 @@ longitude: -0.62615
 postcode: ""
 city: Beaucouzé
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "10:00-20:00; Su off"
-website: "https://www.lesopticiensmutualistes.fr"
+opening_hours: 10:00-20:00; Su off
+website: https://www.lesopticiensmutualistes.fr

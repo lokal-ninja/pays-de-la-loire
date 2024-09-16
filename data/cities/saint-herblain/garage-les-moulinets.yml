@@ -4,8 +4,8 @@ latitude: 47.21092
 longitude: -1.62105
 postcode: "44800"
 city: SAINT HERBLAIN
-street: "Rue de la Rabotière"
-housenumber: 1
-phone: "+33 2 40 46 56 56"
-opening_hours: "Mo-Sa 8:00-12:30,14:00-19:00"
-website: "http://www.garage-les-moulinets.com/"
+street: Rue de la Rabotière
+housenumber: "1"
+phone: +33 2 40 46 56 56
+opening_hours: Mo-Sa 8:00-12:30,14:00-19:00
+website: http://www.garage-les-moulinets.com/

@@ -4,8 +4,8 @@ latitude: 47.1791
 longitude: -1.2581
 postcode: "44330"
 city: Vallet
-street: "Rue de la Grande Perrière"
-housenumber: 4
-phone: "+33 2 40 33 92 39"
-opening_hours: "Mo-Fr 08:00-12:15,14:00-19:00; Sa 08:00-12:00"
-website: "https://reseau.citroen.fr/reparateur-vallet-01"
+street: Rue de la Grande Perrière
+housenumber: "4"
+phone: +33 2 40 33 92 39
+opening_hours: Mo-Fr 08:00-12:15,14:00-19:00; Sa 08:00-12:00
+website: https://reseau.citroen.fr/reparateur-vallet-01

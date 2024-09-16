@@ -1,11 +1,11 @@
 id: 259421208
-type: way
+type: node
 latitude: 48.36732
 longitude: -0.51783
 postcode: "53640"
 city: Champéon
-street: "Rue de la Touche"
-housenumber: 9
+street: Rue de la Touche
+housenumber: "9"
 phone: ""
-opening_hours: "08:00-12:30,15:30-20:00"
+opening_hours: 08:00-12:30,15:30-20:00
 website: ""

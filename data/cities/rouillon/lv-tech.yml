@@ -1,11 +1,11 @@
 id: 207346898
-type: way
+type: node
 latitude: 48.01217
 longitude: 0.14876
 postcode: "72700"
 city: Rouillon
-street: "Avenue Georges Auric"
-housenumber: 
+street: Avenue Georges Auric
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

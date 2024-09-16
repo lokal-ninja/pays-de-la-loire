@@ -4,8 +4,8 @@ latitude: 48.06831
 longitude: -0.80089
 postcode: "53000"
 city: Laval
-street: "Rue de Bretagne"
-housenumber: 353
-phone: "+33 243107140"
-opening_hours: "Mo-Th 09:30-12:30,14:30-19:00; Fr-Sa 09:00-19:00"
-website: "https://leseleveursdelacharentonne.fr"
+street: Rue de Bretagne
+housenumber: "353"
+phone: +33 243107140
+opening_hours: Mo-Th 09:30-12:30,14:30-19:00; Fr-Sa 09:00-19:00
+website: https://leseleveursdelacharentonne.fr

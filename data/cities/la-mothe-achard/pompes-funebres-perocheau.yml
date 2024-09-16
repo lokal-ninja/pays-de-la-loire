@@ -1,11 +1,11 @@
 id: 378153480
-type: way
+type: node
 latitude: 46.62078
 longitude: -1.6548
 postcode: "85150"
 city: La Mothe-Achard
-street: "Avenue Napoléon Bonaparte"
-housenumber: 28
+street: Avenue Napoléon Bonaparte
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

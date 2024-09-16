@@ -1,11 +1,11 @@
 id: 65503704
-type: way
+type: node
 latitude: 47.18861
 longitude: -1.48352
 postcode: "44230"
 city: Saint-Sébastien-sur-Loire
-street: "Rue Marie Curie"
-housenumber: 12
+street: Rue Marie Curie
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

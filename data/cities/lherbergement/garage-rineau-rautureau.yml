@@ -1,11 +1,11 @@
 id: 166826847
-type: way
+type: node
 latitude: 46.90677
 longitude: -1.37829
 postcode: "85260"
 city: L'Herbergement
-street: "Rue Georges Clemenceau"
-housenumber: 36
+street: Rue Georges Clemenceau
+housenumber: "36"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 86620827
-type: way
+type: node
 latitude: 47.66725
 longitude: -1.67129
 postcode: ""
 city: Derval
-street: "Rue de Rennes"
-housenumber: 2
+street: Rue de Rennes
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 09:00-12:30,15:00-19:00; Su 10:00-12:30"
+opening_hours: Tu-Sa 09:00-12:30,15:00-19:00; Su 10:00-12:30
 website: ""

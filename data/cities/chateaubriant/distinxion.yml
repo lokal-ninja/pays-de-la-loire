@@ -1,11 +1,12 @@
 id: 1052652032
-type: way
+type: node
 latitude: 47.70603
 longitude: -1.39363
 postcode: "44110"
 city: Châteaubriant
-street: "Rue du Général Eisenhower"
-housenumber: 
-phone: "+33 2 40 28 71 50"
-opening_hours: "Mo-Th 08:00-12:00,14:00-18:00; We off; Th-fr 08:00-12:00,14:00-18:00; Sa 09:00-12:00,14:00-17:00"
-website: "https://www.ad.fr/garage/garage-ad-expert-ajb-action-auto-44?utm_source=google&utm_medium=organic&utm_campaign=google_my_business"
+street: Rue du Général Eisenhower
+housenumber: ""
+phone: +33 2 40 28 71 50
+opening_hours: Mo-Th 08:00-12:00,14:00-18:00; We off; Th-fr 08:00-12:00,14:00-18:00;
+    Sa 09:00-12:00,14:00-17:00
+website: https://www.ad.fr/garage/garage-ad-expert-ajb-action-auto-44?utm_source=google&utm_medium=organic&utm_campaign=google_my_business

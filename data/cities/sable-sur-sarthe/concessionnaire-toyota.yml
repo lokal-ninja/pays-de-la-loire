@@ -1,11 +1,11 @@
 id: 245543815
-type: way
+type: node
 latitude: 47.82863
 longitude: -0.30966
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Route de la Flèche"
-housenumber: 18
+street: Route de la Flèche
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.46252
 longitude: -0.55237
 postcode: "49000"
 city: Angers
-street: "Rue Dupetit-Thouars"
-housenumber: 17
+street: Rue Dupetit-Thouars
+housenumber: "17"
 phone: ""
-opening_hours: "Mo 12:00-14:00; Tu,Th 12:00-14:00; We 12:00-14:00; Fr 12:00-14:00;"
+opening_hours: Mo 12:00-14:00; Tu,Th 12:00-14:00; We 12:00-14:00; Fr 12:00-14:00;
 website: ""

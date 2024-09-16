@@ -1,11 +1,11 @@
 id: 67787922
-type: way
+type: node
 latitude: 48.08087
 longitude: -0.80147
 postcode: "53000"
 city: Laval
-street: "Avenue du Maréchal de Lattre de Tassigny"
-housenumber: 46
+street: Avenue du Maréchal de Lattre de Tassigny
+housenumber: "46"
 phone: ""
 opening_hours: ""
 website: ""

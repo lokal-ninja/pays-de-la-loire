@@ -1,11 +1,11 @@
 id: 563049708
-type: way
+type: node
 latitude: 47.98614
 longitude: 0.22416
 postcode: "72000"
 city: Le Mans
-street: "Avenue d'Haouza"
-housenumber: 4
+street: Avenue d'Haouza
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 771418282
-type: way
+type: node
 latitude: 47.25642
 longitude: -1.62931
 postcode: "44700"
 city: Orvault
-street: "Rue Émile Levassor"
-housenumber: 4
+street: Rue Émile Levassor
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

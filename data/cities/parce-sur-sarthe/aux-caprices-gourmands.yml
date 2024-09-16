@@ -4,8 +4,8 @@ latitude: 47.84326
 longitude: -0.19852
 postcode: "72300"
 city: Parcé-sur-Sarthe
-street: "Place de la République"
-housenumber: 1
-phone: "+33 2 43 95 44 72"
-opening_hours: "Mo-Sa 06:00-20:00; Su 06:00-13:30"
+street: Place de la République
+housenumber: "1"
+phone: +33 2 43 95 44 72
+opening_hours: Mo-Sa 06:00-20:00; Su 06:00-13:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.04599
 longitude: -0.87588
 postcode: "49300"
 city: Cholet
-street: "Rue Roger Hostein"
-housenumber: 2
-phone: "+33 2 41 65 01 87"
-opening_hours: "Mo-Th 09:00-12:30,14:30-19:30; Fr,Sa 09:00-19:30; Su 09:00-13:00"
-website: "https://www.oya-fleurs.com/oya-cholet"
+street: Rue Roger Hostein
+housenumber: "2"
+phone: +33 2 41 65 01 87
+opening_hours: Mo-Th 09:00-12:30,14:30-19:30; Fr,Sa 09:00-19:30; Su 09:00-13:00
+website: https://www.oya-fleurs.com/oya-cholet

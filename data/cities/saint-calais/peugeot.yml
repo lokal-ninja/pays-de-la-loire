@@ -1,11 +1,11 @@
 id: 236065125
-type: way
+type: node
 latitude: 47.91758
 longitude: 0.74586
 postcode: "72120"
 city: Saint-Calais
-street: "Avenue Charles de Gaulle"
-housenumber: 7
+street: Avenue Charles de Gaulle
+housenumber: "7"
 phone: ""
 opening_hours: ""
 website: ""

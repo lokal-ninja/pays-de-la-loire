@@ -1,11 +1,11 @@
 id: 67451839
-type: way
+type: node
 latitude: 47.98263
 longitude: 0.17587
 postcode: "72100"
 city: Le Mans
-street: "Rue des Frères Renault"
+street: Rue des Frères Renault
 housenumber: 10 bis
 phone: "+33243756655"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
 website: ""

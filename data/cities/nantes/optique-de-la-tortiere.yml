@@ -4,8 +4,8 @@ latitude: 47.23506
 longitude: -1.54719
 postcode: "44000"
 city: Nantes
-street: "Boulevard des Belges"
-housenumber: 159
-phone: "+33 2 40 30 00 15"
-opening_hours: "Tu-Fr 09:30-12:30,14:30-19:00; Sa 09:30-12:30,14:30-18:00"
+street: Boulevard des Belges
+housenumber: "159"
+phone: +33 2 40 30 00 15
+opening_hours: Tu-Fr 09:30-12:30,14:30-19:00; Sa 09:30-12:30,14:30-18:00
 website: ""

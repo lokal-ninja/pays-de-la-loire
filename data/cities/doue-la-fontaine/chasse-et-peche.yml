@@ -1,11 +1,11 @@
 id: 839350867
-type: way
+type: node
 latitude: 47.19064
 longitude: -0.28776
 postcode: "49700"
 city: Doué-La-Fontaine
-street: "Allée Joseph Touchais"
-housenumber: 26
+street: Allée Joseph Touchais
+housenumber: "26"
 phone: "+33241591020"
 opening_hours: ""
-website: "https://www.pisteurs.fr/"
+website: https://www.pisteurs.fr/

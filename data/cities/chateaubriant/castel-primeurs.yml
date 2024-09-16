@@ -1,11 +1,11 @@
 id: 273809603
-type: way
+type: node
 latitude: 47.71153
 longitude: -1.37146
 postcode: "44110"
 city: Châteaubriant
-street: "Rue d'Ancenis"
-housenumber: 63
-phone: "+33 2 40 81 04 28"
+street: Rue d'Ancenis
+housenumber: "63"
+phone: +33 2 40 81 04 28
 opening_hours: ""
 website: ""

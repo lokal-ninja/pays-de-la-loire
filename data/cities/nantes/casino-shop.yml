@@ -4,8 +4,8 @@ latitude: 47.23949
 longitude: -1.57935
 postcode: "44300"
 city: Nantes
-street: "Rue Hector Berlioz"
-housenumber: 67
-phone: "+33 2 28 27 67 91"
-opening_hours: "Mo-Sa 08:00-21:00; Su 09:00-14:00"
+street: Rue Hector Berlioz
+housenumber: "67"
+phone: +33 2 28 27 67 91
+opening_hours: Mo-Sa 08:00-21:00; Su 09:00-14:00
 website: ""

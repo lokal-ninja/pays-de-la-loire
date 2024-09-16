@@ -1,11 +1,11 @@
 id: 907636118
-type: way
+type: node
 latitude: 47.6591
 longitude: -1.66533
 postcode: "44590"
 city: Derval
-street: "Allée du Rocheteur"
-housenumber: 3
-phone: "+33 2 52 20 13 80"
+street: Allée du Rocheteur
+housenumber: "3"
+phone: +33 2 52 20 13 80
 opening_hours: ""
-website: "https://cave.lescelliersdegrandlieu.com/14-les-celliers-de-grand-lieu-derval"
+website: https://cave.lescelliersdegrandlieu.com/14-les-celliers-de-grand-lieu-derval

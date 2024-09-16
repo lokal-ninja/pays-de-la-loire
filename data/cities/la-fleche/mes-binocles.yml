@@ -4,8 +4,9 @@ latitude: 47.70091
 longitude: -0.07051
 postcode: "72200"
 city: La Flèche
-street: "Rue de la Dauversière"
+street: Rue de la Dauversière
 housenumber: 34 bis
-phone: "+33 2 52 49 01 29"
-opening_hours: "Mo by appointment; Tu 09:00-12:00,14:00-19:00; We-Th by appointment; Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00; Su off"
-website: "https://mesbinocles72.fr/"
+phone: +33 2 52 49 01 29
+opening_hours: Mo "by appointment"; Tu 09:00-12:00,14:00-19:00; We-Th "by appointment";
+    Fr 09:00-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00; Su off
+website: https://mesbinocles72.fr/

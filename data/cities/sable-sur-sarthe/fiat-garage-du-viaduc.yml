@@ -1,11 +1,11 @@
 id: 244802645
-type: way
+type: node
 latitude: 47.84455
 longitude: -0.33338
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Avenue Charles de Gaulle"
-housenumber: 14
+street: Avenue Charles de Gaulle
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

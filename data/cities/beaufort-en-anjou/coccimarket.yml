@@ -1,11 +1,11 @@
 id: 241144044
-type: way
+type: node
 latitude: 47.43989
 longitude: -0.21622
 postcode: "49250"
 city: Beaufort-en-Anjou
-street: "Place Jeanne de Laval"
-housenumber: 9
+street: Place Jeanne de Laval
+housenumber: "9"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 135077227
-type: way
+type: node
 latitude: 47.2469
 longitude: -1.62042
 postcode: "44800"
 city: Saint-Herblain
-street: "Avenue des Lions"
-housenumber: 104
+street: Avenue des Lions
+housenumber: "104"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 522099456
-type: way
+type: node
 latitude: 47.45322
 longitude: -0.46864
 postcode: "49800"
 city: Trélazé
-street: "Robert Surcouf,"
-housenumber: 2
+street: Robert Surcouf,
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
+opening_hours: Mo-Sa 08:30-20:00
 website: ""

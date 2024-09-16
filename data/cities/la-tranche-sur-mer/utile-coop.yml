@@ -1,11 +1,11 @@
 id: 109618659
-type: way
+type: node
 latitude: 46.34376
 longitude: -1.43798
 postcode: "85360"
 city: La Tranche-sur-Mer
-street: "Place de la Liberté"
-housenumber: 
-phone: "+33.2 51 30 32 07"
-opening_hours: "Mo-Su 08:30-20:30"
-website: "https://www.coop-atlantique.fr"
+street: Place de la Liberté
+housenumber: ""
+phone: +33.2 51 30 32 07
+opening_hours: Mo-Su 08:30-20:30
+website: https://www.coop-atlantique.fr

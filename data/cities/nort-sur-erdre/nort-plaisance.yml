@@ -4,8 +4,8 @@ latitude: 47.43833
 longitude: -1.49598
 postcode: "44390"
 city: Nort-sur-Erdre
-street: "Place du Bassin"
-housenumber: 4
-phone: "+33 2 40 29 52 22"
-opening_hours: "Tu-Fr 08:45-12:15,14:15-18:45;Sa 09:00-12:15"
+street: Place du Bassin
+housenumber: "4"
+phone: +33 2 40 29 52 22
+opening_hours: Tu-Fr 08:45-12:15,14:15-18:45;Sa 09:00-12:15
 website: ""

@@ -1,11 +1,11 @@
 id: 241526843
-type: way
+type: node
 latitude: 48.33319
 longitude: -0.2279
 postcode: "53700"
 city: Averton
-street: "Les Houx"
-housenumber: 6
+street: Les Houx
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

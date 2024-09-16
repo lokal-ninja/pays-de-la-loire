@@ -1,11 +1,11 @@
 id: 271204827
-type: way
+type: node
 latitude: 47.64361
 longitude: 0.15578
 postcode: "72800"
 city: Le Lude
-street: "Place du Champ de Foire"
-housenumber: 24
+street: Place du Champ de Foire
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Th 06:15-20:30; Fr 06:15-21:00; Sa 06:45-20:30"
+opening_hours: Mo-Th 06:15-20:30; Fr 06:15-21:00; Sa 06:45-20:30
 website: ""

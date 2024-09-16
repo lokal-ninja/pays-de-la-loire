@@ -4,8 +4,8 @@ latitude: 48.0755
 longitude: -0.76431
 postcode: "53000"
 city: Laval
-street: "Rue Magenta"
-housenumber: 67
-phone: "+33 2 43 53 14 82"
-opening_hours: "Tu-Sa 07:30-13:15,15:00-19:30; Su 07:30-12:00"
-website: "https://www.boucheriemeignan.fr/"
+street: Rue Magenta
+housenumber: "67"
+phone: +33 2 43 53 14 82
+opening_hours: Tu-Sa 07:30-13:15,15:00-19:30; Su 07:30-12:00
+website: https://www.boucheriemeignan.fr/

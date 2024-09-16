@@ -4,8 +4,9 @@ latitude: 47.27913
 longitude: -2.47995
 postcode: "44740"
 city: Batz-sur-Mer
-street: "Rue de la Gare"
-housenumber: 3
-phone: "+33 9 67 02 39 07"
-opening_hours: "Mo 11:00-13:00,17:00-20:00, Tu 17:00-22:00, We 17:00-20:00, Th 11:00-13:00,17:00-20:00, Fr,Sa 11:00-13:00, Fr 16:30-19:30"
+street: Rue de la Gare
+housenumber: "3"
+phone: +33 9 67 02 39 07
+opening_hours: Mo 11:00-13:00,17:00-20:00, Tu 17:00-22:00, We 17:00-20:00, Th 11:00-13:00,17:00-20:00,
+    Fr,Sa 11:00-13:00, Fr 16:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 79186189
-type: way
+type: node
 latitude: 47.05703
 longitude: -1.48809
 postcode: "44140"
 city: Montbert
-street: "Rue de la Gare"
-housenumber: 2
+street: Rue de la Gare
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

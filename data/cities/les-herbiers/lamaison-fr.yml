@@ -1,11 +1,11 @@
 id: 76529852
-type: way
+type: node
 latitude: 46.87309
 longitude: -1.02641
 postcode: "85500"
 city: Les Herbiers
-street: "Avenue de la Maine"
-housenumber: 
+street: Avenue de la Maine
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-12:30,14:00-19:00"
-website: "https://www.lamaison.fr/stores/les-herbiers-la-maison-fr#46.874065,-1.026302"
+opening_hours: Mo-Sa 09:00-12:30,14:00-19:00
+website: https://www.lamaison.fr/stores/les-herbiers-la-maison-fr#46.874065,-1.026302

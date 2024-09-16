@@ -1,11 +1,11 @@
 id: 126968805
-type: way
+type: node
 latitude: 47.47022
 longitude: -0.55224
 postcode: "49100"
 city: Angers
-street: "Rue Louis de Romain"
-housenumber: 16
+street: Rue Louis de Romain
+housenumber: "16"
 phone: ""
 opening_hours: ""
 website: ""

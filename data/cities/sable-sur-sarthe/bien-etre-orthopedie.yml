@@ -4,8 +4,8 @@ latitude: 47.8373
 longitude: -0.30539
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Rue de la Briqueterie"
-housenumber: 1
-phone: "+33 2 43 92 72 45"
-opening_hours: "Mo-Fr 08:00-20:00 Sur rendez-vous; Sa 09:00-12:00 Sur rendez-vous"
+street: Rue de la Briqueterie
+housenumber: "1"
+phone: +33 2 43 92 72 45
+opening_hours: Mo-Fr 08:00-20:00 "Sur rendez-vous"; Sa 09:00-12:00 "Sur rendez-vous"
 website: ""

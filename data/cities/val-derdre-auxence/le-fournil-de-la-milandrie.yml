@@ -1,11 +1,11 @@
 id: 237451705
-type: way
+type: node
 latitude: 47.48824
 longitude: -0.9097
 postcode: "49370"
 city: Val d'Erdre-Auxence
-street: "Lieu-dit La Milandrie, Le Louroux-Béconnais"
-housenumber: 
-phone: "+33 6 67 89 62 13"
-opening_hours: "We 17:00-19:00; Fr 17:00-19:00"
-website: "https://fournil-milandrie.fr/"
+street: Lieu-dit La Milandrie, Le Louroux-Béconnais
+housenumber: ""
+phone: +33 6 67 89 62 13
+opening_hours: We 17:00-19:00; Fr 17:00-19:00
+website: https://fournil-milandrie.fr/

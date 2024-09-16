@@ -1,11 +1,11 @@
 id: 537795379
-type: way
+type: node
 latitude: 46.79471
 longitude: -2.04349
 postcode: "85160"
 city: Saint-Jean-de-Monts
-street: "Route de Challans"
-housenumber: 
-phone: "+33 2 51 26 98 94"
-opening_hours: "Mo-Fr 08:45-19:30; We 08:45-20:00; Sa 08:45-19:30"
-website: "https://www.magasins-u.com/magasin/superu-saintjeandemonts"
+street: Route de Challans
+housenumber: ""
+phone: +33 2 51 26 98 94
+opening_hours: Mo-Fr 08:45-19:30; We 08:45-20:00; Sa 08:45-19:30
+website: https://www.magasins-u.com/magasin/superu-saintjeandemonts

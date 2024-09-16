@@ -4,8 +4,8 @@ latitude: 47.21403
 longitude: -1.56307
 postcode: "44000"
 city: Nantes
-street: "Rue Franklin"
-housenumber: 6
-phone: "+33 2 51 83 15 35"
-opening_hours: "Tu-Sa 08:00-19:30; Su 09:30-18:30"
-website: "https://www.auxmerveilleux.com/"
+street: Rue Franklin
+housenumber: "6"
+phone: +33 2 51 83 15 35
+opening_hours: Tu-Sa 08:00-19:30; Su 09:30-18:30
+website: https://www.auxmerveilleux.com/

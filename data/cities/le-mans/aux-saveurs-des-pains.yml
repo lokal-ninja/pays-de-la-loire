@@ -4,8 +4,8 @@ latitude: 48.00802
 longitude: 0.20644
 postcode: "72000"
 city: Le Mans
-street: "Rue Prémartine"
-housenumber: 27
-phone: "+33 2 43 81 54 94"
-opening_hours: "Tu-Sa 07:00-13:30,15:30-19:30; Su 07:00-13:30"
-website: "https://www.auxsaveursdespains.com"
+street: Rue Prémartine
+housenumber: "27"
+phone: +33 2 43 81 54 94
+opening_hours: Tu-Sa 07:00-13:30,15:30-19:30; Su 07:00-13:30
+website: https://www.auxsaveursdespains.com

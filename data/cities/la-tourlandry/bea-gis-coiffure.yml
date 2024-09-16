@@ -1,11 +1,11 @@
 id: 687595546
-type: way
+type: node
 latitude: 47.14492
 longitude: -0.69765
 postcode: "49120"
 city: La Tourlandry
-street: "Rue Geoffroy de la Tour Landry"
-housenumber: 6
+street: Rue Geoffroy de la Tour Landry
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

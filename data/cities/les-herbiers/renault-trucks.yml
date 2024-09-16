@@ -1,11 +1,11 @@
 id: 971973739
-type: way
+type: node
 latitude: 46.85925
 longitude: -1.0371
 postcode: "85500"
 city: Les Herbiers
-street: "Avenue des Sables"
-housenumber: 
+street: Avenue des Sables
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

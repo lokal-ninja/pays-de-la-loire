@@ -1,11 +1,11 @@
 id: 391198673
-type: way
+type: node
 latitude: 47.37561
 longitude: -1.20165
 postcode: "44150"
 city: Ancenis-Saint-Géréon
-street: "Boulevard de la Prairie"
-housenumber: 992
+street: Boulevard de la Prairie
+housenumber: "992"
 phone: ""
 opening_hours: ""
 website: ""

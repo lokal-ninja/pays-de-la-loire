@@ -1,11 +1,11 @@
 id: 65567663
-type: way
+type: node
 latitude: 47.99184
 longitude: 0.19453
 postcode: "72100"
 city: Le Mans
-street: "Rue des Maraîchers"
-housenumber: 15
-phone: "+33 2 43 72 98 27"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-20:00"
-website: "https://www.carrefour.fr/magasin/city-le-mans-maraichers"
+street: Rue des Maraîchers
+housenumber: "15"
+phone: +33 2 43 72 98 27
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-20:00
+website: https://www.carrefour.fr/magasin/city-le-mans-maraichers

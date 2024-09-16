@@ -1,11 +1,11 @@
 id: 595901239
-type: way
+type: node
 latitude: 48.03444
 longitude: 0.20236
 postcode: "72190"
 city: Saint-Pavace
-street: "Avenue du Bois du Breuil"
-housenumber: 
+street: Avenue du Bois du Breuil
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

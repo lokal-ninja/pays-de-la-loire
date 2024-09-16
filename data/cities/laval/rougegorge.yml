@@ -4,8 +4,8 @@ latitude: 48.07089
 longitude: -0.77387
 postcode: "53000"
 city: Laval
-street: "Rue du Général de Gaulle"
-housenumber: 6
-phone: "+33 2 43 49 32 21"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://www.rougegorge.com/nos-magasins/magasin-laval-6413/"
+street: Rue du Général de Gaulle
+housenumber: "6"
+phone: +33 2 43 49 32 21
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://www.rougegorge.com/nos-magasins/magasin-laval-6413/

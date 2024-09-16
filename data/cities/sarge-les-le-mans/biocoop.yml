@@ -1,11 +1,11 @@
 id: 126286066
-type: way
+type: node
 latitude: 48.02519
 longitude: 0.23759
 postcode: "72190"
 city: Sargé-lès-le-Mans
-street: "Rue des Noisetiers"
-housenumber: 
+street: Rue des Noisetiers
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "http://lefenouil-biocoop.fr/magasins/fenouil-sarge/"
+website: http://lefenouil-biocoop.fr/magasins/fenouil-sarge/

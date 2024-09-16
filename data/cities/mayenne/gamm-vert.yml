@@ -1,11 +1,11 @@
 id: 183042881
-type: way
+type: node
 latitude: 48.28657
 longitude: -0.61509
 postcode: "53100"
 city: Mayenne
-street: "Rue de la Peyennière"
-housenumber: 
+street: Rue de la Peyennière
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

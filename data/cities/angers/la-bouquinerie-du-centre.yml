@@ -4,8 +4,8 @@ latitude: 47.47039
 longitude: -0.5538
 postcode: "49100"
 city: Angers
-street: "Rue Chaperonnière"
-housenumber: 10
-phone: "+33 2 41 41 70 88"
-opening_hours: "Tu-Sa 10:00-19:00"
+street: Rue Chaperonnière
+housenumber: "10"
+phone: +33 2 41 41 70 88
+opening_hours: Tu-Sa 10:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 713404433
-type: way
+type: node
 latitude: 46.49181
 longitude: -1.75117
 postcode: "85180"
 city: Château-d'Olonne
-street: "Rue André Malraux"
-housenumber: 
+street: Rue André Malraux
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.biocoopdesolonnes.fr/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.biocoopdesolonnes.fr/

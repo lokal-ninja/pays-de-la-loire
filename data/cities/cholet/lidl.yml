@@ -1,11 +1,11 @@
 id: 164476262
-type: way
+type: node
 latitude: 47.04523
 longitude: -0.89746
 postcode: "49300"
 city: Cholet
-street: "Rue d’Austerlitz"
-housenumber: 4
+street: Rue d’Austerlitz
+housenumber: "4"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00 Su 8:30-12:15"
-website: "https://www.lidl.fr"
+opening_hours: Mo-Sa 08:30-20:00 Su 8:30-12:15
+website: https://www.lidl.fr

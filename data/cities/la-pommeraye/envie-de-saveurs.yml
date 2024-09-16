@@ -4,8 +4,9 @@ latitude: 47.35667
 longitude: -0.85994
 postcode: "49620"
 city: La Pommeraye
-street: "Passage Lino Ventura"
-housenumber: 9
+street: Passage Lino Ventura
+housenumber: "9"
 phone: ""
-opening_hours: "Tu-Fr 15:00-19:00, Fr 08:30-12:30, Tu-Th,Sa 09:00-12:30, Su 09:30-12:30, Sa 14:30-18:00"
+opening_hours: Tu-Fr 15:00-19:00, Fr 08:30-12:30, Tu-Th,Sa 09:00-12:30, Su 09:30-12:30,
+    Sa 14:30-18:00
 website: ""

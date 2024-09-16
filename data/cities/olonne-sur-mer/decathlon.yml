@@ -1,11 +1,11 @@
 id: 368095222
-type: way
+type: node
 latitude: 46.51356
 longitude: -1.78764
 postcode: "85340"
 city: Olonne-sur-Mer
 street: ""
-housenumber: 32
-phone: "+33 2 53 32 00 80"
-opening_hours: "Mo-Sa 09:30-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-les-sables-d-olonne-olonne-sur-mer-0070089900899"
+housenumber: "32"
+phone: +33 2 53 32 00 80
+opening_hours: Mo-Sa 09:30-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-les-sables-d-olonne-olonne-sur-mer-0070089900899

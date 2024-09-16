@@ -4,8 +4,8 @@ latitude: 48.07064
 longitude: -0.77644
 postcode: "53000"
 city: Laval
-street: "Rue du Général de Gaulle"
-housenumber: 41
+street: Rue du Général de Gaulle
+housenumber: "41"
 phone: "+33243911700"
-opening_hours: "Mo-Sa 10:00-19:00"
-website: "https://www.sephora.fr/information-magasin?storeID=S3621"
+opening_hours: Mo-Sa 10:00-19:00
+website: https://www.sephora.fr/information-magasin?storeID=S3621

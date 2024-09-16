@@ -1,11 +1,11 @@
 id: 135020003
-type: way
+type: node
 latitude: 47.69903
 longitude: -0.07759
 postcode: "72200"
 city: La Flèche
-street: "Rue du Docteur Lhoste"
-housenumber: 7
-phone: "+33 9 54 81 79 19"
+street: Rue du Docteur Lhoste
+housenumber: "7"
+phone: +33 9 54 81 79 19
 opening_hours: ""
 website: ""

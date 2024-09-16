@@ -1,11 +1,11 @@
 id: 46781735
-type: way
+type: node
 latitude: 47.4758
 longitude: -1.76475
 postcode: "44130"
 city: Blain
-street: "Rue Aristide Briand"
-housenumber: 4
+street: Rue Aristide Briand
+housenumber: "4"
 phone: ""
 opening_hours: ""
 website: ""

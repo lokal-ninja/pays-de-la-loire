@@ -1,11 +1,11 @@
 id: 146829889
-type: way
+type: node
 latitude: 48.04169
 longitude: 0.1707
 postcode: "72650"
 city: La Chapelle-Saint-Aubin
-street: "Avenue des Frères Renault"
-housenumber: 
-phone: "+33 2 43 39 29 99"
-opening_hours: "Mo-Sa 08:00-19:30"
+street: Avenue des Frères Renault
+housenumber: ""
+phone: +33 2 43 39 29 99
+opening_hours: Mo-Sa 08:00-19:30
 website: ""

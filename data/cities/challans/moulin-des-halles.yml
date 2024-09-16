@@ -1,11 +1,11 @@
 id: 71180257
-type: way
+type: node
 latitude: 46.84747
 longitude: -1.87798
 postcode: "85300"
 city: Challans
-street: "Place Aristide Briand"
-housenumber: 12
+street: Place Aristide Briand
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

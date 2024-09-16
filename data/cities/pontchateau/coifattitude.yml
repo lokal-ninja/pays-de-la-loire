@@ -1,11 +1,11 @@
 id: 155129738
-type: way
+type: node
 latitude: 47.43598
 longitude: -2.09011
 postcode: "44160"
 city: Pontchâteau
-street: "Rue Sainte-Catherine"
-housenumber: 18
+street: Rue Sainte-Catherine
+housenumber: "18"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 971988873
-type: way
+type: node
 latitude: 46.85396
 longitude: -1.04205
 postcode: "85500"
 city: Les Herbiers
 street: ""
-housenumber: 15
+housenumber: "15"
 phone: ""
 opening_hours: ""
 website: ""

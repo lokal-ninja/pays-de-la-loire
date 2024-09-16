@@ -4,8 +4,8 @@ latitude: 47.23514
 longitude: -1.54611
 postcode: "44300"
 city: Nantes
-street: "Boulevard des Belges"
-housenumber: 149
-phone: "+33 2 28 06 29 53"
-opening_hours: "Mo-Sa 10:30-13:00,14:00-19:00; 2022 Jul 18-2022 Aug 27: Mo off"
-website: "https://www.latelier-du-vapoteur.com/"
+street: Boulevard des Belges
+housenumber: "149"
+phone: +33 2 28 06 29 53
+opening_hours: 'Mo-Sa 10:30-13:00,14:00-19:00; 2022 Jul 18-2022 Aug 27: Mo off'
+website: https://www.latelier-du-vapoteur.com/

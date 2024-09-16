@@ -1,11 +1,11 @@
 id: 151959735
-type: way
+type: node
 latitude: 48.28758
 longitude: -0.62172
 postcode: "53100"
 city: Mayenne
-street: "Boulevard Jean Monnet"
-housenumber: 550
-phone: "+33 2 43 30 16 16"
-opening_hours: "24/7"
-website: "https://www.magasins-u.com/"
+street: Boulevard Jean Monnet
+housenumber: "550"
+phone: +33 2 43 30 16 16
+opening_hours: 24/7
+website: https://www.magasins-u.com/

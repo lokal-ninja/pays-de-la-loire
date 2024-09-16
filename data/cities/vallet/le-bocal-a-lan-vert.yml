@@ -4,8 +4,8 @@ latitude: 47.1607
 longitude: -1.26723
 postcode: "44330"
 city: Vallet
-street: "Rue des Forges"
-housenumber: 27
-phone: "+33 6 58 22 44 03"
-opening_hours: "Tu-Sa 10:00-13:00,15:00-19:00; Su 10:00-13:00"
-website: "https://www.lebocalalanvert.fr/"
+street: Rue des Forges
+housenumber: "27"
+phone: +33 6 58 22 44 03
+opening_hours: Tu-Sa 10:00-13:00,15:00-19:00; Su 10:00-13:00
+website: https://www.lebocalalanvert.fr/

@@ -1,11 +1,11 @@
 id: 251148153
-type: way
+type: node
 latitude: 48.17507
 longitude: -0.14554
 postcode: "72140"
 city: Sillé-le-Guillaume
-street: "Allée des Chauffourniers"
-housenumber: 47
+street: Allée des Chauffourniers
+housenumber: "47"
 phone: "+33243201027"
 opening_hours: ""
 website: ""

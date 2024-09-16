@@ -4,8 +4,8 @@ latitude: 47.9988
 longitude: 0.20287
 postcode: "72000"
 city: Le Mans
-street: "Rue Chanzy"
-housenumber: 72
-phone: "+33 2 43 18 09 71"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-21:00"
-website: "https://www.carrefour.fr/magasin/express-le-mans-chanzy"
+street: Rue Chanzy
+housenumber: "72"
+phone: +33 2 43 18 09 71
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-21:00
+website: https://www.carrefour.fr/magasin/express-le-mans-chanzy

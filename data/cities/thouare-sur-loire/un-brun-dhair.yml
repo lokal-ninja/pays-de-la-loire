@@ -4,8 +4,9 @@ latitude: 47.26758
 longitude: -1.44174
 postcode: "44470"
 city: Thouaré-sur-Loire
-street: "Rue de Carquefou"
-housenumber: 11
+street: Rue de Carquefou
+housenumber: "11"
 phone: "+33240775586"
-opening_hours: "Lun,Mar 09:30-19:30; We 09:30-13:00; Th 09:30-19:30; Fr 09:30-20:00; Sa 08:00-13:00"
+opening_hours: Lun,Mar 09:30-19:30; We 09:30-13:00; Th 09:30-19:30; Fr 09:30-20:00;
+    Sa 08:00-13:00
 website: ""

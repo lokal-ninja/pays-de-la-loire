@@ -1,11 +1,11 @@
 id: 126924006
-type: way
+type: node
 latitude: 47.46004
 longitude: -0.61639
 postcode: "49000"
 city: Angers
-street: "Rue Michel Seurat"
-housenumber: 2
+street: Rue Michel Seurat
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

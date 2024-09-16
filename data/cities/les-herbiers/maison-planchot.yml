@@ -4,8 +4,8 @@ latitude: 46.87705
 longitude: -1.02223
 postcode: "85500"
 city: Les Herbiers
-street: "Avenue de l'Europe"
-housenumber: 1
-phone: "+33 2 51 92 24 66"
-opening_hours: "Mo-Su 06:30-20:00"
+street: Avenue de l'Europe
+housenumber: "1"
+phone: +33 2 51 92 24 66
+opening_hours: Mo-Su 06:30-20:00
 website: ""

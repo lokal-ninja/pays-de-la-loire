@@ -1,11 +1,11 @@
 id: 347954487
-type: way
+type: node
 latitude: 47.83408
 longitude: 0.7529
 postcode: "72310"
 city: Bessé-sur-Braye
-street: "Rue d'Estournelles de Constant"
-housenumber: 8
+street: Rue d'Estournelles de Constant
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

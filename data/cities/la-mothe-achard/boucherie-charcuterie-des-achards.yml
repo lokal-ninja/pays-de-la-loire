@@ -1,11 +1,11 @@
 id: 156704575
-type: way
+type: node
 latitude: 46.61856
 longitude: -1.65824
 postcode: "85150"
 city: La Mothe-Achard
-street: "Passage du Commerce"
-housenumber: 2
+street: Passage du Commerce
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

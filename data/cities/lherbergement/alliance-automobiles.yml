@@ -1,11 +1,11 @@
 id: 166749161
-type: way
+type: node
 latitude: 46.92069
 longitude: -1.36931
 postcode: "85260"
 city: L'Herbergement
-street: "Route de Montaigu"
-housenumber: 
-phone: "+33 2 51 42 81 76"
+street: Route de Montaigu
+housenumber: ""
+phone: +33 2 51 42 81 76
 opening_hours: ""
-website: "https://reseau.top-garage.fr/10-alliance-automobiles-l-herbergement"
+website: https://reseau.top-garage.fr/10-alliance-automobiles-l-herbergement

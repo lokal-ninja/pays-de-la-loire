@@ -1,11 +1,11 @@
 id: 307727980
-type: way
+type: node
 latitude: 47.64603
 longitude: -2.07364
 postcode: "44460"
 city: Saint-Nicolas-de-Redon
-street: "Avenue Jean Burel"
-housenumber: 18
+street: Avenue Jean Burel
+housenumber: "18"
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/"
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/

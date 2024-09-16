@@ -4,8 +4,8 @@ latitude: 47.06246
 longitude: -0.87825
 postcode: "49300"
 city: Cholet
-street: "Rue Nationale"
-housenumber: 90
-phone: "+33 981344050"
-opening_hours: "Tu-Sa 10:00-13:30 15:00-19:00"
-website: "https://www.mmebocaletmrvrac.com/"
+street: Rue Nationale
+housenumber: "90"
+phone: +33 981344050
+opening_hours: Tu-Sa 10:00-13:30,15:00-19:00
+website: https://www.mmebocaletmrvrac.com/

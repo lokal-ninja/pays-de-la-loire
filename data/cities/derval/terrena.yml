@@ -1,11 +1,11 @@
 id: 86621340
-type: way
+type: node
 latitude: 47.66053
 longitude: -1.66652
 postcode: "44590"
 city: Derval
-street: "Route des Carriers"
-housenumber: 
+street: Route des Carriers
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 151758473
-type: way
+type: node
 latitude: 47.24249
 longitude: -0.09801
 postcode: "49400"
 city: Saumur
-street: "Rue du Pont Fouchard"
-housenumber: 181
+street: Rue du Pont Fouchard
+housenumber: "181"
 phone: ""
 opening_hours: ""
-website: "https://carrosseries.five-star.fr/144-carrosserie-delugre"
+website: https://carrosseries.five-star.fr/144-carrosserie-delugre

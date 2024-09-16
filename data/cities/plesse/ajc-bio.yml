@@ -4,8 +4,8 @@ latitude: 47.5426
 longitude: -1.88732
 postcode: "44630"
 city: Plessé
-street: "Place Petit Jean"
-housenumber: 3
-phone: "+33 6 62 53 65 71"
-opening_hours: "Mo-Sa 14:00-19:00"
-website: "https://www.ajc-bio.fr/"
+street: Place Petit Jean
+housenumber: "3"
+phone: +33 6 62 53 65 71
+opening_hours: Mo-Sa 14:00-19:00
+website: https://www.ajc-bio.fr/

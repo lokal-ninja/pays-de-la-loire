@@ -1,11 +1,11 @@
 id: 264296576
-type: way
+type: node
 latitude: 47.47549
 longitude: -1.37325
 postcode: "44440"
 city: Trans-sur-Erdre
-street: "Rue de la Loire"
-housenumber: 160
-phone: "+33 2 40 80 35 92"
+street: Rue de la Loire
+housenumber: "160"
+phone: +33 2 40 80 35 92
 opening_hours: ""
 website: ""

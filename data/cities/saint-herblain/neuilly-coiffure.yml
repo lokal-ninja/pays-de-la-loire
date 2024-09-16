@@ -4,8 +4,8 @@ latitude: 47.24208
 longitude: -1.60778
 postcode: "44800"
 city: Saint-Herblain
-street: "Avenue des Naudières"
-housenumber: 90
+street: Avenue des Naudières
+housenumber: "90"
 phone: ""
-opening_hours: "Tu-Fr 09:00-18:30; Sa 09:00-17:00"
-website: "https://www.neuilly-coiffure.fr/"
+opening_hours: Tu-Fr 09:00-18:30; Sa 09:00-17:00
+website: https://www.neuilly-coiffure.fr/

@@ -1,11 +1,11 @@
 id: 367519907
-type: way
+type: node
 latitude: 48.14603
 longitude: 0.16804
 postcode: "72380"
 city: Sainte-Jamme-sur-Sarthe
-street: "Rue du Sablon"
-housenumber: 1
-phone: "+33 2 43 51 12 93"
+street: Rue du Sablon
+housenumber: "1"
+phone: +33 2 43 51 12 93
 opening_hours: ""
-website: "https://concessions.peugeot.fr/ste-jamme-sur-sarthe/"
+website: https://concessions.peugeot.fr/ste-jamme-sur-sarthe/

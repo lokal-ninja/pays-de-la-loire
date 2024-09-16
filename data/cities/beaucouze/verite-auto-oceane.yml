@@ -4,8 +4,9 @@ latitude: 47.47042
 longitude: -0.62183
 postcode: "49070"
 city: Beaucouzé
-street: "Rue du Landreau"
-housenumber: 1
+street: Rue du Landreau
+housenumber: "1"
 phone: ""
-opening_hours: "Mo,We,Th,Fr 09:00-12:30,14:00-19:00; Tu 08:00-12:30,14:00-19:00; Sa 09:00-12:30,14:00-18:00"
+opening_hours: Mo,We,Th,Fr 09:00-12:30,14:00-19:00; Tu 08:00-12:30,14:00-19:00; Sa
+    09:00-12:30,14:00-18:00
 website: ""

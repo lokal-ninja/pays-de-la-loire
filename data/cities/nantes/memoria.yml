@@ -1,11 +1,11 @@
 id: 82543504
-type: way
+type: node
 latitude: 47.25119
 longitude: -1.51458
 postcode: "44300"
 city: Nantes
-street: "Rue du Perray"
-housenumber: 162
-phone: "+33 2 28 23 77 62"
+street: Rue du Perray
+housenumber: "162"
+phone: +33 2 28 23 77 62
 opening_hours: ""
-website: "https://groupe-roc-eclerc.com"
+website: https://groupe-roc-eclerc.com

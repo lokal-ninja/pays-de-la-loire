@@ -4,8 +4,8 @@ latitude: 48.06833
 longitude: -0.76103
 postcode: "53000"
 city: Laval
-street: "Boulevard Félix Grat"
-housenumber: 61
-phone: "+33 2 43 53 50 80"
-opening_hours: "Mo-Fr 09:00-19:00; Sa 09:00-18:30"
-website: "https://www.coiffandco.com/"
+street: Boulevard Félix Grat
+housenumber: "61"
+phone: +33 2 43 53 50 80
+opening_hours: Mo-Fr 09:00-19:00; Sa 09:00-18:30
+website: https://www.coiffandco.com/

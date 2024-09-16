@@ -4,8 +4,8 @@ latitude: 48.00947
 longitude: 0.198
 postcode: "72000"
 city: Le Mans
-street: "Place Saint-Michel"
-housenumber: 9
-phone: "+33 6 79 16 68 56"
-opening_hours: "Sur rendez-vous"
-website: "https://www.atelierhpb.fr/"
+street: Place Saint-Michel
+housenumber: "9"
+phone: +33 6 79 16 68 56
+opening_hours: '"Sur rendez-vous"'
+website: https://www.atelierhpb.fr/

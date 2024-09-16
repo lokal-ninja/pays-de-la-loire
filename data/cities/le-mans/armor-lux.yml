@@ -4,8 +4,8 @@ latitude: 48.00541
 longitude: 0.19904
 postcode: "72000"
 city: Le Mans
-street: "Rue de l'Étoile"
-housenumber: 12
+street: Rue de l'Étoile
+housenumber: "12"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu 10:00-13:00,14:00-19:00; We-Sa 14:00-19:00"
-website: "https://www.armorlux.com/fr"
+opening_hours: Mo 14:00-19:00; Tu 10:00-13:00,14:00-19:00; We-Sa 14:00-19:00
+website: https://www.armorlux.com/fr

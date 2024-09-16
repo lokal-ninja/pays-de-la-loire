@@ -1,11 +1,11 @@
 id: 472673636
-type: way
+type: node
 latitude: 47.19499
 longitude: -1.8469
 postcode: "44640"
 city: Rouans
-street: "Rue Joseph Cugnot"
-housenumber: 25
+street: Rue Joseph Cugnot
+housenumber: "25"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.43723
 longitude: -2.09268
 postcode: "44160"
 city: Pontchâteau
-street: "Rue Maurice Sambron"
-housenumber: 34
+street: Rue Maurice Sambron
+housenumber: "34"
 phone: ""
-opening_hours: "Mo 09:00-12:30, 13:30-17:30; Th-Fr 09:00-12:30, 14:00-18:00; Sa 09:15-12:00"
-website: "https://www.entendre-pontchateau.fr"
+opening_hours: Mo 09:00-12:30, 13:30-17:30; Th-Fr 09:00-12:30, 14:00-18:00; Sa 09:15-12:00
+website: https://www.entendre-pontchateau.fr

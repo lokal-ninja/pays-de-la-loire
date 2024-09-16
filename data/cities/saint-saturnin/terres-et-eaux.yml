@@ -1,11 +1,11 @@
 id: 151295784
-type: way
+type: node
 latitude: 48.05021
 longitude: 0.17751
 postcode: "72650"
 city: Saint-Saturnin
-street: "Rue de Villeneuve"
-housenumber: 12
+street: Rue de Villeneuve
+housenumber: "12"
 phone: ""
 opening_hours: ""
 website: ""

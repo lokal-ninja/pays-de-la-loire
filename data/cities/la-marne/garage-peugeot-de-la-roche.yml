@@ -1,11 +1,11 @@
 id: 72195669
-type: way
+type: node
 latitude: 46.99885
 longitude: -1.73513
 postcode: "44270"
 city: La Marne
-street: "Rue du Moulin"
-housenumber: 2
-phone: "+33 2 40 26 20 42"
+street: Rue du Moulin
+housenumber: "2"
+phone: +33 2 40 26 20 42
 opening_hours: ""
-website: "https://concessions.peugeot.fr/la-marne/"
+website: https://concessions.peugeot.fr/la-marne/

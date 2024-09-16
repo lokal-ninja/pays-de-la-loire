@@ -4,8 +4,8 @@ latitude: 47.4621
 longitude: -0.55453
 postcode: "49000"
 city: Angers
-street: "Place Lafayette"
-housenumber: 16
-phone: "+33 2 41 25 31 00"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-13:00,14:00-18:00"
-website: "https://www.lesopticiensmutualistes.fr"
+street: Place Lafayette
+housenumber: "16"
+phone: +33 2 41 25 31 00
+opening_hours: Mo 14:00-19:00; Tu-Fr 09:30-12:30,14:00-19:00; Sa 09:30-13:00,14:00-18:00
+website: https://www.lesopticiensmutualistes.fr

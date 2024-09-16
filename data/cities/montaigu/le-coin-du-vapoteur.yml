@@ -4,8 +4,8 @@ latitude: 46.97576
 longitude: -1.31295
 postcode: "85600"
 city: Montaigu
-street: "Rue Georges Clemenceau"
-housenumber: 46
+street: Rue Georges Clemenceau
+housenumber: "46"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00"
-website: "https://lecoinduvapoteur.fr/"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-12:30,14:00-19:00
+website: https://lecoinduvapoteur.fr/

@@ -4,8 +4,8 @@ latitude: 47.88992
 longitude: 0.0283
 postcode: "72210"
 city: La Suze-sur-Sarthe
-street: "Rue du Pont"
-housenumber: 2
-phone: "+33 7 64 50 94 56"
-opening_hours: "Mo-We 17:00-21:30; Th 10:00-21:30; Fr-Sa 11:00-22:00; Su 10:00-13:30"
+street: Rue du Pont
+housenumber: "2"
+phone: +33 7 64 50 94 56
+opening_hours: Mo-We 17:00-21:30; Th 10:00-21:30; Fr-Sa 11:00-22:00; Su 10:00-13:30
 website: ""

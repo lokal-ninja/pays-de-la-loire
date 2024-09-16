@@ -4,8 +4,8 @@ latitude: 47.48991
 longitude: -0.53431
 postcode: "49100"
 city: Angers
-street: "Boulevard du Doyenné"
-housenumber: 50
+street: Boulevard du Doyenné
+housenumber: "50"
 phone: ""
-opening_hours: "09:00-19:30; Su off"
-website: "https://biocoop-caba.fr/"
+opening_hours: 09:00-19:30; Su off
+website: https://biocoop-caba.fr/

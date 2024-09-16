@@ -4,8 +4,8 @@ latitude: 47.21645
 longitude: -1.55608
 postcode: "44000"
 city: Nantes
-street: "Rue des Trois Croissants"
-housenumber: 10
+street: Rue des Trois Croissants
+housenumber: "10"
 phone: ""
-opening_hours: "Tu-Th 11:00-14:00,15:00-19:00; Fr 10:00-14:00,15:00-19:30; Sa 10:00-19:30"
+opening_hours: Tu-Th 11:00-14:00,15:00-19:00; Fr 10:00-14:00,15:00-19:30; Sa 10:00-19:30
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.07083
 longitude: -0.77532
 postcode: "53000"
 city: Laval
-street: "Rue du Général de Gaulle"
-housenumber: 40
-phone: "+33 2 43 53 47 69"
-opening_hours: "Mo 14:00-19:00; Tu,We 10:00-12:30,14:00-19:00; Th-Sa 10:00-13:00,14:00-19:00"
+street: Rue du Général de Gaulle
+housenumber: "40"
+phone: +33 2 43 53 47 69
+opening_hours: Mo 14:00-19:00; Tu,We 10:00-12:30,14:00-19:00; Th-Sa 10:00-13:00,14:00-19:00
 website: ""

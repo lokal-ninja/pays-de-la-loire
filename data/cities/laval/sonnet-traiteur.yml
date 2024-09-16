@@ -4,8 +4,8 @@ latitude: 48.05991
 longitude: -0.76383
 postcode: "53000"
 city: Laval
-street: "Place d'Avesnières"
-housenumber: 10
-phone: "+33 970350002"
-opening_hours: "Tu-Th 08:30-13:30,15:00-19:00; Fr 08:30-13:30,14:30-19:00; Sa 08:30-13:30,14:30-18:30"
-website: "https://www.charcuterie-sonnet.fr/"
+street: Place d'Avesnières
+housenumber: "10"
+phone: +33 970350002
+opening_hours: Tu-Th 08:30-13:30,15:00-19:00; Fr 08:30-13:30,14:30-19:00; Sa 08:30-13:30,14:30-18:30
+website: https://www.charcuterie-sonnet.fr/

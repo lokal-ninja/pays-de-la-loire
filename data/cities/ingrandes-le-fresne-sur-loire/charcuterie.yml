@@ -1,11 +1,11 @@
 id: 236896852
-type: way
+type: node
 latitude: 47.40394
 longitude: -0.9214
 postcode: "49123"
 city: Ingrandes-le-Fresne-sur-Loire
-street: "Rue du Pont"
-housenumber: 14
+street: Rue du Pont
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

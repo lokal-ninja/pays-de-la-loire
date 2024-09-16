@@ -1,11 +1,11 @@
 id: 82974857
-type: way
+type: node
 latitude: 47.24384
 longitude: -1.52721
 postcode: "44300"
 city: Nantes
-street: "Boulevard Jules Verne"
+street: Boulevard Jules Verne
 housenumber: 163 bis
-phone: "+33 2 40 49 01 05"
+phone: +33 2 40 49 01 05
 opening_hours: ""
-website: "https://concessions.peugeot.fr/julesverne-nantes/"
+website: https://concessions.peugeot.fr/julesverne-nantes/

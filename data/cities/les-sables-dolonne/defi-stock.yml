@@ -1,11 +1,11 @@
 id: 179502635
-type: way
+type: node
 latitude: 46.50355
 longitude: -1.78505
 postcode: "85100"
 city: Les Sables-d'Olonne
-street: "Rue de la Petite Garlière"
-housenumber: 38
+street: Rue de la Petite Garlière
+housenumber: "38"
 phone: ""
 opening_hours: ""
 website: ""

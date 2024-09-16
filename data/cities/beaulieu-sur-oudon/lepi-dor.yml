@@ -1,11 +1,11 @@
 id: 274074342
-type: way
+type: node
 latitude: 48.00445
 longitude: -0.99552
 postcode: "53320"
 city: Beaulieu-sur-Oudon
-street: "Rue de Bretagne"
-housenumber: 26
+street: Rue de Bretagne
+housenumber: "26"
 phone: ""
 opening_hours: ""
 website: ""

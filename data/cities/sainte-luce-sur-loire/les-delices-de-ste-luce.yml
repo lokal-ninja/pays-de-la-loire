@@ -4,8 +4,8 @@ latitude: 47.25001
 longitude: -1.48705
 postcode: "44980"
 city: Sainte-Luce-sur-Loire
-street: "Rue Louis Gaudin"
-housenumber: 8
+street: Rue Louis Gaudin
+housenumber: "8"
 phone: "0240259195"
-opening_hours: "Tu-Th 09:30-13:00,14:30-19:00; Fr,Sa 09:30-19:00"
-website: "https://www.les-delices-de-sainte-luce.fr/"
+opening_hours: Tu-Th 09:30-13:00,14:30-19:00; Fr,Sa 09:30-19:00
+website: https://www.les-delices-de-sainte-luce.fr/

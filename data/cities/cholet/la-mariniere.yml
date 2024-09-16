@@ -4,8 +4,8 @@ latitude: 47.06914
 longitude: -0.85177
 postcode: "49300"
 city: Cholet
-street: "Boulevard du Poitou"
-housenumber: 3
-phone: "+33 6 72 58 42 86"
-opening_hours: "Tu-Sa 09:00-19:30; Su 09:00-13:00"
-website: "https://lamariniere31.fr/"
+street: Boulevard du Poitou
+housenumber: "3"
+phone: +33 6 72 58 42 86
+opening_hours: Tu-Sa 09:00-19:30; Su 09:00-13:00
+website: https://lamariniere31.fr/

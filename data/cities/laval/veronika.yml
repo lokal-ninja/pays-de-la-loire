@@ -4,8 +4,8 @@ latitude: 48.07112
 longitude: -0.76965
 postcode: "53000"
 city: Laval
-street: "Rue de la Paix"
-housenumber: 3
-phone: "+33 2 43 49 24 70"
-opening_hours: "Tu-Fr 09:00-14:00,15:30-19:00; Sa 09:00-19:00"
+street: Rue de la Paix
+housenumber: "3"
+phone: +33 2 43 49 24 70
+opening_hours: Tu-Fr 09:00-14:00,15:30-19:00; Sa 09:00-19:00
 website: ""

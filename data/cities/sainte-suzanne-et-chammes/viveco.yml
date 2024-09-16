@@ -1,11 +1,11 @@
 id: 969598368
-type: way
+type: node
 latitude: 48.10057
 longitude: -0.35367
 postcode: "53270"
 city: Sainte-Suzanne et Chammes
-street: "Rue des Coévrons"
-housenumber: 24
+street: Rue des Coévrons
+housenumber: "24"
 phone: "+33243019792"
 opening_hours: ""
 website: ""

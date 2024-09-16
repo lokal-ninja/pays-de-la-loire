@@ -4,8 +4,8 @@ latitude: 47.99694
 longitude: 0.19395
 postcode: "72000"
 city: Le Mans
-street: "Avenue du Général Leclerc"
-housenumber: 75
+street: Avenue du Général Leclerc
+housenumber: "75"
 phone: ""
-opening_hours: "Tu-Fr 09:00-12:30,14:00-19:00; Sa 09:00-12:30,14:00-19:00"
+opening_hours: Tu-Fr 09:00-12:30,14:00-19:00; Sa 09:00-12:30,14:00-19:00
 website: ""

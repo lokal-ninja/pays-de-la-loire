@@ -1,11 +1,11 @@
 id: 711279242
-type: way
+type: node
 latitude: 47.44462
 longitude: -0.53683
 postcode: "49000"
 city: Angers
-street: "Avenue de Lattre de Tassigny"
-housenumber: 170
-phone: "+33 2 41 80 89 30"
+street: Avenue de Lattre de Tassigny
+housenumber: "170"
+phone: +33 2 41 80 89 30
 opening_hours: ""
 website: ""

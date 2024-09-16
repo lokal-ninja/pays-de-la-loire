@@ -1,11 +1,11 @@
 id: 224565999
-type: way
+type: node
 latitude: 47.35909
 longitude: -1.94309
 postcode: "44260"
 city: Savenay
-street: "Place de l'hotel de ville"
-housenumber: 17
+street: Place de l'hotel de ville
+housenumber: "17"
 phone: ""
 opening_hours: ""
 website: ""

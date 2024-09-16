@@ -1,11 +1,11 @@
 id: 124358025
-type: way
+type: node
 latitude: 47.13079
 longitude: -1.75301
 postcode: "44710"
 city: Port-Saint-Père
-street: "Rue des Épinettes"
-housenumber: 2
+street: Rue des Épinettes
+housenumber: "2"
 phone: ""
-opening_hours: "09:00-12:30; 15:00-19:00"
+opening_hours: 09:00-12:30; 15:00-19:00
 website: ""

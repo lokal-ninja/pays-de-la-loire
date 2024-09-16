@@ -1,11 +1,12 @@
 id: 1015285511
-type: way
+type: node
 latitude: 47.06568
 longitude: -1.25409
 postcode: "85610"
 city: Cugand
-street: "Place Vincent Ansquer"
-housenumber: 2
+street: Place Vincent Ansquer
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Fr 06:00-13:30,15:00-19:30; Tu off; Sa 06:30-13:00,15:30-19:00; Su 06:30-13:00"
+opening_hours: Mo-Fr 06:00-13:30,15:00-19:30; Tu off; Sa 06:30-13:00,15:30-19:00;
+    Su 06:30-13:00
 website: ""

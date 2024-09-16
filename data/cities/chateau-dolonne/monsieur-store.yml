@@ -1,11 +1,11 @@
 id: 170385182
-type: way
+type: node
 latitude: 46.48576
 longitude: -1.746
 postcode: "85180"
 city: Château-d'Olonne
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Tu-Sa 09:30-12:30, 14:30-18:30"
-website: "https://monsieurstore.com/magasin/chateau-d-olonne-85180/"
+opening_hours: Tu-Sa 09:30-12:30, 14:30-18:30
+website: https://monsieurstore.com/magasin/chateau-d-olonne-85180/

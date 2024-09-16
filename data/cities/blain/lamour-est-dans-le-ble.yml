@@ -1,11 +1,11 @@
 id: 323428617
-type: way
+type: node
 latitude: 47.47476
 longitude: -1.75381
 postcode: "44130"
 city: Blain
-street: "Route de l'Isac"
-housenumber: 8
+street: Route de l'Isac
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.lamourestdansleble.com/"
+website: https://www.lamourestdansleble.com/

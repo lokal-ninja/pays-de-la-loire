@@ -1,11 +1,11 @@
 id: 907636116
-type: way
+type: node
 latitude: 47.65848
 longitude: -1.66494
 postcode: "44590"
 city: Derval
-street: "Allée du Rocheteur"
-housenumber: 6
+street: Allée du Rocheteur
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

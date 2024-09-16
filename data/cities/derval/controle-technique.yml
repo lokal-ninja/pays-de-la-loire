@@ -1,11 +1,11 @@
 id: 86620430
-type: way
+type: node
 latitude: 47.66192
 longitude: -1.67011
 postcode: "44590"
 city: Derval
-street: "Rue de la Laiterie"
-housenumber: 3
-phone: "+33 2 40 07 77 06"
+street: Rue de la Laiterie
+housenumber: "3"
+phone: +33 2 40 07 77 06
 opening_hours: ""
 website: ""

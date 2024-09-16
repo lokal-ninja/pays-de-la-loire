@@ -1,11 +1,11 @@
 id: 97993726
-type: way
+type: node
 latitude: 47.20982
 longitude: -0.72861
 postcode: "49120"
 city: Chemillé
-street: "Rue Marchande"
-housenumber: 2
+street: Rue Marchande
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

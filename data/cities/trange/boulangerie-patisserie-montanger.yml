@@ -1,11 +1,11 @@
 id: 331655346
-type: way
+type: node
 latitude: 48.02676
 longitude: 0.11416
 postcode: "72650"
 city: Trangé
-street: "Rue des Écoles"
-housenumber: 5
+street: Rue des Écoles
+housenumber: "5"
 phone: ""
-opening_hours: "Tu-Sa 07:00-13:00,15:30-19:30; Su 07:00-13:00"
+opening_hours: Tu-Sa 07:00-13:00,15:30-19:30; Su 07:00-13:00
 website: ""

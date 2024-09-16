@@ -1,11 +1,11 @@
 id: 135004296
-type: way
+type: node
 latitude: 47.69915
 longitude: -0.07329
 postcode: "72200"
 city: La Flèche
-street: "Rue Grollier"
-housenumber: 15
+street: Rue Grollier
+housenumber: "15"
 phone: ""
 opening_hours: ""
-website: "https://www.facebook.com/vaplablafleche"
+website: https://www.facebook.com/vaplablafleche

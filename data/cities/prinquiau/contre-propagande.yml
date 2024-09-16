@@ -4,8 +4,8 @@ latitude: 47.40183
 longitude: -2.03346
 postcode: "44260"
 city: Prinquiau
-street: "Route de la Berrie"
-housenumber: 46
+street: Route de la Berrie
+housenumber: "46"
 phone: "+33766815589"
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.contrepropagande.fr/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.contrepropagande.fr/

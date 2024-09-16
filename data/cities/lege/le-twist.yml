@@ -1,11 +1,11 @@
 id: 72221113
-type: way
+type: node
 latitude: 46.88479
 longitude: -1.5966
 postcode: "44650"
 city: Legé
-street: "Place du Marché"
-housenumber: 2
+street: Place du Marché
+housenumber: "2"
 phone: "+33240049636"
 opening_hours: ""
 website: ""

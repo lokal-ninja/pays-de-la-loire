@@ -1,11 +1,11 @@
 id: 276168379
-type: way
+type: node
 latitude: 47.56419
 longitude: -1.62706
 postcode: "44170"
 city: Nozay
-street: "Rue Alexis Letourneau"
-housenumber: 23
+street: Rue Alexis Letourneau
+housenumber: "23"
 phone: ""
-opening_hours: "We-Fr 09:30-13:00, Mo-Fr 15:30-19:15, Sa 09:30-13:00,15:00-18:00"
+opening_hours: We-Fr 09:30-13:00, Mo-Fr 15:30-19:15, Sa 09:30-13:00,15:00-18:00
 website: ""

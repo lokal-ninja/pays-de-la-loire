@@ -1,11 +1,11 @@
 id: 98162327
-type: way
+type: node
 latitude: 47.21177
 longitude: -0.71936
 postcode: "49120"
 city: Chemillé
-street: "Avenue du Général De Gaulle"
-housenumber: 97
+street: Avenue du Général De Gaulle
+housenumber: "97"
 phone: ""
 opening_hours: ""
 website: ""

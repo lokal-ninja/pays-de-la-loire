@@ -4,8 +4,8 @@ latitude: 47.25883
 longitude: -1.50112
 postcode: "44300"
 city: Nantes
-street: "Rue du Marché Commun"
-housenumber: 19
+street: Rue du Marché Commun
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 07:30-15:00,16:00-19:15; Th 07:30-14:00"
-website: "https://lapanetieredeshameaux.fr/"
+opening_hours: Mo-Sa 07:30-15:00,16:00-19:15; Th 07:30-14:00
+website: https://lapanetieredeshameaux.fr/

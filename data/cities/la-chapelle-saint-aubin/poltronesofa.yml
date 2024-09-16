@@ -1,11 +1,12 @@
 id: 146830300
-type: way
+type: node
 latitude: 48.03855
 longitude: 0.1759
 postcode: "72650"
 city: La Chapelle Saint Aubin
-street: "Rue du Moulin aux Moines"
+street: Rue du Moulin aux Moines
 housenumber: 88-90
 phone: ""
-opening_hours: "Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr 09:00-19:00; Sa 09:00-19:00; Su closed"
-website: "https://www.action.com/fr-fr/points-de-vente/la-chapelle-saint-aubin-88-90-rue-de-moulin-aux-moines/"
+opening_hours: Mo 09:00-19:00; Tu 09:00-19:00; We 09:00-19:00; Th 09:00-19:00; Fr
+    09:00-19:00; Sa 09:00-19:00; Su closed
+website: https://www.action.com/fr-fr/points-de-vente/la-chapelle-saint-aubin-88-90-rue-de-moulin-aux-moines/

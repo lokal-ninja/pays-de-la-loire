@@ -1,11 +1,11 @@
 id: 203668181
-type: way
+type: node
 latitude: 47.4375
 longitude: -1.48214
 postcode: "44390"
 city: Nort-sur-Erdre
-street: "Rue d'Anjou"
-housenumber: 
-phone: "+33 2 40 29 58 00"
+street: Rue d'Anjou
+housenumber: ""
+phone: +33 2 40 29 58 00
 opening_hours: ""
-website: "https://concessions.peugeot.fr/nort-sur-erdre/"
+website: https://concessions.peugeot.fr/nort-sur-erdre/

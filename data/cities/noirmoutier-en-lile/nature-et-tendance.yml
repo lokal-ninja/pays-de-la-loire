@@ -1,11 +1,11 @@
 id: 67875220
-type: way
+type: node
 latitude: 46.99571
 longitude: -2.24783
 postcode: "85330"
 city: Noirmoutier-en-l'Île
-street: "Rue du Boucaud"
-housenumber: 13
+street: Rue du Boucaud
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

@@ -4,8 +4,9 @@ latitude: 47.1455
 longitude: -0.53517
 postcode: "49310"
 city: Lys-Haut-Layon
-street: "Place Charles de Gaulle"
-housenumber: 4
-phone: "+33 6 68 93 17 04"
-opening_hours: "Tu 09:30-12:00, 14:00-18:00; We 09:30-12:00; Th-Fr 09:30-12:00, 14:00-18:00; Sa 09:30-16:00"
+street: Place Charles de Gaulle
+housenumber: "4"
+phone: +33 6 68 93 17 04
+opening_hours: Tu 09:30-12:00, 14:00-18:00; We 09:30-12:00; Th-Fr 09:30-12:00, 14:00-18:00;
+    Sa 09:30-16:00
 website: ""

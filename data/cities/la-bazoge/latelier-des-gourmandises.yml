@@ -1,11 +1,12 @@
 id: 295253095
-type: way
+type: node
 latitude: 48.09885
 longitude: 0.15476
 postcode: "72650"
 city: La Bazoge
-street: "Avenue Nationale"
-housenumber: 60
+street: Avenue Nationale
+housenumber: "60"
 phone: "+33243254160"
-opening_hours: "Tu-Fr 06:30-13:30,15:00-19:30; Mo off; Sa 07:00-13:30,15:00-19:00; Su 07:00-13:00"
+opening_hours: Tu-Fr 06:30-13:30,15:00-19:30; Mo off; Sa 07:00-13:30,15:00-19:00;
+    Su 07:00-13:00
 website: ""

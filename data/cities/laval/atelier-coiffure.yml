@@ -4,8 +4,9 @@ latitude: 48.06712
 longitude: -0.78746
 postcode: "53000"
 city: Laval
-street: "Rue du Docteur Roux"
-housenumber: 2
-phone: "+33 2 43 68 02 29"
-opening_hours: "Tu 09:00-12:00,14:00-18:30; We 09:00-12:00,13:30-18:30; Th 09:00-12:00,13:30-19:00; Fr 09:00-12:00,13:00-19:00; Sa 08:30-16:30"
-website: "http://ateliercoiffure-laval.fr/"
+street: Rue du Docteur Roux
+housenumber: "2"
+phone: +33 2 43 68 02 29
+opening_hours: Tu 09:00-12:00,14:00-18:30; We 09:00-12:00,13:30-18:30; Th 09:00-12:00,13:30-19:00;
+    Fr 09:00-12:00,13:00-19:00; Sa 08:30-16:30
+website: http://ateliercoiffure-laval.fr/

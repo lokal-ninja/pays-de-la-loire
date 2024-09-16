@@ -1,11 +1,11 @@
 id: 71567767
-type: way
+type: node
 latitude: 47.3309
 longitude: -2.42868
 postcode: "44350"
 city: Guérande
-street: "Rue B. Le Tilly"
-housenumber: 3
+street: Rue B. Le Tilly
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

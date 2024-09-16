@@ -4,8 +4,8 @@ latitude: 48.07951
 longitude: -0.75219
 postcode: "53000"
 city: Laval
-street: "Avenue de Mayenne"
-housenumber: 72
+street: Avenue de Mayenne
+housenumber: "72"
 phone: ""
-opening_hours: "Tu 10:00-12:30,14:00-18:00; Sa 10:00-12:30,14:00-18:00"
-website: "http://emmaus53.net/"
+opening_hours: Tu 10:00-12:30,14:00-18:00; Sa 10:00-12:30,14:00-18:00
+website: http://emmaus53.net/

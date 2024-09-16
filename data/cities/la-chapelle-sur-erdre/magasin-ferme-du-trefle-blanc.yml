@@ -1,11 +1,11 @@
 id: 129566428
-type: way
+type: node
 latitude: 47.30835
 longitude: -1.56621
 postcode: "44240"
 city: La Chapelle sur Erdre
-street: "Route du Saz"
-housenumber: 6
+street: Route du Saz
+housenumber: "6"
 phone: ""
-opening_hours: "We-Fr 09:00-12:00"
+opening_hours: We-Fr 09:00-12:00
 website: ""

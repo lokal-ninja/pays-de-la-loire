@@ -1,11 +1,11 @@
 id: 153014279
-type: way
+type: node
 latitude: 47.17517
 longitude: -1.67981
 postcode: "44620"
 city: La Montagne
-street: "Rue Robert Schuman"
-housenumber: 11
-phone: "+33 2 28 91 47 36"
-opening_hours: "Mo 10:30-19:30; Tu-Sa 9:30-19:30"
-website: "https://magasins.lavieclaire.com/lavieclaire/fr/boutique/france/pays-de-la-loire/loire-atlantique/la-montagne/la-montagne/la51485"
+street: Rue Robert Schuman
+housenumber: "11"
+phone: +33 2 28 91 47 36
+opening_hours: Mo 10:30-19:30; Tu-Sa 9:30-19:30
+website: https://magasins.lavieclaire.com/lavieclaire/fr/boutique/france/pays-de-la-loire/loire-atlantique/la-montagne/la-montagne/la51485

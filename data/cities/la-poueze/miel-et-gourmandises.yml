@@ -1,11 +1,11 @@
 id: 586099378
-type: way
+type: node
 latitude: 47.55469
 longitude: -0.79775
 postcode: "49370"
 city: La Pouëze
-street: "Rue du Pressoir"
-housenumber: 33
-phone: "+33 2 41 60 08 34"
-opening_hours: "Fr 14:00-18:00; Sa 09:00-12:00; Mo-Th 09:00-18:00 Sur Rendez-vous"
-website: "https://mieletgourmandises.fr/"
+street: Rue du Pressoir
+housenumber: "33"
+phone: +33 2 41 60 08 34
+opening_hours: Fr 14:00-18:00; Sa 09:00-12:00; Mo-Th 09:00-18:00 "Sur Rendez-vous"
+website: https://mieletgourmandises.fr/

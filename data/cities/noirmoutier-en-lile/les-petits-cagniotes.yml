@@ -1,11 +1,11 @@
 id: 68092942
-type: way
+type: node
 latitude: 46.99765
 longitude: -2.24729
 postcode: "85330"
 city: Noirmoutier-en-l'Île
-street: "Rue des Marouettes"
-housenumber: 2
-phone: "+33 2 51 35 33 39"
-opening_hours: "Jan 19-Jan 1 10:00-13:00,14:00-19:00"
-website: "https://www.lespetitscagniotes.com/"
+street: Rue des Marouettes
+housenumber: "2"
+phone: +33 2 51 35 33 39
+opening_hours: Jan 19-Jan 1 10:00-13:00,14:00-19:00
+website: https://www.lespetitscagniotes.com/

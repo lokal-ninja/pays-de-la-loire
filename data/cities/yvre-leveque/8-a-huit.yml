@@ -1,11 +1,11 @@
 id: 74994046
-type: way
+type: node
 latitude: 48.01393
 longitude: 0.27009
 postcode: "72530"
 city: Yvré-l'Évêque
-street: "Rue de Touraine"
-housenumber: 11
-phone: "+33 2 43 89 60 75"
+street: Rue de Touraine
+housenumber: "11"
+phone: +33 2 43 89 60 75
 opening_hours: ""
 website: ""

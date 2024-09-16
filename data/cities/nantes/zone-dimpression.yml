@@ -4,8 +4,8 @@ latitude: 47.21474
 longitude: -1.58602
 postcode: "44100"
 city: Nantes
-street: "Boulevard de la Fraternité"
-housenumber: 10
-phone: "+33 2 40 43 59 86"
-opening_hours: "Mo-Fr 09:00-12:30,14:30-19:00; Sa 09:00-12:30"
-website: "https://zonedimpression.site-solocal.com/"
+street: Boulevard de la Fraternité
+housenumber: "10"
+phone: +33 2 40 43 59 86
+opening_hours: Mo-Fr 09:00-12:30,14:30-19:00; Sa 09:00-12:30
+website: https://zonedimpression.site-solocal.com/

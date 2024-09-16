@@ -4,8 +4,8 @@ latitude: 47.21897
 longitude: -1.60333
 postcode: "44100"
 city: Nantes
-street: "Boulevard du Tertre"
-housenumber: 7
-phone: "+33 2 40 43 34 34"
+street: Boulevard du Tertre
+housenumber: "7"
+phone: +33 2 40 43 34 34
 opening_hours: ""
-website: "https://www.midas.fr/"
+website: https://www.midas.fr/

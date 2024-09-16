@@ -1,11 +1,11 @@
 id: 47068214
-type: way
+type: node
 latitude: 47.54348
 longitude: -1.88706
 postcode: "44630"
 city: Plessé
-street: "Rue de Malagué"
-housenumber: 8
+street: Rue de Malagué
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://assoladistri.wordpress.com/"
+website: https://assoladistri.wordpress.com/

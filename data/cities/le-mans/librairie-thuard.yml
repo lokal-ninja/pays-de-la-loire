@@ -1,11 +1,11 @@
 id: 66193118
-type: way
+type: node
 latitude: 48.00524
 longitude: 0.20088
 postcode: "72000"
 city: Le Mans
-street: "Rue de l'Étoile"
-housenumber: 24
-phone: "+33 2 43 82 22 22"
-opening_hours: "Mo-Fr 09:00-19:00, Sa 09:00-19:30"
-website: "https://www.librairiethuard.fr/"
+street: Rue de l'Étoile
+housenumber: "24"
+phone: +33 2 43 82 22 22
+opening_hours: Mo-Fr 09:00-19:00, Sa 09:00-19:30
+website: https://www.librairiethuard.fr/

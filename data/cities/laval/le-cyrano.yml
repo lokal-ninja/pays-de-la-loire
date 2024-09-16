@@ -4,8 +4,8 @@ latitude: 48.06722
 longitude: -0.78748
 postcode: "53000"
 city: Laval
-street: "Rue du Docteur Roux"
-housenumber: 2
-phone: "+33 2 43 68 02 43"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:00-19:00"
+street: Rue du Docteur Roux
+housenumber: "2"
+phone: +33 2 43 68 02 43
+opening_hours: Mo-Fr 06:30-20:00; Sa 07:00-19:00
 website: ""

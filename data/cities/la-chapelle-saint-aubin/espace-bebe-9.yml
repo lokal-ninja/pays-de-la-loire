@@ -1,11 +1,11 @@
 id: 1102597206
-type: way
+type: node
 latitude: 48.03503
 longitude: 0.17314
 postcode: "72650"
 city: La Chapelle-Saint-Aubin
-street: "Rue Louis Delage"
-housenumber: 28
+street: Rue Louis Delage
+housenumber: "28"
 phone: ""
 opening_hours: ""
 website: ""

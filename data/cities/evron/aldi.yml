@@ -1,11 +1,11 @@
 id: 235149252
-type: way
+type: node
 latitude: 48.14674
 longitude: -0.40338
 postcode: "53600"
 city: Évron
-street: "Boulevard Saint-Anne"
-housenumber: 
+street: Boulevard Saint-Anne
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

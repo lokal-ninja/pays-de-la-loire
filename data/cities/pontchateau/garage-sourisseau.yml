@@ -1,11 +1,11 @@
 id: 155122978
-type: way
+type: node
 latitude: 47.44074
 longitude: -2.10503
 postcode: "44160"
 city: Pontchâteau
-street: "Route de Vannes"
-housenumber: 103
+street: Route de Vannes
+housenumber: "103"
 phone: ""
 opening_hours: ""
 website: ""

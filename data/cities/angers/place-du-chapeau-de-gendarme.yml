@@ -1,11 +1,11 @@
 id: 126923135
-type: way
+type: node
 latitude: 47.45283
 longitude: -0.55497
 postcode: "49000"
 city: Angers
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:00-20:30; Su 09:00-20:00"
+opening_hours: Mo-Sa 08:00-20:30; Su 09:00-20:00
 website: ""

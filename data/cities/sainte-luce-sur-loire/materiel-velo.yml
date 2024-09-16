@@ -4,8 +4,8 @@ latitude: 47.25777
 longitude: -1.45921
 postcode: "44980"
 city: Sainte-Luce-sur-Loire
-street: "Route de Thouaré"
-housenumber: 200
+street: Route de Thouaré
+housenumber: "200"
 phone: ""
-opening_hours: "Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.materiel-velo.com/a208-magasin-materiel-velo-nantes.html"
+opening_hours: Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:00-12:00,14:00-18:00
+website: https://www.materiel-velo.com/a208-magasin-materiel-velo-nantes.html

@@ -1,11 +1,11 @@
 id: 80171063
-type: way
+type: node
 latitude: 47.1571
 longitude: -1.26949
 postcode: "44330"
 city: Vallet
-street: "Boulevard d'Italie"
-housenumber: 10
-phone: "+33 2 40 36 27 60"
+street: Boulevard d'Italie
+housenumber: "10"
+phone: +33 2 40 36 27 60
 opening_hours: ""
-website: "https://www.valletoffset.fr/"
+website: https://www.valletoffset.fr/

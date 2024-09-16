@@ -4,8 +4,8 @@ latitude: 47.46673
 longitude: -0.55663
 postcode: "49100"
 city: Angers
-street: "Place de la Visitation"
-housenumber: 3
-phone: "+33 2 41 88 63 52"
-opening_hours: "Tu,Th,Fr,Sa 09:00-12:00, 15:30-19:30; We,Su 09:00-13:00"
+street: Place de la Visitation
+housenumber: "3"
+phone: +33 2 41 88 63 52
+opening_hours: Tu,Th,Fr,Sa 09:00-12:00, 15:30-19:30; We,Su 09:00-13:00
 website: ""

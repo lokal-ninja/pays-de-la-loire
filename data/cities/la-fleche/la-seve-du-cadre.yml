@@ -1,11 +1,11 @@
 id: 135006472
-type: way
+type: node
 latitude: 47.69929
 longitude: -0.07354
 postcode: "72200"
 city: La Flèche
-street: "Rue Grollier"
-housenumber: 8
-phone: "+332 43 48 19 83"
+street: Rue Grollier
+housenumber: "8"
+phone: +332 43 48 19 83
 opening_hours: ""
 website: ""

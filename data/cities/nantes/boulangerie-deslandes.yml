@@ -4,8 +4,8 @@ latitude: 47.22564
 longitude: -1.52386
 postcode: "44000"
 city: Nantes
-street: "Rue de la Ville en Pierre"
-housenumber: 10
-phone: "+33 2 40 49 73 87"
-opening_hours: "Mo-Sa 06:00-19:30"
+street: Rue de la Ville en Pierre
+housenumber: "10"
+phone: +33 2 40 49 73 87
+opening_hours: Mo-Sa 06:00-19:30
 website: ""

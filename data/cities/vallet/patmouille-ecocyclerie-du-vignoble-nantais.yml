@@ -4,8 +4,8 @@ latitude: 47.17945
 longitude: -1.26541
 postcode: "44330"
 city: Vallet
-street: "Rue de l'Industrie"
-housenumber: 14
-phone: "+33 2 40 43 28 55"
-opening_hours: "We,Sa 09:30-12:30,14:30-18:00"
-website: "https://patmouille.fr/ecocyclerie/"
+street: Rue de l'Industrie
+housenumber: "14"
+phone: +33 2 40 43 28 55
+opening_hours: We,Sa 09:30-12:30,14:30-18:00
+website: https://patmouille.fr/ecocyclerie/

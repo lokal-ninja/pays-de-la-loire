@@ -1,11 +1,11 @@
 id: 659524710
-type: way
+type: node
 latitude: 46.60912
 longitude: -1.66557
 postcode: "85150"
 city: Les Achards
-street: "Avenue Georges Clemenceau"
-housenumber: 
+street: Avenue Georges Clemenceau
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

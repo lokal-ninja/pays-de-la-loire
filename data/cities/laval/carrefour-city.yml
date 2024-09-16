@@ -4,8 +4,8 @@ latitude: 48.07381
 longitude: -0.76297
 postcode: "53000"
 city: Laval
-street: "Avenue Robert Buron"
-housenumber: 65
-phone: "+33 2 43 59 48 31"
-opening_hours: "Mo-Sa 07:00-22:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/city-laval-buron"
+street: Avenue Robert Buron
+housenumber: "65"
+phone: +33 2 43 59 48 31
+opening_hours: Mo-Sa 07:00-22:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/city-laval-buron

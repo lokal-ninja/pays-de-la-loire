@@ -1,11 +1,11 @@
 id: 67437686
-type: way
+type: node
 latitude: 48.02528
 longitude: 0.17925
 postcode: "72000"
 city: Le Mans
-street: "Rue Thomas Edison"
-housenumber: 14
+street: Rue Thomas Edison
+housenumber: "14"
 phone: ""
-opening_hours: "Mo-Sa 08:30-18:30"
-website: "https://nozarrivages.com/magasin/le-mans-1/"
+opening_hours: Mo-Sa 08:30-18:30
+website: https://nozarrivages.com/magasin/le-mans-1/

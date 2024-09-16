@@ -4,8 +4,8 @@ latitude: 46.97877
 longitude: -1.30205
 postcode: "85600"
 city: Montaigu
-street: "Route de Cholet"
-housenumber: 
+street: Route de Cholet
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:00"
-website: "https://www.action.com/fr-fr/points-de-vente/montaigu/"
+opening_hours: Mo-Sa 09:00-19:00
+website: https://www.action.com/fr-fr/points-de-vente/montaigu/

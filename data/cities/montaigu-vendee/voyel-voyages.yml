@@ -4,8 +4,8 @@ latitude: 46.97633
 longitude: -1.33535
 postcode: "85600"
 city: Montaigu-Vendée
-street: "Rue René Descartes"
-housenumber: 5
+street: Rue René Descartes
+housenumber: "5"
 phone: "+33251430404"
-opening_hours: "Mo-Fr 09:00-12:15,14:00-18:00"
-website: "https://voyel.com"
+opening_hours: Mo-Fr 09:00-12:15,14:00-18:00
+website: https://voyel.com

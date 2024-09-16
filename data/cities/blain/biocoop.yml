@@ -1,11 +1,11 @@
 id: 157255103
-type: way
+type: node
 latitude: 47.47507
 longitude: -1.75846
 postcode: "44130"
 city: Blain
-street: "Rue de Nantes"
-housenumber: 39
+street: Rue de Nantes
+housenumber: "39"
 phone: ""
-opening_hours: "Mo-Sa 09:00-18:00; Su off"
-website: "https://biocinelle.biocoop.net/"
+opening_hours: Mo-Sa 09:00-18:00; Su off
+website: https://biocinelle.biocoop.net/

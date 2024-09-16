@@ -4,8 +4,8 @@ latitude: 47.06144
 longitude: -0.88282
 postcode: "49300"
 city: Cholet
-street: "Rue Bretonnaise"
-housenumber: 30
-phone: "+33 6 49 11 06 12"
-opening_hours: "Mo-Sa 10:00-19:30"
-website: "https://www.lesvelosdevictor.fr/"
+street: Rue Bretonnaise
+housenumber: "30"
+phone: +33 6 49 11 06 12
+opening_hours: Mo-Sa 10:00-19:30
+website: https://www.lesvelosdevictor.fr/

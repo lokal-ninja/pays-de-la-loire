@@ -4,8 +4,8 @@ latitude: 48.06792
 longitude: -0.7731
 postcode: "53000"
 city: Laval
-street: "Rue Charles Landelle"
-housenumber: 17
-phone: "+33 2 43 53 28 39"
-opening_hours: "Tu-Sa 07:30-19:00; Su 07:30-13:00"
-website: "https://www.maisonderval.fr/"
+street: Rue Charles Landelle
+housenumber: "17"
+phone: +33 2 43 53 28 39
+opening_hours: Tu-Sa 07:30-19:00; Su 07:30-13:00
+website: https://www.maisonderval.fr/

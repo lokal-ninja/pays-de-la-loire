@@ -1,11 +1,11 @@
 id: 40875341
-type: way
+type: node
 latitude: 48.07673
 longitude: 0.29816
 postcode: "72460"
 city: Savigné-l'Évêque
-street: "Grande Rue"
-housenumber: 93
+street: Grande Rue
+housenumber: "93"
 phone: ""
 opening_hours: ""
 website: ""

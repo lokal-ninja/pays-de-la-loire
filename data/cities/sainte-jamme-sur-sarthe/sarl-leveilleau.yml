@@ -1,11 +1,11 @@
 id: 367519925
-type: way
+type: node
 latitude: 48.14298
 longitude: 0.17452
 postcode: "72380"
 city: Sainte-Jamme-sur-Sarthe
-street: "Route de Montbizot"
-housenumber: 
+street: Route de Montbizot
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-12:15,14:00-19:00"
+opening_hours: Mo-Sa 08:30-12:15,14:00-19:00
 website: ""

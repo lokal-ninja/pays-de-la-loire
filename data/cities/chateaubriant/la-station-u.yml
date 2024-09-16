@@ -1,11 +1,11 @@
 id: 480882089
-type: way
+type: node
 latitude: 47.71641
 longitude: -1.39161
 postcode: "44110"
 city: Châteaubriant
-street: "Avenue Jean Moulin"
-housenumber: 
-phone: "+33 2 40 28 38 38"
-opening_hours: "24/7"
-website: "https://www.magasins-u.com/"
+street: Avenue Jean Moulin
+housenumber: ""
+phone: +33 2 40 28 38 38
+opening_hours: 24/7
+website: https://www.magasins-u.com/

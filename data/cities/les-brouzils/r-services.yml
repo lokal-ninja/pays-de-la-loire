@@ -1,11 +1,11 @@
 id: 542543500
-type: way
+type: node
 latitude: 46.88308
 longitude: -1.31437
 postcode: "85260"
 city: Les Brouzils
-street: "Rue de la Colonne"
-housenumber: 
+street: Rue de la Colonne
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

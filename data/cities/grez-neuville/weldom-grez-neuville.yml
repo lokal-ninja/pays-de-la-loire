@@ -1,11 +1,11 @@
 id: 961680670
-type: way
+type: node
 latitude: 47.61541
 longitude: -0.70805
 postcode: "49220"
 city: Grez-Neuville
-street: "Rue du Lionnais"
-housenumber: 
-phone: "+33 2 41 05 17 41"
-opening_hours: "Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00"
-website: "https://www.weldom.fr/weldom/nos-magasins/549.html"
+street: Rue du Lionnais
+housenumber: ""
+phone: +33 2 41 05 17 41
+opening_hours: Mo-Fr 09:00-12:30,14:00-19:00; Sa 09:00-19:00
+website: https://www.weldom.fr/weldom/nos-magasins/549.html

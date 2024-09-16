@@ -1,11 +1,11 @@
 id: 536854880
-type: way
+type: node
 latitude: 46.999
 longitude: -1.81652
 postcode: "44270"
 city: Machecoul
-street: "Zone commerciale des Prises"
-housenumber: 
+street: Zone commerciale des Prises
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

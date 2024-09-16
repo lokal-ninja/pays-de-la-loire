@@ -1,11 +1,11 @@
 id: 95132828
-type: way
+type: node
 latitude: 47.19916
 longitude: -1.6121
 postcode: "44100"
 city: Nantes
-street: "Boulevard Bâtonnier Cholet"
-housenumber: 29
+street: Boulevard Bâtonnier Cholet
+housenumber: "29"
 phone: ""
 opening_hours: ""
 website: ""

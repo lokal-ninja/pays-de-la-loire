@@ -4,8 +4,8 @@ latitude: 48.07073
 longitude: -0.70043
 postcode: "53960"
 city: Bonchamp-lès-Laval
-street: "Rue du Maine"
-housenumber: 2
-phone: "+33 2 43 37 31 58"
-opening_hours: "Mo-Fr 06:30-20:00; Sa 07:00-19:00"
-website: "https://www.galeriedessaveurs.fr/"
+street: Rue du Maine
+housenumber: "2"
+phone: +33 2 43 37 31 58
+opening_hours: Mo-Fr 06:30-20:00; Sa 07:00-19:00
+website: https://www.galeriedessaveurs.fr/

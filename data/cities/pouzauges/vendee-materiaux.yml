@@ -1,11 +1,11 @@
 id: 1149955022
-type: way
+type: node
 latitude: 46.78455
 longitude: -0.82389
 postcode: "85700"
 city: Pouzauges
-street: "Rue du Bois Roland"
-housenumber: 13
+street: Rue du Bois Roland
+housenumber: "13"
 phone: ""
 opening_hours: ""
 website: ""

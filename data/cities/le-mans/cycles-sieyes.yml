@@ -4,8 +4,8 @@ latitude: 48.01084
 longitude: 0.19074
 postcode: "72000"
 city: Le Mans
-street: "Rue Sieyès"
-housenumber: 24
-phone: "+33 2 43 24 33 60"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-17:00"
+street: Rue Sieyès
+housenumber: "24"
+phone: +33 2 43 24 33 60
+opening_hours: Mo-Fr 09:00-12:00, 14:00-19:00; Sa 09:00-12:00, 14:00-17:00
 website: ""

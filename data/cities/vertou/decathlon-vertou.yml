@@ -1,11 +1,11 @@
 id: 360902738
-type: way
+type: node
 latitude: 47.17911
 longitude: -1.50168
 postcode: "44120"
 city: Vertou
-street: "rue des grands chataigniers"
-housenumber: 
+street: rue des grands chataigniers
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

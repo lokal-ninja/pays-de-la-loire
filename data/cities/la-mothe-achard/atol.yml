@@ -1,11 +1,11 @@
 id: 107964176
-type: way
+type: node
 latitude: 46.61867
 longitude: -1.65805
 postcode: "85150"
 city: La Mothe-Achard
-street: "Place des Halles"
-housenumber: 1
+street: Place des Halles
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

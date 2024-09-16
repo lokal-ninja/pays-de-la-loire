@@ -1,11 +1,11 @@
 id: 144943523
-type: way
+type: node
 latitude: 47.54637
 longitude: -0.11081
 postcode: "49150"
 city: Baugé
-street: "Avenue d'Angers"
-housenumber: 
+street: Avenue d'Angers
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

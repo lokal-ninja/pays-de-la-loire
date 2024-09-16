@@ -1,11 +1,11 @@
 id: 160992853
-type: way
+type: node
 latitude: 47.19123
 longitude: -0.29028
 postcode: "49700"
 city: Doué La Fontaine
-street: "Boulevard du Docteur Lionet"
-housenumber: 944
+street: Boulevard du Docteur Lionet
+housenumber: "944"
 phone: ""
-opening_hours: "Mo-Th,Sa 08:30-19:30; Fr 08:30-20:00"
-website: "https://www.magasins-u.com/magasin/superu-douelafontaine.m36122"
+opening_hours: Mo-Th,Sa 08:30-19:30; Fr 08:30-20:00
+website: https://www.magasins-u.com/magasin/superu-douelafontaine.m36122

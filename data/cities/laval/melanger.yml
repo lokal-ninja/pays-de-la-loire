@@ -1,11 +1,11 @@
 id: 67783942
-type: way
+type: node
 latitude: 48.0737
 longitude: -0.75532
 postcode: "53000"
 city: Laval
-street: "Rue de Paris"
-housenumber: 165
+street: Rue de Paris
+housenumber: "165"
 phone: ""
 opening_hours: ""
 website: ""

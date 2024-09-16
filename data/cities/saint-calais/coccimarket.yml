@@ -1,11 +1,11 @@
 id: 236065106
-type: way
+type: node
 latitude: 47.92117
 longitude: 0.74299
 postcode: "72120"
 city: Saint-Calais
-street: "Rue Amédée Savidan"
-housenumber: 6
+street: Rue Amédée Savidan
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

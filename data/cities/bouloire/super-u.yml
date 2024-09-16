@@ -1,11 +1,11 @@
 id: 166983586
-type: way
+type: node
 latitude: 47.97195
 longitude: 0.55834
 postcode: "72440"
 city: Bouloire
-street: "Rue Nationale"
-housenumber: 129
-phone: "+33 2 43 35 40 26"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.magasins-u.com/magasin/superu-bouloire"
+street: Rue Nationale
+housenumber: "129"
+phone: +33 2 43 35 40 26
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.magasins-u.com/magasin/superu-bouloire

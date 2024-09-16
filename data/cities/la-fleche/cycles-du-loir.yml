@@ -1,11 +1,11 @@
 id: 135013490
-type: way
+type: node
 latitude: 47.70212
 longitude: -0.05105
 postcode: "72200"
 city: La Flèche
-street: "Allée des Futereaux"
-housenumber: 
+street: Allée des Futereaux
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.cyclesduloir.com/"
+website: https://www.cyclesduloir.com/

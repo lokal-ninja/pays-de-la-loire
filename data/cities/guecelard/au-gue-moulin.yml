@@ -4,8 +4,8 @@ latitude: 47.87787
 longitude: 0.12928
 postcode: "72230"
 city: Guécélard
-street: "Place du Gué"
-housenumber: 23
-phone: "+33 2 43 87 16 43"
-opening_hours: "Mo-Fr 06:30-19:00; Sa 06:45-13:30"
+street: Place du Gué
+housenumber: "23"
+phone: +33 2 43 87 16 43
+opening_hours: Mo-Fr 06:30-19:00; Sa 06:45-13:30
 website: ""

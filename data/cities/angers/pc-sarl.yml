@@ -4,8 +4,8 @@ latitude: 47.49124
 longitude: -0.53171
 postcode: "49100"
 city: Angers
-street: "Boulevard du Doyenné"
-housenumber: 20
-phone: "+33 2 41 66 04 04"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 09:30-12:30,14:00-18:30; Sa 10:00-12:30,14:00-17:00"
+street: Boulevard du Doyenné
+housenumber: "20"
+phone: +33 2 41 66 04 04
+opening_hours: Mo 14:00-18:30; Tu-Fr 09:30-12:30,14:00-18:30; Sa 10:00-12:30,14:00-17:00
 website: ""

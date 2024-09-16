@@ -4,8 +4,8 @@ latitude: 47.36523
 longitude: -1.17766
 postcode: "44150"
 city: Ancenis
-street: "Place Jeanne-d'Arc"
-housenumber: 51
+street: Place Jeanne-d'Arc
+housenumber: "51"
 phone: ""
-opening_hours: "PH,Su off; Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-19:00"
-website: "https://www.landronchartier.fr/bienvenue/la-cave/"
+opening_hours: PH,Su off; Tu-Fr 10:00-13:00,15:00-19:00; Sa 10:00-19:00
+website: https://www.landronchartier.fr/bienvenue/la-cave/

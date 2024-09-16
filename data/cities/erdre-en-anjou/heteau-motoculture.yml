@@ -1,11 +1,11 @@
 id: 239637510
-type: way
+type: node
 latitude: 47.59865
 longitude: -0.84238
 postcode: "49220"
 city: Erdre-en-Anjou
-street: "Rue du Commerce"
-housenumber: 74
-phone: "+33 2 41 61 44 40"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00"
+street: Rue du Commerce
+housenumber: "74"
+phone: +33 2 41 61 44 40
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 09:00-12:00
 website: ""

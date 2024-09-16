@@ -1,11 +1,11 @@
 id: 219338271
-type: way
+type: node
 latitude: 48.07064
 longitude: -0.74935
 postcode: "53000"
 city: Laval
-street: "Avenue Chanzy"
-housenumber: 195
-phone: "+33 243591900"
-opening_hours: "Mo-Sa 08:30-19:00"
+street: Avenue Chanzy
+housenumber: "195"
+phone: +33 243591900
+opening_hours: Mo-Sa 08:30-19:00
 website: ""

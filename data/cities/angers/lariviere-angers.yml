@@ -1,11 +1,11 @@
 id: 714526607
-type: way
+type: node
 latitude: 47.46002
 longitude: -0.51761
 postcode: "49000"
 city: Angers
-street: "Boulevard d'Estienne d'Orves"
-housenumber: 
-phone: "+33 2 41 66 67 81"
-opening_hours: "Mo-Fr 07:30-12:00,13:30-17:30"
-website: "https://www.lariviere.fr"
+street: Boulevard d'Estienne d'Orves
+housenumber: ""
+phone: +33 2 41 66 67 81
+opening_hours: Mo-Fr 07:30-12:00,13:30-17:30
+website: https://www.lariviere.fr

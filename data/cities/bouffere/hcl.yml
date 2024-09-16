@@ -1,11 +1,11 @@
 id: 109871180
-type: way
+type: node
 latitude: 46.95844
 longitude: -1.34274
 postcode: "85600"
 city: Boufféré
-street: "Rue du Sacré Coeur"
-housenumber: 8
-phone: "+33 2 51 41 59 69"
-opening_hours: "Mo 14:00-18:00; Tu-Fr 10:00-12:30,14:00-18:30; Sa 10:00-12:30,14:00-18:00"
-website: "https://h-c-l.fr/"
+street: Rue du Sacré Coeur
+housenumber: "8"
+phone: +33 2 51 41 59 69
+opening_hours: Mo 14:00-18:00; Tu-Fr 10:00-12:30,14:00-18:30; Sa 10:00-12:30,14:00-18:00
+website: https://h-c-l.fr/

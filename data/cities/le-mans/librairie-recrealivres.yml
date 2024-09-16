@@ -4,8 +4,8 @@ latitude: 48.00608
 longitude: 0.19782
 postcode: "72000"
 city: Le Mans
-street: "Rue de la Barillerie"
-housenumber: 7
-phone: "+33 2 43 77 90 66"
-opening_hours: "Mo 13:00-19:00, Tu-Sa 09:30-19:00"
+street: Rue de la Barillerie
+housenumber: "7"
+phone: +33 2 43 77 90 66
+opening_hours: Mo 13:00-19:00, Tu-Sa 09:30-19:00
 website: ""

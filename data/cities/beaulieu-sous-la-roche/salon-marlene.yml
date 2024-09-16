@@ -1,11 +1,11 @@
 id: 302923154
-type: way
+type: node
 latitude: 46.67663
 longitude: -1.60976
 postcode: "85190"
 city: Beaulieu-sous-la-Roche
-street: "Place du Marché"
-housenumber: 5
+street: Place du Marché
+housenumber: "5"
 phone: ""
 opening_hours: ""
 website: ""

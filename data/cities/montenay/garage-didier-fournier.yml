@@ -1,11 +1,11 @@
 id: 318136605
-type: way
+type: node
 latitude: 48.28903
 longitude: -0.88734
 postcode: "53500"
 city: Montenay
-street: "Rue des Artisans"
-housenumber: 10
-phone: "+33 2 43 05 23 71"
+street: Rue des Artisans
+housenumber: "10"
+phone: +33 2 43 05 23 71
 opening_hours: ""
 website: ""

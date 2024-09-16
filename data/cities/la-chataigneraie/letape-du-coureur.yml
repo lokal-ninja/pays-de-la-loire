@@ -1,11 +1,11 @@
 id: 984001971
-type: way
+type: node
 latitude: 46.64758
 longitude: -0.74845
 postcode: "85120"
 city: La Châtaigneraie
-street: "Zone de la Garenne"
-housenumber: 
+street: Zone de la Garenne
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.letapeducoureur.com/"
+website: https://www.letapeducoureur.com/

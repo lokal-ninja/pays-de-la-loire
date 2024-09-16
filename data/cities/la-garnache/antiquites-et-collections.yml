@@ -1,11 +1,11 @@
 id: 64767736
-type: way
+type: node
 latitude: 46.89031
 longitude: -1.82988
 postcode: "85710"
 city: La Garnache
-street: "Rue du Grand Pont"
-housenumber: 
+street: Rue du Grand Pont
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

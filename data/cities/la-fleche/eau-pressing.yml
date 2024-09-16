@@ -1,11 +1,11 @@
 id: 135006988
-type: way
+type: node
 latitude: 47.69895
 longitude: -0.07373
 postcode: "72200"
 city: La Flèche
-street: "Rue Grollier"
-housenumber: 14
-phone: "+33 2 43 96 51 06"
-opening_hours: "Mo 14:00-18:30; Tu-Fr 08:30-12:15,14:00-18:30; Sa 09:00-12:30; Su off"
-website: "https://eau-pressing-ecologiquela-fleche.business.site"
+street: Rue Grollier
+housenumber: "14"
+phone: +33 2 43 96 51 06
+opening_hours: Mo 14:00-18:30; Tu-Fr 08:30-12:15,14:00-18:30; Sa 09:00-12:30; Su off
+website: https://eau-pressing-ecologiquela-fleche.business.site

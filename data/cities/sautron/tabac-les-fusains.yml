@@ -1,11 +1,11 @@
 id: 63764308
-type: way
+type: node
 latitude: 47.26221
 longitude: -1.67251
 postcode: "44880"
 city: Sautron
-street: "Rue de Bretagne"
-housenumber: 49
-phone: "+33 2 40 63 25 66"
+street: Rue de Bretagne
+housenumber: "49"
+phone: +33 2 40 63 25 66
 opening_hours: ""
 website: ""

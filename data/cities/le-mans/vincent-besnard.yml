@@ -1,11 +1,11 @@
 id: 67420437
-type: way
+type: node
 latitude: 48.01531
 longitude: 0.1428
 postcode: "72000"
 city: Le Mans
-street: "Rue Vincent Scotto"
-housenumber: 5
-phone: "+33 9 79 05 82 21"
-opening_hours: "Tu-Sa 09:30-12:30,14:00-19:00"
+street: Rue Vincent Scotto
+housenumber: "5"
+phone: +33 9 79 05 82 21
+opening_hours: Tu-Sa 09:30-12:30,14:00-19:00
 website: ""

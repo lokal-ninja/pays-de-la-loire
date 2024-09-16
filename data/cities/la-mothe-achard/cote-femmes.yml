@@ -1,11 +1,11 @@
 id: 107963712
-type: way
+type: node
 latitude: 46.61794
 longitude: -1.65774
 postcode: "85150"
 city: La Mothe-Achard
-street: "Avenue Georges Clemenceau"
-housenumber: 53
+street: Avenue Georges Clemenceau
+housenumber: "53"
 phone: ""
 opening_hours: ""
 website: ""

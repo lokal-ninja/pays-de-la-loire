@@ -4,8 +4,9 @@ latitude: 47.25474
 longitude: -2.01655
 postcode: "44320"
 city: Saint-Viaud
-street: "Route de Saint-Père"
-housenumber: 21
+street: Route de Saint-Père
+housenumber: "21"
 phone: ""
-opening_hours: "Tu 08:30-12:00,13:30-18:00; We 08:30-12:00,13:30-18:00; Th 08:30-12:00,13:30-18:00; Fr 08:30-12:00,13:30-18:00; Sa 08:30-15:30"
+opening_hours: Tu 08:30-12:00,13:30-18:00; We 08:30-12:00,13:30-18:00; Th 08:30-12:00,13:30-18:00;
+    Fr 08:30-12:00,13:30-18:00; Sa 08:30-15:30
 website: ""

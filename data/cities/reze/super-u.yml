@@ -1,11 +1,11 @@
 id: 668622240
-type: way
+type: node
 latitude: 47.17732
 longitude: -1.55876
 postcode: "44400"
 city: REZÉ
-street: "Rue de la Galarnière"
-housenumber: 22
+street: Rue de la Galarnière
+housenumber: "22"
 phone: "+33240131819"
-opening_hours: "Mo-Sa 08:45-19:30, Su 09:00-12:00"
-website: "https://www.magasins-u.com/magasin/superu-reze"
+opening_hours: Mo-Sa 08:45-19:30, Su 09:00-12:00
+website: https://www.magasins-u.com/magasin/superu-reze

@@ -4,8 +4,9 @@ latitude: 48.18371
 longitude: -0.12795
 postcode: "72140"
 city: Sillé-le-Guillaume
-street: "Rue du Général Giraud"
-housenumber: 2
+street: Rue du Général Giraud
+housenumber: "2"
 phone: "+33243208273"
-opening_hours: "Tu,Th,Fr 07:30-12:30,15:30-19:00; We 08:00-12:30; Sa 08:00-12:30,15:30-19:00; Su 08:30-12:30"
+opening_hours: Tu,Th,Fr 07:30-12:30,15:30-19:00; We 08:00-12:30; Sa 08:00-12:30,15:30-19:00;
+    Su 08:30-12:30
 website: ""

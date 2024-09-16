@@ -1,11 +1,11 @@
 id: 126919282
-type: way
+type: node
 latitude: 47.485
 longitude: -0.57078
 postcode: "49100"
 city: Angers
-street: "Avenue René Gasnier"
-housenumber: 90
+street: Avenue René Gasnier
+housenumber: "90"
 phone: ""
 opening_hours: ""
-website: "https://nozarrivages.com/magasin/angers-1/"
+website: https://nozarrivages.com/magasin/angers-1/

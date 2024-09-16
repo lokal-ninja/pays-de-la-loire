@@ -1,11 +1,11 @@
 id: 84708279
-type: way
+type: node
 latitude: 47.17969
 longitude: -1.55805
 postcode: "44400"
 city: Rezé
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo, Tu, Th-Su off; Mo, Tu, Th-Sa 06:30-20:00; Su 07:00-20:00"
-website: "https://www.ma-boulangerie-cafe.fr/boutique-reze-44-artisan-boulanger-patissier-gateau-traiteur/"
+opening_hours: Mo, Tu, Th-Su off; Mo, Tu, Th-Sa 06:30-20:00; Su 07:00-20:00
+website: https://www.ma-boulangerie-cafe.fr/boutique-reze-44-artisan-boulanger-patissier-gateau-traiteur/

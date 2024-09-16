@@ -1,11 +1,11 @@
 id: 154306092
-type: way
+type: node
 latitude: 47.46493
 longitude: -0.66817
 postcode: "49070"
 city: Saint-Léger-de-Linières
-street: "Rue de la Liberté"
-housenumber: 54
+street: Rue de la Liberté
+housenumber: "54"
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

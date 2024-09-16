@@ -1,11 +1,11 @@
 id: 1241472794
-type: way
+type: node
 latitude: 47.70107
 longitude: -0.0887
 postcode: "72200"
 city: La Flèche
-street: "Avenue Rhin et Danube"
-housenumber: 
+street: Avenue Rhin et Danube
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.nozarrivages.com/magasin/la-fleche/"
+website: https://www.nozarrivages.com/magasin/la-fleche/

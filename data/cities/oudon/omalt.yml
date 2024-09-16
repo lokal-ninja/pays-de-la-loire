@@ -5,7 +5,7 @@ longitude: -1.26248
 postcode: "44521"
 city: Oudon
 street: ""
-housenumber: 125
-phone: "+33 7 66 10 67 00"
-opening_hours: "Sa[1] 10:00-12:00"
-website: "https://www.omalt.fr"
+housenumber: "125"
+phone: +33 7 66 10 67 00
+opening_hours: Sa[1] 10:00-12:00
+website: https://www.omalt.fr

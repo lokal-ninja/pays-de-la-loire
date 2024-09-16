@@ -1,11 +1,11 @@
 id: 133784224
-type: way
+type: node
 latitude: 46.56045
 longitude: -1.76427
 postcode: "85340"
 city: L'Ile d'Olonne
-street: "La Croix Bégaud"
-housenumber: 
+street: La Croix Bégaud
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://www.domainesaintnicolas.com/"
+website: https://www.domainesaintnicolas.com/

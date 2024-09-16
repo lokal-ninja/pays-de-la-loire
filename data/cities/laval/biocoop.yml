@@ -1,11 +1,11 @@
 id: 67773836
-type: way
+type: node
 latitude: 48.07759
 longitude: -0.80004
 postcode: "53000"
 city: Laval
-street: "Rue de Bir-Hakeim"
-housenumber: 8
-phone: "+33 2 43 66 98 88"
-opening_hours: "Mo-Sa  09:30-19:00"
-website: "https://mayennebiosoleil.biocoop.net/"
+street: Rue de Bir-Hakeim
+housenumber: "8"
+phone: +33 2 43 66 98 88
+opening_hours: Mo-Sa  09:30-19:00
+website: https://mayennebiosoleil.biocoop.net/

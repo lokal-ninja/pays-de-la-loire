@@ -4,8 +4,8 @@ latitude: 48.05549
 longitude: -0.73766
 postcode: "53000"
 city: Laval
-street: "Rue de Londres"
-housenumber: 11
+street: Rue de Londres
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Sa 07:00-19:30"
-website: "http://www.bricodepot.fr"
+opening_hours: Mo-Sa 07:00-19:30
+website: http://www.bricodepot.fr

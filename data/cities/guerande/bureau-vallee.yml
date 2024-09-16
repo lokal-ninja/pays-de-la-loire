@@ -1,11 +1,11 @@
 id: 867670485
-type: way
+type: node
 latitude: 47.32418
 longitude: -2.41235
 postcode: "44350"
 city: Guérande
-street: "Rue de la Briquerie"
-housenumber: 10
+street: Rue de la Briquerie
+housenumber: "10"
 phone: ""
 opening_hours: ""
 website: ""

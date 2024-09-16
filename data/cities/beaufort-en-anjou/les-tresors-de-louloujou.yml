@@ -1,11 +1,11 @@
 id: 241150597
-type: way
+type: node
 latitude: 47.44072
 longitude: -0.21561
 postcode: "49250"
 city: Beaufort-en-Anjou
-street: "Rue de l'Hôtel de Ville"
-housenumber: 3
+street: Rue de l'Hôtel de Ville
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

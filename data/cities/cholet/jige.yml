@@ -4,8 +4,8 @@ latitude: 47.06224
 longitude: -0.87926
 postcode: "49300"
 city: Cholet
-street: "Rue Nationale"
-housenumber: 115
+street: Rue Nationale
+housenumber: "115"
 phone: ""
 opening_hours: ""
-website: "https://jige.fr/"
+website: https://jige.fr/

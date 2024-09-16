@@ -4,8 +4,8 @@ latitude: 47.98701
 longitude: 0.20833
 postcode: "72000"
 city: Le Mans
-street: "Avenue Jean Jaurès"
-housenumber: 200
+street: Avenue Jean Jaurès
+housenumber: "200"
 phone: ""
-opening_hours: "Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-15:30"
+opening_hours: Tu-Th 09:00-12:00,14:00-19:00; Fr 09:00-19:00; Sa 08:30-15:30
 website: ""

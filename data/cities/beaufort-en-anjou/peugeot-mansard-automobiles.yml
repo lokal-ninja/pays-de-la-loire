@@ -1,11 +1,11 @@
 id: 241144527
-type: way
+type: node
 latitude: 47.4362
 longitude: -0.22566
 postcode: "49250"
 city: Beaufort-en-Anjou
-street: "Boulevard de la Prévôté"
-housenumber: 
-phone: "+33 2 41 57 28 28"
+street: Boulevard de la Prévôté
+housenumber: ""
+phone: +33 2 41 57 28 28
 opening_hours: ""
-website: "https://concessions.peugeot.fr/beaufort-en-vallee/"
+website: https://concessions.peugeot.fr/beaufort-en-vallee/

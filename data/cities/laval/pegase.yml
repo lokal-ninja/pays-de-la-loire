@@ -1,11 +1,11 @@
 id: 67776514
-type: way
+type: node
 latitude: 48.05593
 longitude: -0.73485
 postcode: "53000"
 city: Laval
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00; Fr 09:00-21:00"
+opening_hours: Mo-Sa 09:00-20:00; Fr 09:00-21:00
 website: ""

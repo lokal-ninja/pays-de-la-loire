@@ -1,11 +1,11 @@
 id: 80160168
-type: way
+type: node
 latitude: 47.15769
 longitude: -1.27109
 postcode: ""
 city: Vallet
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 08:30-19:30; Su 08:30-12:30"
+opening_hours: Mo-Sa 08:30-19:30; Su 08:30-12:30
 website: ""

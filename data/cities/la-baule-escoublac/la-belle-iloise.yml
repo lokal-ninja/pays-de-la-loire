@@ -1,11 +1,11 @@
 id: 99674910
-type: way
+type: node
 latitude: 47.28542
 longitude: -2.39148
 postcode: "44500"
 city: La Baule-Escoublac
-street: "Avenue du Général de Gaulle"
-housenumber: 112
+street: Avenue du Général de Gaulle
+housenumber: "112"
 phone: ""
 opening_hours: ""
 website: ""

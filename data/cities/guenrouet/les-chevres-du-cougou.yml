@@ -1,11 +1,11 @@
 id: 712297697
-type: way
+type: node
 latitude: 47.55145
 longitude: -2.0091
 postcode: "44530"
 city: Guenrouet
-street: "Bleuben"
-housenumber: 
+street: Bleuben
+housenumber: ""
 phone: ""
-opening_hours: "We 16:30-19:00"
-website: "https://leschevresducougou.wordpress.com/"
+opening_hours: We 16:30-19:00
+website: https://leschevresducougou.wordpress.com/

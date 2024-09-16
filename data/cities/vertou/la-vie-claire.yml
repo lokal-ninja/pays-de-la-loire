@@ -1,11 +1,11 @@
 id: 74126992
-type: way
+type: node
 latitude: 47.1688
 longitude: -1.47607
 postcode: "44120"
 city: Vertou
-street: "Rue Jeanne D'Arc"
-housenumber: 15
+street: Rue Jeanne D'Arc
+housenumber: "15"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:30; Su off"
-website: "https://www.lavieclaire.com/magasin-bio/vertou.html"
+opening_hours: Mo-Sa 09:30-19:30; Su off
+website: https://www.lavieclaire.com/magasin-bio/vertou.html

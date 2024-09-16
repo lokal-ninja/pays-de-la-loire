@@ -4,8 +4,8 @@ latitude: 47.151
 longitude: -1.53398
 postcode: "44840"
 city: Les Sorinières
-street: "Rue de Nantes"
-housenumber: 23
+street: Rue de Nantes
+housenumber: "23"
 phone: "+33983635915"
-opening_hours: "Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00"
-website: "https://www.facebook.com/sainbioznantes/"
+opening_hours: Mo-Fr 10:00-13:00,14:00-19:00; Sa 10:00-16:00
+website: https://www.facebook.com/sainbioznantes/

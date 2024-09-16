@@ -1,11 +1,11 @@
 id: 88934729
-type: way
+type: node
 latitude: 46.69759
 longitude: -1.91502
 postcode: "85800"
 city: Saint-Gilles-Croix-de-Vie
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 48.07066
 longitude: -0.77585
 postcode: "53000"
 city: Laval
-street: "Rue du Général de Gaulle"
-housenumber: 29
+street: Rue du Général de Gaulle
+housenumber: "29"
 phone: ""
-opening_hours: "Mo 10:00-13:00, 14:00-19:00; Tu-Su 10:00-19:00"
-website: "https://fr.mephisto.com/"
+opening_hours: Mo 10:00-13:00, 14:00-19:00; Tu-Su 10:00-19:00
+website: https://fr.mephisto.com/

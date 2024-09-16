@@ -4,8 +4,8 @@ latitude: 47.06227
 longitude: -0.87884
 postcode: "49300"
 city: Cholet
-street: "Rue Nationale"
-housenumber: 105
+street: Rue Nationale
+housenumber: "105"
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00; Su off"
-website: "https://www.armandthiery.fr/"
+opening_hours: Mo-Sa 09:30-19:00; Su off
+website: https://www.armandthiery.fr/

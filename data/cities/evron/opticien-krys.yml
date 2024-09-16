@@ -4,8 +4,8 @@ latitude: 48.15603
 longitude: -0.4024
 postcode: "53600"
 city: Évron
-street: "Place du Pilori"
-housenumber: 1
+street: Place du Pilori
+housenumber: "1"
 phone: ""
-opening_hours: "sur rendez-vous, en cas d’urgence"
+opening_hours: '"sur rendez-vous, en cas d’urgence"'
 website: ""

@@ -1,11 +1,11 @@
 id: 207346908
-type: way
+type: node
 latitude: 48.01259
 longitude: 0.15108
 postcode: "72700"
 city: Rouillon
-street: "Rue de Beaugé"
-housenumber: 
+street: Rue de Beaugé
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

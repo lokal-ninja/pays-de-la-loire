@@ -4,8 +4,8 @@ latitude: 47.24882
 longitude: -1.61316
 postcode: "44800"
 city: Saint-Herblain
-street: "Route de Vannes"
-housenumber: 343
-phone: "+33 2 40 67 12 99"
-opening_hours: "Mo-Sa 09:30-12:00, 14:00-18:30"
+street: Route de Vannes
+housenumber: "343"
+phone: +33 2 40 67 12 99
+opening_hours: Mo-Sa 09:30-12:00, 14:00-18:30
 website: ""

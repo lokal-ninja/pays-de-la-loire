@@ -1,11 +1,11 @@
 id: 146830454
-type: way
+type: node
 latitude: 48.03567
 longitude: 0.17487
 postcode: "72650"
 city: La Chapelle Saint Aubin
-street: "Rue Louis Delage"
-housenumber: 10
-phone: "+33 2 43 77 95 25"
+street: Rue Louis Delage
+housenumber: "10"
+phone: +33 2 43 77 95 25
 opening_hours: ""
-website: "https://concessions.peugeot.fr/la-chapelle-saint-aubin/"
+website: https://concessions.peugeot.fr/la-chapelle-saint-aubin/

@@ -1,11 +1,11 @@
 id: 224030492
-type: way
+type: node
 latitude: 47.18814
 longitude: -1.46556
 postcode: "44115"
 city: Basse-Goulaine
-street: "Route de Clisson"
-housenumber: 
+street: Route de Clisson
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

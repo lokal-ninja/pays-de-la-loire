@@ -1,11 +1,11 @@
 id: 134602944
-type: way
+type: node
 latitude: 47.43279
 longitude: -0.49911
 postcode: "49130"
 city: Les Ponts-de-Cé
-street: "ZAC du Moulin Marcille"
-housenumber: 
-phone: "+33 2 41 25 52 80"
-opening_hours: "Mo-Sa 09:00-19:30"
-website: "https://www.decathlon.fr/store-view/magasin-de-sports-angers-les-ponts-de-ce-0070055300553"
+street: ZAC du Moulin Marcille
+housenumber: ""
+phone: +33 2 41 25 52 80
+opening_hours: Mo-Sa 09:00-19:30
+website: https://www.decathlon.fr/store-view/magasin-de-sports-angers-les-ponts-de-ce-0070055300553

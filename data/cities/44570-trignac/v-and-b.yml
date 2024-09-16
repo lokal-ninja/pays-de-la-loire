@@ -3,9 +3,9 @@ type: node
 latitude: 47.29955
 longitude: -2.21257
 postcode: "44570"
-city: 44570 Trignac 
-street: "Impasse de la Bosselle"
-housenumber: 
+city: '44570 Trignac '
+street: Impasse de la Bosselle
+housenumber: ""
 phone: ""
 opening_hours: ""
-website: "https://magasin.vandb.fr/110-v-and-b-trignac#"
+website: https://magasin.vandb.fr/110-v-and-b-trignac#

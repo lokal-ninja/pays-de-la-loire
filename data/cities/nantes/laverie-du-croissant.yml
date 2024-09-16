@@ -4,8 +4,8 @@ latitude: 47.2403
 longitude: -1.53011
 postcode: "44300"
 city: Nantes
-street: "Boulevard Jules Verne"
-housenumber: 86
+street: Boulevard Jules Verne
+housenumber: "86"
 phone: ""
-opening_hours: "Mo-Su 07:00-22:00+"
+opening_hours: Mo-Su 07:00-22:00+
 website: ""

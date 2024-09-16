@@ -4,8 +4,8 @@ latitude: 47.22367
 longitude: -1.63579
 postcode: "44800"
 city: Saint-Herblain
-street: "Avenue Jacques Cartier"
-housenumber: 12
+street: Avenue Jacques Cartier
+housenumber: "12"
 phone: ""
-opening_hours: "Mo-Fr 09:00-13:00,14:00-18:00"
-website: "https://www.apamh-nantes.fr/"
+opening_hours: Mo-Fr 09:00-13:00,14:00-18:00
+website: https://www.apamh-nantes.fr/

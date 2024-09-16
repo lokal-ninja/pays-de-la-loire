@@ -4,8 +4,8 @@ latitude: 47.49534
 longitude: -1.41753
 postcode: "44440"
 city: Joué-sur-Erdre
-street: "Rue du Stade"
-housenumber: 76
-phone: "+33 6 89 81 93 44"
-opening_hours: "Mo-Fr 09:00-19:00;Sa 08:00-17:00"
+street: Rue du Stade
+housenumber: "76"
+phone: +33 6 89 81 93 44
+opening_hours: Mo-Fr 09:00-19:00;Sa 08:00-17:00
 website: ""

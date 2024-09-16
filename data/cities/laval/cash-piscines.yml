@@ -4,8 +4,8 @@ latitude: 48.06845
 longitude: -0.79244
 postcode: "53000"
 city: Laval
-street: "Allée Berthe Marcou"
-housenumber: 6
-phone: "+33 5 36 28 30 30"
-opening_hours: "Mo-Sa 09:00-12:00,14:00-19:00"
-website: "https://www.cash-piscines.com/"
+street: Allée Berthe Marcou
+housenumber: "6"
+phone: +33 5 36 28 30 30
+opening_hours: Mo-Sa 09:00-12:00,14:00-19:00
+website: https://www.cash-piscines.com/

@@ -5,7 +5,7 @@ longitude: -1.42966
 postcode: "85170"
 city: Le Poiré-sur-Vie
 street: ""
-housenumber: 7
+housenumber: "7"
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:30-12:30, 14:00-18:00"
-website: "https://www.autos.fr/distributeur/ggebrethome"
+opening_hours: Mo-Fr 09:00-12:30, 14:00-19:00; Sa 09:30-12:30, 14:00-18:00
+website: https://www.autos.fr/distributeur/ggebrethome

@@ -1,11 +1,11 @@
 id: 160637344
-type: way
+type: node
 latitude: 47.74225
 longitude: -1.16684
 postcode: "49420"
 city: Pouancé
-street: "Avenue du Général de Gaulle"
-housenumber: 
+street: Avenue du Général de Gaulle
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-19:30; Su 09:00-12:30; PH Horaires inconnus"
+opening_hours: Mo-Sa 09:00-19:30; Su 09:00-12:30; PH "Horaires inconnus"
 website: ""

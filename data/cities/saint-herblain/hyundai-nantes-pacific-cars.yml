@@ -4,8 +4,8 @@ latitude: 47.25183
 longitude: -1.62383
 postcode: "44800"
 city: Saint-Herblain
-street: "Route de Vannes"
-housenumber: 373
+street: Route de Vannes
+housenumber: "373"
 phone: ""
-opening_hours: "Mo-Sa 08:00-12:30, 14:00-19:00"
-website: "https://www.hyundai-nantes.com/"
+opening_hours: Mo-Sa 08:00-12:30, 14:00-19:00
+website: https://www.hyundai-nantes.com/

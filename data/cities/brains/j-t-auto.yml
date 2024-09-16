@@ -1,11 +1,11 @@
 id: 144516107
-type: way
+type: node
 latitude: 47.16518
 longitude: -1.72082
 postcode: "44830"
 city: Brains
-street: "Rue du Plessis"
-housenumber: 30
-phone: "+33 2 51 70 87 00"
+street: Rue du Plessis
+housenumber: "30"
+phone: +33 2 51 70 87 00
 opening_hours: ""
 website: ""

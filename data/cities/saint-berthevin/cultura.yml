@@ -4,8 +4,8 @@ latitude: 48.06735
 longitude: -0.80743
 postcode: "53940"
 city: Saint-Berthevin
-street: "Avenue de Paris"
-housenumber: 66
-phone: "+33 2 43 91 45 40"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.cultura.com"
+street: Avenue de Paris
+housenumber: "66"
+phone: +33 2 43 91 45 40
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.cultura.com

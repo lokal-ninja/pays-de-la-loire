@@ -1,11 +1,11 @@
 id: 125998944
-type: way
+type: node
 latitude: 47.44241
 longitude: -0.48442
 postcode: "49800"
 city: Trélazé
-street: "Rue Joseph Bara"
-housenumber: 1
+street: Rue Joseph Bara
+housenumber: "1"
 phone: ""
 opening_hours: ""
 website: ""

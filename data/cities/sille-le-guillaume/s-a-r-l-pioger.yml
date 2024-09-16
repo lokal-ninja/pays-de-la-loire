@@ -1,11 +1,11 @@
 id: 251147640
-type: way
+type: node
 latitude: 48.17354
 longitude: -0.14596
 postcode: "72140"
 city: Sillé-le-Guillaume
-street: "Impasse du Bois des Cours"
-housenumber: 131
+street: Impasse du Bois des Cours
+housenumber: "131"
 phone: "+33243201148"
 opening_hours: ""
 website: ""

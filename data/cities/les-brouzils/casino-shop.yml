@@ -1,11 +1,11 @@
 id: 110249673
-type: way
+type: node
 latitude: 46.88687
 longitude: -1.32271
 postcode: ""
 city: Les Brouzils
-street: "Rue Georges Clemenceau"
-housenumber: 14
+street: Rue Georges Clemenceau
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 63571746
-type: way
+type: node
 latitude: 47.97633
 longitude: 0.15124
 postcode: "72700"
 city: Allonnes
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:00-20:00"
+opening_hours: Mo-Sa 09:00-20:00
 website: ""

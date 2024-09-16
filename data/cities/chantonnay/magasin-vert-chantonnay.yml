@@ -1,11 +1,11 @@
 id: 169944923
-type: way
+type: node
 latitude: 46.70094
 longitude: -1.05341
 postcode: "85110"
 city: Chantonnay
-street: "Parc d'Activité Polaris"
-housenumber: 
+street: Parc d'Activité Polaris
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:15, 14:15-19:00"
+opening_hours: Mo-Sa 09:30-12:15, 14:15-19:00
 website: ""

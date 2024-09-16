@@ -1,11 +1,11 @@
 id: 146830451
-type: way
+type: node
 latitude: 48.0375
 longitude: 0.1775
 postcode: "72650"
 city: La Chapelle Saint Aubin
-street: "Rue du Moulin aux Moines"
-housenumber: 
+street: Rue du Moulin aux Moines
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

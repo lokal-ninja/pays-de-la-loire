@@ -1,11 +1,11 @@
 id: 297412257
-type: way
+type: node
 latitude: 47.21392
 longitude: -1.60577
 postcode: ""
 city: Nantes
-street: "Boulevard du Tertre"
-housenumber: 57
+street: Boulevard du Tertre
+housenumber: "57"
 phone: "+33240463249"
-opening_hours: "24/7"
-website: "https://store.total.fr/fr_FR/NF006627"
+opening_hours: 24/7
+website: https://store.total.fr/fr_FR/NF006627

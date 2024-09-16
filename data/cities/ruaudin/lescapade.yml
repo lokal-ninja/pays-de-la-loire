@@ -1,11 +1,11 @@
 id: 125432358
-type: way
+type: node
 latitude: 47.94485
 longitude: 0.26313
 postcode: "72230"
 city: Ruaudin
-street: "Rue Principale"
-housenumber: 51
+street: Rue Principale
+housenumber: "51"
 phone: ""
 opening_hours: ""
 website: ""

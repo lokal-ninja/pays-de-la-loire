@@ -1,11 +1,11 @@
 id: 1159728931
-type: way
+type: node
 latitude: 47.19113
 longitude: -1.49299
 postcode: "44230"
 city: Saint-Sébastien-sur-Loire
-street: "Rue Pierre Mendès-France"
-housenumber: 2
+street: Rue Pierre Mendès-France
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:00"
-website: "https://www.yves-rocher.fr/tout-sur-les-magasins/pays-de-la-loire/st-sebastien-sur-loire/nantes-st-sebastien/S-FRYROC408"
+opening_hours: Mo-Sa 09:30-20:00
+website: https://www.yves-rocher.fr/tout-sur-les-magasins/pays-de-la-loire/st-sebastien-sur-loire/nantes-st-sebastien/S-FRYROC408

@@ -4,8 +4,9 @@ latitude: 47.12444
 longitude: -2.11858
 postcode: "44210"
 city: Pornic
-street: "Rue Jean Monnet"
+street: Rue Jean Monnet
 housenumber: 19-21
-phone: "+33 2 40 39 10 32"
-opening_hours: "Mo 10:00-13:00, Tu-Fr 09:30-13:00, Mo-Fr 14:30-19:00, Mo 14:30-19:00, Sa 09:30-13:00, Mo 14:30-19:00"
-website: "https://www.pornic.com/le-chemin-bio.html"
+phone: +33 2 40 39 10 32
+opening_hours: Mo 10:00-13:00, Tu-Fr 09:30-13:00, Mo-Fr 14:30-19:00, Mo 14:30-19:00,
+    Sa 09:30-13:00, Mo 14:30-19:00
+website: https://www.pornic.com/le-chemin-bio.html

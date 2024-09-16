@@ -4,8 +4,8 @@ latitude: 47.21442
 longitude: -1.55434
 postcode: "44000"
 city: Nantes
-street: "Rue de la Paix"
-housenumber: 1
+street: Rue de la Paix
+housenumber: "1"
 phone: ""
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
 website: ""

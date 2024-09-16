@@ -4,8 +4,8 @@ latitude: 48.00486
 longitude: 0.19761
 postcode: "72000"
 city: Le Mans
-street: "Rue de Bolton"
-housenumber: 19
-phone: "+33 2 43 24 02 15"
-opening_hours: "Mo 14:00-18:30; Tu-Sa 09:30-18:45"
-website: "https://www.maisonreignier.com"
+street: Rue de Bolton
+housenumber: "19"
+phone: +33 2 43 24 02 15
+opening_hours: Mo 14:00-18:30; Tu-Sa 09:30-18:45
+website: https://www.maisonreignier.com

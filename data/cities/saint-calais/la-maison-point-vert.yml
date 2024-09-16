@@ -1,11 +1,11 @@
 id: 625940640
-type: way
+type: node
 latitude: 47.91726
 longitude: 0.76531
 postcode: "72120"
 city: Saint-Calais
-street: "Rue du Champ de la Croix"
-housenumber: 8
+street: Rue du Champ de la Croix
+housenumber: "8"
 phone: ""
 opening_hours: ""
-website: "https://www.magasin-point-vert.fr/magasin/saint-calais"
+website: https://www.magasin-point-vert.fr/magasin/saint-calais

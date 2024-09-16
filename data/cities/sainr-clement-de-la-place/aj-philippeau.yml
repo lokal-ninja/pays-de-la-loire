@@ -1,11 +1,11 @@
 id: 238671299
-type: way
+type: node
 latitude: 47.52252
 longitude: -0.74191
 postcode: "49370"
 city: Sainr-Clément-de-la-Place
-street: "Route d'Angers"
-housenumber: 
+street: Route d'Angers
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00,13:00-18:30"
+opening_hours: Mo-Fr 08:30-12:00,13:00-18:30
 website: ""

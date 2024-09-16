@@ -1,11 +1,11 @@
 id: 86669931
-type: way
+type: node
 latitude: 46.7126
 longitude: -1.95961
 postcode: "85270"
 city: Saint-Hilaire-de-Riez
 street: ""
-housenumber: 130
+housenumber: "130"
 phone: ""
-opening_hours: "Mo-We 09:30-12:15, 14:15-19:00; Fr-Sa 09:30-12:15, 14:15-19:00"
-website: "https://www.monmagasinvert.fr/"
+opening_hours: Mo-We 09:30-12:15, 14:15-19:00; Fr-Sa 09:30-12:15, 14:15-19:00
+website: https://www.monmagasinvert.fr/

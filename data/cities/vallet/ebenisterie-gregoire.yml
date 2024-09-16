@@ -1,11 +1,11 @@
 id: 80159079
-type: way
+type: node
 latitude: 47.17805
 longitude: -1.26619
 postcode: "44330"
 city: Vallet
-street: "Route de la Pommeraie"
-housenumber: 
-phone: "+33 2 40 33 96 09"
+street: Route de la Pommeraie
+housenumber: ""
+phone: +33 2 40 33 96 09
 opening_hours: ""
-website: "http://www.ebenisterie-gregoire.fr/"
+website: http://www.ebenisterie-gregoire.fr/

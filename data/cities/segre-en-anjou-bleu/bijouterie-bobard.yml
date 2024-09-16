@@ -1,11 +1,11 @@
 id: 152630221
-type: way
+type: node
 latitude: 47.68359
 longitude: -0.8702
 postcode: "49500"
 city: Segré-en-Anjou Bleu
-street: "Rue Lazare Carnot"
-housenumber: 9
-phone: "+33 2 41 92 19 27"
+street: Rue Lazare Carnot
+housenumber: "9"
+phone: +33 2 41 92 19 27
 opening_hours: ""
 website: ""

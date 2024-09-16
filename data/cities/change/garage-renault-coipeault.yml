@@ -1,11 +1,11 @@
 id: 82060269
-type: way
+type: node
 latitude: 48.09777
 longitude: -0.7791
 postcode: "53810"
 city: Changé
-street: "Rue des Rouliers"
-housenumber: 2
+street: Rue des Rouliers
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

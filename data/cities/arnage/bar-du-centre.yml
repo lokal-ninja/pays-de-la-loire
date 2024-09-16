@@ -1,11 +1,11 @@
 id: 125244126
-type: way
+type: node
 latitude: 47.92909
 longitude: 0.18527
 postcode: "72230"
 city: Arnage
-street: "Avenue Nationale"
-housenumber: 106
+street: Avenue Nationale
+housenumber: "106"
 phone: ""
 opening_hours: ""
 website: ""

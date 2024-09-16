@@ -4,8 +4,9 @@ latitude: 47.47558
 longitude: -0.53484
 postcode: ""
 city: Angers
-street: "Avenue Pasteur"
-housenumber: 
+street: Avenue Pasteur
+housenumber: ""
 phone: ""
-opening_hours: "Mo 17:00-00:30; Tu, We 11:30-14:00, 17:30-00:00; Th 11:30-14:00, 17:30-01:00; Fr 11:30-14:00, 17:30-01:30; Sa 11:30-01:30; Su 11:30-00:00"
+opening_hours: Mo 17:00-00:30; Tu, We 11:30-14:00, 17:30-00:00; Th 11:30-14:00, 17:30-01:00;
+    Fr 11:30-14:00, 17:30-01:30; Sa 11:30-01:30; Su 11:30-00:00
 website: ""

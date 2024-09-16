@@ -1,11 +1,11 @@
 id: 49482365
-type: way
+type: node
 latitude: 47.22213
 longitude: -1.60625
 postcode: "44800"
 city: Saint-Herblain
-street: "Boulevard de la Baule"
-housenumber: 
+street: Boulevard de la Baule
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Th;Sa 08:30-21:00, Fr 08:30-21:30"
+opening_hours: Mo-Th;Sa 08:30-21:00, Fr 08:30-21:30
 website: ""

@@ -1,11 +1,11 @@
 id: 367519927
-type: way
+type: node
 latitude: 48.14574
 longitude: 0.17102
 postcode: "72380"
 city: Sainte-Jamme-sur-Sarthe
-street: "Allée du Sablon"
-housenumber: 
-phone: "+33 2 43 27 60 41"
-opening_hours: "Mo-Th,Sa 09:00-19:30; Fr 09:00-20:00; Su off"
+street: Allée du Sablon
+housenumber: ""
+phone: +33 2 43 27 60 41
+opening_hours: Mo-Th,Sa 09:00-19:30; Fr 09:00-20:00; Su off
 website: ""

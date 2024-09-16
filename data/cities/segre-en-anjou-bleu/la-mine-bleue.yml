@@ -1,11 +1,11 @@
 id: 155157327
-type: way
+type: node
 latitude: 47.71336
 longitude: -0.95648
 postcode: "49520"
 city: Segré-en-Anjou Bleu
-street: "La Gâtelière"
-housenumber: 
+street: La Gâtelière
+housenumber: ""
 phone: ""
-opening_hours: "Apr 1-Nov 12: open Voir http://laminebleue.com/fr/nos-horaires"
-website: "https://laminebleue.com/fr/"
+opening_hours: 'Apr 1-Nov 12: open "Voir http://laminebleue.com/fr/nos-horaires"'
+website: https://laminebleue.com/fr/

@@ -4,8 +4,8 @@ latitude: 47.4445
 longitude: -0.53707
 postcode: "49000"
 city: Angers
-street: "Avenue de Lattre de Tassigny"
-housenumber: 170
+street: Avenue de Lattre de Tassigny
+housenumber: "170"
 phone: ""
-opening_hours: "Mo-Fr 08:00-12:30, 14:00-19:00; Sa 09:00-12:30, 14:00-19:00"
-website: "https://www.fordgroupedmd.fr/"
+opening_hours: Mo-Fr 08:00-12:30, 14:00-19:00; Sa 09:00-12:30, 14:00-19:00
+website: https://www.fordgroupedmd.fr/

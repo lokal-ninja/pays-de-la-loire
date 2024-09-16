@@ -1,11 +1,11 @@
 id: 326989432
-type: way
+type: node
 latitude: 47.97354
 longitude: 0.1722
 postcode: "72700"
 city: Le Mans
-street: "Boulevard Pierre Lefaucheux"
-housenumber: 8
+street: Boulevard Pierre Lefaucheux
+housenumber: "8"
 phone: ""
 opening_hours: ""
 website: ""

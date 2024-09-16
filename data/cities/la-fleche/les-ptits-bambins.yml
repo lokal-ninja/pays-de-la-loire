@@ -1,11 +1,11 @@
 id: 135006720
-type: way
+type: node
 latitude: 47.69981
 longitude: -0.07286
 postcode: "72200"
 city: La Flèche
-street: "Grande Rue"
-housenumber: 37
+street: Grande Rue
+housenumber: "37"
 phone: ""
 opening_hours: ""
-website: "https://business.facebook.com/Les-ptits-Bambins-103537392084367/"
+website: https://business.facebook.com/Les-ptits-Bambins-103537392084367/

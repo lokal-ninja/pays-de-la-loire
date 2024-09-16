@@ -4,8 +4,9 @@ latitude: 48.0733
 longitude: -0.73288
 postcode: "53960"
 city: Bonchamp-lès-Laval
-street: "Impasse de Barbé"
-housenumber: 
-phone: "+33 2 43 65 10 63"
-opening_hours: "Mo 14:00-20:00; Tu,We 10:00-13:00,14:30-20:00; Th,Fr 10:00-21:00; Sa 10:00-13:00,14:30-20:30"
-website: "https://vandb.fr/V-and-B-Bonchamp.html"
+street: Impasse de Barbé
+housenumber: ""
+phone: +33 2 43 65 10 63
+opening_hours: Mo 14:00-20:00; Tu,We 10:00-13:00,14:30-20:00; Th,Fr 10:00-21:00; Sa
+    10:00-13:00,14:30-20:30
+website: https://vandb.fr/V-and-B-Bonchamp.html

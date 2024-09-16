@@ -1,11 +1,11 @@
 id: 1299857309
-type: way
+type: node
 latitude: 46.60022
 longitude: -1.75651
 postcode: "85150"
 city: Vairé
-street: "Place Heimenkirch"
-housenumber: 6
+street: Place Heimenkirch
+housenumber: "6"
 phone: "+33251337205"
 opening_hours: ""
 website: ""

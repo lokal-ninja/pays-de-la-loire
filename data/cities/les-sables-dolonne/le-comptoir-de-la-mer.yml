@@ -1,11 +1,11 @@
 id: 179503325
-type: way
+type: node
 latitude: 46.50046
 longitude: -1.78709
 postcode: "85100"
 city: Les Sables-d'Olonne
-street: "Route de la Cabaude"
-housenumber: 
+street: Route de la Cabaude
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

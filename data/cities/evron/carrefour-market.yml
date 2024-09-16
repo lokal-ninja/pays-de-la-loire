@@ -1,11 +1,11 @@
 id: 235149117
-type: way
+type: node
 latitude: 48.15217
 longitude: -0.40457
 postcode: "53600"
 city: evron
 street: ""
-housenumber: 
-phone: "+33 2 43 01 94 13"
-opening_hours: "Mo-Sa 08:45-19:30; Su 09:00-12:00"
-website: "https://www.carrefour.fr/magasin/market-evron"
+housenumber: ""
+phone: +33 2 43 01 94 13
+opening_hours: Mo-Sa 08:45-19:30; Su 09:00-12:00
+website: https://www.carrefour.fr/magasin/market-evron

@@ -1,11 +1,11 @@
 id: 71763869
-type: way
+type: node
 latitude: 47.32723
 longitude: -2.41464
 postcode: "44350"
 city: Guérande
-street: "Place Kerhillier"
-housenumber: 5
+street: Place Kerhillier
+housenumber: "5"
 phone: "+33240154872"
-opening_hours: "Mo-Sa 09:30-12:30, 14:00-19:00"
+opening_hours: Mo-Sa 09:30-12:30, 14:00-19:00
 website: ""

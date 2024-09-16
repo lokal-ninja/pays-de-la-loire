@@ -1,11 +1,11 @@
 id: 134669624
-type: way
+type: node
 latitude: 47.22538
 longitude: -1.62545
 postcode: "44800"
 city: Saint-Herblain
-street: "Rue Océane"
-housenumber: 
+street: Rue Océane
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

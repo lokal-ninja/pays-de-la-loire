@@ -4,8 +4,8 @@ latitude: 48.03031
 longitude: 0.18055
 postcode: "72000"
 city: Le Mans
-street: "Rue du Parc Manceau"
-housenumber: 11
+street: Rue du Parc Manceau
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.mondovelo.fr/module/mzmondovelostore/store?id_store=24"
+website: https://www.mondovelo.fr/module/mzmondovelostore/store?id_store=24

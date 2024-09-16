@@ -1,11 +1,11 @@
 id: 155122476
-type: way
+type: node
 latitude: 47.43705
 longitude: -2.08994
 postcode: "44160"
 city: Pontchâteau
-street: "Rue du Bouffay"
-housenumber: 11
+street: Rue du Bouffay
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

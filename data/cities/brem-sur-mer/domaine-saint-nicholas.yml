@@ -1,11 +1,11 @@
 id: 108696084
-type: way
+type: node
 latitude: 46.60832
 longitude: -1.84188
 postcode: "85470"
 city: Brem-sur-Mer
-street: "Rue des Vallées"
-housenumber: 11
+street: Rue des Vallées
+housenumber: "11"
 phone: ""
 opening_hours: ""
-website: "https://www.domainesaintnicolas.com/"
+website: https://www.domainesaintnicolas.com/

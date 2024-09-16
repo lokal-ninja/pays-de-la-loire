@@ -4,8 +4,8 @@ latitude: 48.07068
 longitude: -0.77445
 postcode: "53000"
 city: Laval
-street: "Rue du Général de Gaulle"
-housenumber: 5
-phone: "+33 2 43 56 60 86"
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://shop.mango.com/fr"
+street: Rue du Général de Gaulle
+housenumber: "5"
+phone: +33 2 43 56 60 86
+opening_hours: Mo-Sa 09:30-19:00
+website: https://shop.mango.com/fr

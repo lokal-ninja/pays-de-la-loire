@@ -4,8 +4,8 @@ latitude: 47.47056
 longitude: -0.5536
 postcode: "49100"
 city: Angers
-street: "Rue Chaperonnière"
-housenumber: 6
-phone: "+33 2 41 32 30 65"
-opening_hours: "Mo 14:00-19:00; Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://linsolent.fr/"
+street: Rue Chaperonnière
+housenumber: "6"
+phone: +33 2 41 32 30 65
+opening_hours: Mo 14:00-19:00; Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-19:00
+website: https://linsolent.fr/

@@ -1,11 +1,11 @@
 id: 110250920
-type: way
+type: node
 latitude: 46.88432
 longitude: -1.31631
 postcode: ""
 city: Les Brouzils
-street: "La Colonne 2"
-housenumber: 2
+street: La Colonne 2
+housenumber: "2"
 phone: ""
 opening_hours: ""
 website: ""

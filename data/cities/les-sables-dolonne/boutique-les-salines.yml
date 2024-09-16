@@ -1,11 +1,11 @@
 id: 616570190
-type: way
+type: node
 latitude: 46.51595
 longitude: -1.80496
 postcode: "85100"
 city: Les Sables-d'Olonne
-street: "Route de L'Aubraie"
-housenumber: 120
+street: Route de L'Aubraie
+housenumber: "120"
 phone: ""
 opening_hours: ""
 website: ""

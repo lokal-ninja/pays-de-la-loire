@@ -4,8 +4,8 @@ latitude: 47.46673
 longitude: -0.54833
 postcode: "49100"
 city: Angers
-street: "Rue Bressigny"
-housenumber: 69
-phone: "+332 41 86 35 94"
-opening_hours: "Tu-Fr 09:15-13:00,14:00-18:45; Sa 09:00-12:00"
-website: "https://www.artderoue.fr/"
+street: Rue Bressigny
+housenumber: "69"
+phone: +332 41 86 35 94
+opening_hours: Tu-Fr 09:15-13:00,14:00-18:45; Sa 09:00-12:00
+website: https://www.artderoue.fr/

@@ -4,8 +4,8 @@ latitude: 47.35012
 longitude: -1.92327
 postcode: "44260"
 city: Savenay
-street: "Rue de la Butte aux Chèvres"
-housenumber: 2
-phone: "+33 6 64 90 01 49"
-opening_hours: "Mo,Tu,Th,Fr,Sa"
+street: Rue de la Butte aux Chèvres
+housenumber: "2"
+phone: +33 6 64 90 01 49
+opening_hours: Mo,Tu,Th,Fr,Sa
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.46724
 longitude: -0.62985
 postcode: "49070"
 city: Beaucouzé
-street: "Avenue du Pin"
-housenumber: 12
-phone: "+33 2 41 36 53 00"
-opening_hours: "Mo-Fr 09:00-12:00, 14:00-18:30; Sa 09:30-12:30, 14:00-18:30"
+street: Avenue du Pin
+housenumber: "12"
+phone: +33 2 41 36 53 00
+opening_hours: Mo-Fr 09:00-12:00, 14:00-18:30; Sa 09:30-12:30, 14:00-18:30
 website: ""

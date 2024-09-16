@@ -1,11 +1,11 @@
 id: 245543725
-type: way
+type: node
 latitude: 47.83791
 longitude: -0.30343
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Rue de la Tuilerie"
-housenumber: 3
+street: Rue de la Tuilerie
+housenumber: "3"
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 241144693
-type: way
+type: node
 latitude: 47.43912
 longitude: -0.21567
 postcode: "49250"
 city: Beaufort-en-Anjou
-street: "Rue de la Maladrerie"
-housenumber: 24
+street: Rue de la Maladrerie
+housenumber: "24"
 phone: ""
 opening_hours: ""
 website: ""

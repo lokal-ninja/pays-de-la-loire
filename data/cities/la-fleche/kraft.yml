@@ -1,11 +1,11 @@
 id: 135020416
-type: way
+type: node
 latitude: 47.69946
 longitude: -0.07286
 postcode: "72200"
 city: La Flèche
-street: "Grande Rue"
-housenumber: 50
-phone: "+33 2 43 45 64 00"
-opening_hours: "Mo-Sa 10:00-12:00,14:00-19:00"
+street: Grande Rue
+housenumber: "50"
+phone: +33 2 43 45 64 00
+opening_hours: Mo-Sa 10:00-12:00,14:00-19:00
 website: ""

@@ -4,8 +4,8 @@ latitude: 47.25911
 longitude: -1.52258
 postcode: "44300"
 city: Nantes
-street: "Boulevard de la Beaujoire"
-housenumber: 56
+street: Boulevard de la Beaujoire
+housenumber: "56"
 phone: ""
-opening_hours: "Mo-Fr 09:15-12:30, 14:15-19:00; Sa 09:30-12:30, 14:00-18:00"
-website: "www.ordicity.com"
+opening_hours: Mo-Fr 09:15-12:30, 14:15-19:00; Sa 09:30-12:30, 14:00-18:00
+website: www.ordicity.com

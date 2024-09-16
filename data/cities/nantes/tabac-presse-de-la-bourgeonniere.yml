@@ -4,8 +4,8 @@ latitude: 47.25348
 longitude: -1.55962
 postcode: "44300"
 city: Nantes
-street: "Rue de la Bourgeonnière"
-housenumber: 92
-phone: "+33 2 51 83 03 03"
-opening_hours: "Mo-Fr 06:45-19:30; Sa 08:00-19:30"
-website: "http://www.magpresse.com/adherents/details/49ffffe4-0f28-43a5-9f8a-01ec12b4eb83"
+street: Rue de la Bourgeonnière
+housenumber: "92"
+phone: +33 2 51 83 03 03
+opening_hours: Mo-Fr 06:45-19:30; Sa 08:00-19:30
+website: http://www.magpresse.com/adherents/details/49ffffe4-0f28-43a5-9f8a-01ec12b4eb83

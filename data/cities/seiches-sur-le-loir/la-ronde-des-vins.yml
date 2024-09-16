@@ -5,7 +5,8 @@ longitude: -0.34795
 postcode: "49140"
 city: Seiches-sur-le-loir
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo 14:30-19:00; Tu-Th 10:30-12:30; Tu-Sa 14:30-19:00; Fr,Sa 09:00-12:30; Su,PH 10:00-12:30"
+opening_hours: Mo 14:30-19:00; Tu-Th 10:30-12:30; Tu-Sa 14:30-19:00; Fr,Sa 09:00-12:30;
+    Su,PH 10:00-12:30
 website: ""

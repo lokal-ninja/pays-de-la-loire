@@ -1,11 +1,11 @@
 id: 109857997
-type: way
+type: node
 latitude: 46.54053
 longitude: -1.19062
 postcode: "85320"
 city: Mareuil-sur-Lay-Dissais
-street: "La Chauvelière – Bessay"
-housenumber: 1
-phone: "+33 2 51 30 53 76"
-opening_hours: "Mo-Su 09:00-19:00"
+street: La Chauvelière – Bessay
+housenumber: "1"
+phone: +33 2 51 30 53 76
+opening_hours: Mo-Su 09:00-19:00
 website: ""

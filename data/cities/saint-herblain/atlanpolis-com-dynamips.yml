@@ -4,8 +4,8 @@ latitude: 47.25196
 longitude: -1.62368
 postcode: "44800"
 city: Saint-Herblain
-street: "Route de Vannes"
-housenumber: 373
+street: Route de Vannes
+housenumber: "373"
 phone: ""
 opening_hours: ""
-website: "http://www.atlanpolis.com"
+website: http://www.atlanpolis.com

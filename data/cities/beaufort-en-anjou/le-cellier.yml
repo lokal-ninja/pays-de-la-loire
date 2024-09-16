@@ -1,11 +1,11 @@
 id: 241144079
-type: way
+type: node
 latitude: 47.44351
 longitude: -0.24508
 postcode: "49250"
 city: Beaufort-en-Anjou
-street: "Route d'Angers"
-housenumber: 16
+street: Route d'Angers
+housenumber: "16"
 phone: "+33241572061"
 opening_hours: ""
 website: ""

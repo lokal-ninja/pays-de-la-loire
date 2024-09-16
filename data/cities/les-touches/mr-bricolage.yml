@@ -1,11 +1,11 @@
 id: 224217634
-type: way
+type: node
 latitude: 47.44193
 longitude: -1.47805
 postcode: "44390"
 city: Les Touches
-street: "Rue de l'Amérique"
-housenumber: 
+street: Rue de l'Amérique
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 09:00-12:30, 14:00-19:00, Sa 09:00-19:00"
+opening_hours: Mo-Fr 09:00-12:30, 14:00-19:00, Sa 09:00-19:00
 website: ""

@@ -1,11 +1,11 @@
 id: 124784693
-type: way
+type: node
 latitude: 48.43469
 longitude: 0.11203
 postcode: "61000"
 city: Alençon
-street: "Rue Ernest Marchand Saillant"
-housenumber: 34
+street: Rue Ernest Marchand Saillant
+housenumber: "34"
 phone: ""
-opening_hours: "Mo-Su 07:00-20:00; Tu off; We off; "
+opening_hours: 'Mo-Su 07:00-20:00; Tu off; We off; '
 website: ""

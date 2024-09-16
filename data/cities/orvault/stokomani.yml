@@ -1,11 +1,11 @@
 id: 771418279
-type: way
+type: node
 latitude: 47.25565
 longitude: -1.6304
 postcode: "44700"
 city: Orvault
-street: "Route de Vannes"
-housenumber: 362
+street: Route de Vannes
+housenumber: "362"
 phone: ""
-opening_hours: "Mo-Su 10:00-19:00"
+opening_hours: Mo-Su 10:00-19:00
 website: ""

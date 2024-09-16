@@ -1,11 +1,11 @@
 id: 126972808
-type: way
+type: node
 latitude: 47.44975
 longitude: -0.55588
 postcode: "49000"
 city: Angers
-street: "Boulevard Eugène Chaumin"
-housenumber: 
+street: Boulevard Eugène Chaumin
+housenumber: ""
 phone: ""
-opening_hours: "09:00-19:00; Su,PH off"
+opening_hours: 09:00-19:00; Su,PH off
 website: ""

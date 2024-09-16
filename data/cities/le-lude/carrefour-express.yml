@@ -1,11 +1,11 @@
 id: 271208366
-type: way
+type: node
 latitude: 47.64341
 longitude: 0.15723
 postcode: "72800"
 city: Le Lude
-street: "Place du Champ de Foire"
-housenumber: 3
-phone: "+33 2 43 45 19 81"
-opening_hours: "Mo-Sa 08:00-20:00; Su 09:00-13:00,16:00-19:00"
-website: "https://www.carrefour.fr/magasin/express-le-lude"
+street: Place du Champ de Foire
+housenumber: "3"
+phone: +33 2 43 45 19 81
+opening_hours: Mo-Sa 08:00-20:00; Su 09:00-13:00,16:00-19:00
+website: https://www.carrefour.fr/magasin/express-le-lude

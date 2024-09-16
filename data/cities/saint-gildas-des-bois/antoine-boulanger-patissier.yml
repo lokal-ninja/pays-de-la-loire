@@ -4,8 +4,8 @@ latitude: 47.51773
 longitude: -2.03772
 postcode: "44530"
 city: Saint-Gildas-des-Bois
-street: "Rue du Docteur Praux"
-housenumber: 3
-phone: "+33 2 40 01 47 22"
-opening_hours: "Mo-Fr 07:30-19:30, 09:00-18:00; Sa 07:00-13:30, 15:00-19:00; Su 07:30-13:00"
+street: Rue du Docteur Praux
+housenumber: "3"
+phone: +33 2 40 01 47 22
+opening_hours: Mo-Fr 07:30-19:30, 09:00-18:00; Sa 07:00-13:30, 15:00-19:00; Su 07:30-13:00
 website: ""

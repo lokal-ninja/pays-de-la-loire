@@ -4,8 +4,8 @@ latitude: 47.84081
 longitude: -0.3365
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Rue Gambetta"
-housenumber: 6
-phone: "+33 2 43 95 01 35"
-opening_hours: "Tu-We 09:00-18:00; Th 09:00-18:30; Fr 09:00-19:00; Sa 08:00-18:00"
-website: "https://www.19-eme-art.fr/accueil"
+street: Rue Gambetta
+housenumber: "6"
+phone: +33 2 43 95 01 35
+opening_hours: Tu-We 09:00-18:00; Th 09:00-18:30; Fr 09:00-19:00; Sa 08:00-18:00
+website: https://www.19-eme-art.fr/accueil

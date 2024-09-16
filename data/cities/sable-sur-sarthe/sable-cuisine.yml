@@ -4,8 +4,8 @@ latitude: 47.83741
 longitude: -0.30446
 postcode: "72300"
 city: Sablé-sur-Sarthe
-street: "Rue de l'Ardoisière"
-housenumber: 4
-phone: "+33 2 43 55 12 33"
-opening_hours: "Mo 14:30-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00"
-website: "https://www.sable-cuisine.fr/"
+street: Rue de l'Ardoisière
+housenumber: "4"
+phone: +33 2 43 55 12 33
+opening_hours: Mo 14:30-19:00; Tu-Fr 09:30-12:00,14:00-19:00; Sa 09:00-12:00,14:00-17:00
+website: https://www.sable-cuisine.fr/

@@ -1,11 +1,11 @@
 id: 96276129
-type: way
+type: node
 latitude: 47.1995
 longitude: -1.42897
 postcode: "44115"
 city: Haute-Goulaine
-street: "Place de l'Église"
-housenumber: 19
-phone: "+33 2 40 54 92 76"
-opening_hours: "Mo-Sa 08:00-20:00"
+street: Place de l'Église
+housenumber: "19"
+phone: +33 2 40 54 92 76
+opening_hours: Mo-Sa 08:00-20:00
 website: ""

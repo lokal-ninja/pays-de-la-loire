@@ -5,7 +5,7 @@ longitude: -1.42719
 postcode: "85000"
 city: La Roche-sur-Yon
 street: ""
-housenumber: 15
-phone: "+33 2 51 62 64 82"
-opening_hours: "Tu-Sa 10:00-12:00,14:00-19:00; PH off"
-website: "http://www.e85.fr/"
+housenumber: "15"
+phone: +33 2 51 62 64 82
+opening_hours: Tu-Sa 10:00-12:00,14:00-19:00; PH off
+website: http://www.e85.fr/

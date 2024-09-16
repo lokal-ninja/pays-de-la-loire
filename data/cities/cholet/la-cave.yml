@@ -4,8 +4,8 @@ latitude: 47.04573
 longitude: -0.87593
 postcode: "49300"
 city: Cholet
-street: "Rue Roger Hostein"
-housenumber: 4
-phone: "+33 2 41 58 32 32"
-opening_hours: "Tu-Sa 09:30-12:30,14:30-19:15"
-website: "https://www.lacavecholet.fr/"
+street: Rue Roger Hostein
+housenumber: "4"
+phone: +33 2 41 58 32 32
+opening_hours: Tu-Sa 09:30-12:30,14:30-19:15
+website: https://www.lacavecholet.fr/

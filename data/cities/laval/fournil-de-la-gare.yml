@@ -4,8 +4,8 @@ latitude: 48.07586
 longitude: -0.75985
 postcode: "53000"
 city: Laval
-street: "Place des 7 et 15 juin 1944"
-housenumber: 11
-phone: "+33 2 43 67 11 33"
-opening_hours: "Mo-Fr 06:00-19:30"
+street: Place des 7 et 15 juin 1944
+housenumber: "11"
+phone: +33 2 43 67 11 33
+opening_hours: Mo-Fr 06:00-19:30
 website: ""

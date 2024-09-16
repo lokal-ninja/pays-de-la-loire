@@ -4,8 +4,8 @@ latitude: 47.26245
 longitude: -1.67229
 postcode: "44880"
 city: Sautron
-street: "Rue de l'Église"
-housenumber: 2
+street: Rue de l'Église
+housenumber: "2"
 phone: ""
 opening_hours: ""
-website: "https://www.emma-patisserie.fr/"
+website: https://www.emma-patisserie.fr/

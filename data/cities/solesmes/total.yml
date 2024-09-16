@@ -1,11 +1,11 @@
 id: 293393345
-type: way
+type: node
 latitude: 47.83403
 longitude: -0.299
 postcode: "72300"
 city: Solesmes
-street: "Avenue Jean Monnet"
-housenumber: 
+street: Avenue Jean Monnet
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

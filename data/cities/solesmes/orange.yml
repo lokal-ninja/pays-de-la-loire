@@ -5,7 +5,7 @@ longitude: -0.30023
 postcode: "72300"
 city: Solesmes
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-19:00"
-website: "https://agence.orange.fr/1001-boutique-orange-gdt-solesmes"
+opening_hours: Mo-Sa 09:30-19:00
+website: https://agence.orange.fr/1001-boutique-orange-gdt-solesmes

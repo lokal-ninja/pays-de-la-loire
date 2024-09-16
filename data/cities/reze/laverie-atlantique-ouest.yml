@@ -4,8 +4,8 @@ latitude: 47.18896
 longitude: -1.5472
 postcode: "44400"
 city: Rezé
-street: "Rue Jean Jaurès"
-housenumber: 31
+street: Rue Jean Jaurès
+housenumber: "31"
 phone: ""
-opening_hours: "07:00-20:30 winter; 07:00-22:00 summer"
+opening_hours: 07:00-20:30 "winter"; 07:00-22:00 "summer"
 website: ""

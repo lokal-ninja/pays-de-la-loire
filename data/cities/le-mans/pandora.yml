@@ -4,8 +4,8 @@ latitude: 48.00477
 longitude: 0.19745
 postcode: "72000"
 city: Le Mans
-street: "Rue de Bolton"
-housenumber: 23
-phone: "+33 2 43 28 41 34"
-opening_hours: "Mo 14:00-19:00; Tu-Sa 10:00-19:00"
-website: "https://fr.pandora.net"
+street: Rue de Bolton
+housenumber: "23"
+phone: +33 2 43 28 41 34
+opening_hours: Mo 14:00-19:00; Tu-Sa 10:00-19:00
+website: https://fr.pandora.net

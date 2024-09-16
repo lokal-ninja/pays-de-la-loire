@@ -4,8 +4,8 @@ latitude: 48.06883
 longitude: -0.77282
 postcode: "53000"
 city: Laval
-street: "Place de la Trémoille"
-housenumber: 10
-phone: "+33 2 43 53 19 94"
-opening_hours: "Tu-Sa 06:45-19:00; Su 07:15-13:00"
-website: "https://lamaisondupain53.fr/"
+street: Place de la Trémoille
+housenumber: "10"
+phone: +33 2 43 53 19 94
+opening_hours: Tu-Sa 06:45-19:00; Su 07:15-13:00
+website: https://lamaisondupain53.fr/

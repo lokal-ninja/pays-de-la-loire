@@ -1,11 +1,11 @@
 id: 87578362
-type: way
+type: node
 latitude: 46.79707
 longitude: -2.05099
 postcode: "85160"
 city: Saint-Jean-de-Monts
-street: "ZAC de la Rivière"
-housenumber: 
+street: ZAC de la Rivière
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Fr 08:30-19:30; Su 09:00-12:00"
+opening_hours: Mo-Fr 08:30-19:30; Su 09:00-12:00
 website: ""

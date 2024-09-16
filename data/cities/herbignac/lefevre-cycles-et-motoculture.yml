@@ -1,11 +1,11 @@
 id: 145765085
-type: way
+type: node
 latitude: 47.44271
 longitude: -2.328
 postcode: "44410"
 city: Herbignac
-street: "Avenue des Sports"
-housenumber: 67
-phone: "+33 2 40 88 85 36"
+street: Avenue des Sports
+housenumber: "67"
+phone: +33 2 40 88 85 36
 opening_hours: ""
-website: "https://www.lefevre-motoculture-herbignac.fr/"
+website: https://www.lefevre-motoculture-herbignac.fr/

@@ -1,11 +1,11 @@
 id: 331696667
-type: way
+type: node
 latitude: 48.12885
 longitude: -0.01203
 postcode: "72240"
 city: Conlie
-street: "Route de Mézières"
-housenumber: 5
+street: Route de Mézières
+housenumber: "5"
 phone: "+33977344939"
 opening_hours: ""
 website: ""

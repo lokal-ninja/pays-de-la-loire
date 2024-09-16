@@ -4,8 +4,8 @@ latitude: 48.0721
 longitude: -0.79643
 postcode: "53000"
 city: Laval
-street: "Allée de la Chartrie"
-housenumber: 32
-phone: "+33 9 70 82 08 21"
-opening_hours: "Mo-Fr 09:30-12:30,14:00-19:30; Sa 09:00-19:30; Su 09:30-19:30"
+street: Allée de la Chartrie
+housenumber: "32"
+phone: +33 9 70 82 08 21
+opening_hours: Mo-Fr 09:30-12:30,14:00-19:30; Sa 09:00-19:30; Su 09:30-19:30
 website: ""

@@ -1,11 +1,11 @@
 id: 84120670
-type: way
+type: node
 latitude: 48.06313
 longitude: -0.81065
 postcode: "53940"
 city: Saint-Berthevin
-street: "Boulevard Louis Armand"
-housenumber: 62
+street: Boulevard Louis Armand
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

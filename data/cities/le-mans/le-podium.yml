@@ -1,11 +1,11 @@
 id: 65130938
-type: way
+type: node
 latitude: 47.97394
 longitude: 0.21137
 postcode: "72100"
 city: Le Mans
-street: "Rue de Laigné"
-housenumber: 221
+street: Rue de Laigné
+housenumber: "221"
 phone: ""
 opening_hours: ""
 website: ""

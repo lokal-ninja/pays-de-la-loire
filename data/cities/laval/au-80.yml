@@ -4,8 +4,8 @@ latitude: 48.0806
 longitude: -0.77667
 postcode: "53000"
 city: Laval
-street: "Rue d'Hilard"
-housenumber: 80
-phone: "+33 2 43 66 06 74"
-opening_hours: "Mo-Fr 07:30-19:30; Sa 09:00-16:00; Su 10:00-13:00"
+street: Rue d'Hilard
+housenumber: "80"
+phone: +33 2 43 66 06 74
+opening_hours: Mo-Fr 07:30-19:30; Sa 09:00-16:00; Su 10:00-13:00
 website: ""

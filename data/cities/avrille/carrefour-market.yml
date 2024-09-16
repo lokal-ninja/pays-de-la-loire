@@ -1,11 +1,11 @@
 id: 73526781
-type: way
+type: node
 latitude: 47.50394
 longitude: -0.58537
 postcode: "49240"
 city: Avrillé
 street: ""
 housenumber: 30ter
-phone: "+33 2 41 18 86 86"
-opening_hours: "Mo-Sa 09:00-20:00"
-website: "https://www.carrefour.fr/magasin/market-avrille"
+phone: +33 2 41 18 86 86
+opening_hours: Mo-Sa 09:00-20:00
+website: https://www.carrefour.fr/magasin/market-avrille

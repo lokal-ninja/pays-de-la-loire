@@ -4,8 +4,8 @@ latitude: 47.25367
 longitude: -1.57594
 postcode: "44300"
 city: Nantes
-street: "Route de Rennes"
-housenumber: 78
+street: Route de Rennes
+housenumber: "78"
 phone: ""
-opening_hours: "Mo-Fr 08:30-20:00; Sa 08:30-12:15"
-website: "https://www.lidl.fr/"
+opening_hours: Mo-Fr 08:30-20:00; Sa 08:30-12:15
+website: https://www.lidl.fr/

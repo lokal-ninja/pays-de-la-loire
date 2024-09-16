@@ -1,11 +1,11 @@
 id: 135006763
-type: way
+type: node
 latitude: 47.69975
 longitude: -0.07594
 postcode: "72200"
 city: La Flèche
-street: "Rue Carnot"
-housenumber: 14
+street: Rue Carnot
+housenumber: "14"
 phone: ""
 opening_hours: ""
 website: ""

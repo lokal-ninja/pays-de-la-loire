@@ -1,11 +1,11 @@
 id: 96273201
-type: way
+type: node
 latitude: 47.19902
 longitude: -1.43049
 postcode: "44115"
 city: Haute-Goulaine
-street: "Place de l'Église"
-housenumber: 23
+street: Place de l'Église
+housenumber: "23"
 phone: ""
 opening_hours: ""
 website: ""

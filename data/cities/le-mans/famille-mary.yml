@@ -4,8 +4,8 @@ latitude: 48.00551
 longitude: 0.19904
 postcode: "72000"
 city: Le Mans
-street: "Rue de l'Étoile"
-housenumber: 7
-phone: "+33 2 43 27 28 58"
-opening_hours: "Tu-Fr 10:00-13:00,14:30-19:00; Sa 10:00-13:00,14:00-19:00"
-website: "https://www.famillemary.fr"
+street: Rue de l'Étoile
+housenumber: "7"
+phone: +33 2 43 27 28 58
+opening_hours: Tu-Fr 10:00-13:00,14:30-19:00; Sa 10:00-13:00,14:00-19:00
+website: https://www.famillemary.fr

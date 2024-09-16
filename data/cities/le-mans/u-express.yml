@@ -4,8 +4,8 @@ latitude: 48.00458
 longitude: 0.19624
 postcode: "72000"
 city: Le Mans
-street: "Place de la République"
-housenumber: 40
-phone: "+33 2 43 14 31 10"
-opening_hours: "Mo-Sa 08:30-20:30; Su 08:30-13:00"
-website: "https://www.magasins-u.com/uexpress-lemansrepublique"
+street: Place de la République
+housenumber: "40"
+phone: +33 2 43 14 31 10
+opening_hours: Mo-Sa 08:30-20:30; Su 08:30-13:00
+website: https://www.magasins-u.com/uexpress-lemansrepublique

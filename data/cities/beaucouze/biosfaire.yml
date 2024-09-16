@@ -1,11 +1,11 @@
 id: 144475978
-type: way
+type: node
 latitude: 47.46932
 longitude: -0.62537
 postcode: "49070"
 city: Beaucouzé
-street: "Rue des Ifs"
-housenumber: 8
-phone: "+33 2 49 71 02 15"
+street: Rue des Ifs
+housenumber: "8"
+phone: +33 2 49 71 02 15
 opening_hours: ""
-website: "https://www.biosfaire-materiaux.com/"
+website: https://www.biosfaire-materiaux.com/

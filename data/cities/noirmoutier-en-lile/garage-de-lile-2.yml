@@ -1,11 +1,11 @@
 id: 67872420
-type: way
+type: node
 latitude: 47.00356
 longitude: -2.2549
 postcode: ""
 city: Noirmoutier-en-l'Île
 street: ""
-housenumber: 41
+housenumber: "41"
 phone: ""
 opening_hours: ""
 website: ""

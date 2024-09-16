@@ -1,11 +1,11 @@
 id: 63573245
-type: way
+type: node
 latitude: 47.97359
 longitude: 0.14714
 postcode: "72700"
 city: Allonnes
-street: "Rue Blaise Pascal"
-housenumber: 2
+street: Rue Blaise Pascal
+housenumber: "2"
 phone: ""
-opening_hours: "Mo-Sa 09:30-12:30, 13:30-18:30"
-website: "https://www.ibureau72.com/"
+opening_hours: Mo-Sa 09:30-12:30, 13:30-18:30
+website: https://www.ibureau72.com/

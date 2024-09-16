@@ -1,11 +1,11 @@
 id: 110250577
-type: way
+type: node
 latitude: 46.88617
 longitude: -1.32087
 postcode: "85260"
 city: Les Brouzils
-street: "Rue Charles de Gaulle"
-housenumber: 6
+street: Rue Charles de Gaulle
+housenumber: "6"
 phone: ""
 opening_hours: ""
 website: ""

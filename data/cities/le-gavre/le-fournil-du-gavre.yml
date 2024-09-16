@@ -1,11 +1,11 @@
 id: 312609322
-type: way
+type: node
 latitude: 47.51938
 longitude: -1.74874
 postcode: "44130"
 city: Le Gâvre
-street: "Grande Rue"
-housenumber: 11
+street: Grande Rue
+housenumber: "11"
 phone: ""
 opening_hours: ""
 website: ""

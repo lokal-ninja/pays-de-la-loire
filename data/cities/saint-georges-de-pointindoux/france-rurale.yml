@@ -1,11 +1,11 @@
 id: 128449945
-type: way
+type: node
 latitude: 46.62613
 longitude: -1.65549
 postcode: "85150"
 city: Saint-Georges-de-Pointindoux
-street: "Rue de Nantes"
-housenumber: 62
+street: Rue de Nantes
+housenumber: "62"
 phone: ""
 opening_hours: ""
 website: ""

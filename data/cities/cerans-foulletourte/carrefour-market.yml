@@ -1,11 +1,11 @@
 id: 161800994
-type: way
+type: node
 latitude: 47.83034
 longitude: 0.07684
 postcode: "72330"
 city: Cérans-Foulletourte
-street: "Rue Nationale"
-housenumber: 62
-phone: "+33 2 43 87 80 37"
-opening_hours: "Mo-Sa 08:30-19:30; Su 09:00-12:30"
-website: "https://www.carrefour.fr/magasin/market-cerans-foulletourte"
+street: Rue Nationale
+housenumber: "62"
+phone: +33 2 43 87 80 37
+opening_hours: Mo-Sa 08:30-19:30; Su 09:00-12:30
+website: https://www.carrefour.fr/magasin/market-cerans-foulletourte

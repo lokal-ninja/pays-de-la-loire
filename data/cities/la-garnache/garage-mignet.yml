@@ -1,11 +1,11 @@
 id: 64769690
-type: way
+type: node
 latitude: 46.89075
 longitude: -1.84345
 postcode: "85710"
 city: La Garnache
-street: "Rue du Bourillet"
-housenumber: 
+street: Rue du Bourillet
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

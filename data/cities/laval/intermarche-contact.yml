@@ -4,8 +4,8 @@ latitude: 48.07122
 longitude: -0.77521
 postcode: "53000"
 city: Laval
-street: "Rue Haute Chiffolière"
-housenumber: 11
+street: Rue Haute Chiffolière
+housenumber: "11"
 phone: ""
-opening_hours: "Mo-Fr 09:15-12:30,14:30-18:00; Sa 09:15-18:00"
-website: "https://www.intermarche.com/magasins/01399/laval-53000/infos-pratiques"
+opening_hours: Mo-Fr 09:15-12:30,14:30-18:00; Sa 09:15-18:00
+website: https://www.intermarche.com/magasins/01399/laval-53000/infos-pratiques

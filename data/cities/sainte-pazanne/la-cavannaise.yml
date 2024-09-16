@@ -4,8 +4,9 @@ latitude: 47.10073
 longitude: -1.81309
 postcode: "44680"
 city: Sainte Pazanne
-street: "Rue du Ballon"
-housenumber: 9
+street: Rue du Ballon
+housenumber: "9"
 phone: ""
-opening_hours: "Fr,Sa 09:30-13:00,14:30-19:30; Tu-Th 09:30-12:30,15:00-19:00; Su,Mo off"
+opening_hours: Fr,Sa 09:30-13:00,14:30-19:30; Tu-Th 09:30-12:30,15:00-19:00; Su,Mo
+    off
 website: ""

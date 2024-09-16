@@ -4,8 +4,9 @@ latitude: 47.45982
 longitude: -0.53688
 postcode: "49000"
 city: Angers
-street: "Rue Volney"
-housenumber: 
-phone: "+33 2 41 66 30 04"
-opening_hours: "Mo 08:00-19:30; Tu-Fr 07:00-19:30; Sa 08:00-19:30; Su 08:00-13:30; PH 08:00-13:30"
+street: Rue Volney
+housenumber: ""
+phone: +33 2 41 66 30 04
+opening_hours: Mo 08:00-19:30; Tu-Fr 07:00-19:30; Sa 08:00-19:30; Su 08:00-13:30;
+    PH 08:00-13:30
 website: ""

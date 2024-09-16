@@ -4,8 +4,9 @@ latitude: 47.39089
 longitude: -1.29284
 postcode: "44521"
 city: Couffé
-street: "Place Saint-Pierre"
-housenumber: 2
-phone: "+33 2 40 96 50 89"
-opening_hours: "Mo-Tu 08:30-13:00, 15:30-19:00; Th-Sa 08:30-13:00, 15:30-19:00; Su 09:00-13:00"
+street: Place Saint-Pierre
+housenumber: "2"
+phone: +33 2 40 96 50 89
+opening_hours: Mo-Tu 08:30-13:00, 15:30-19:00; Th-Sa 08:30-13:00, 15:30-19:00; Su
+    09:00-13:00
 website: ""

@@ -1,11 +1,11 @@
 id: 502763883
-type: way
+type: node
 latitude: 47.61468
 longitude: -0.70973
 postcode: "49220"
 city: Le Lion-d'Angers
-street: "place Gustrave Trouve"
-housenumber: 2
-phone: "+33 241051717"
-opening_hours: "Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00"
+street: place Gustrave Trouve
+housenumber: "2"
+phone: +33 241051717
+opening_hours: Mo-Fr 08:00-12:00,14:00-19:00; Sa 08:00-12:00
 website: ""

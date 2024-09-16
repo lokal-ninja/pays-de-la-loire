@@ -4,8 +4,8 @@ latitude: 48.00502
 longitude: 0.19788
 postcode: "72000"
 city: Le Mans
-street: "Rue de Bolton"
-housenumber: 13
-phone: "+33 2 43 52 37 30"
-opening_hours: "Tu-Sa 10:00-13:30,14:30-19:00"
-website: "https://lafeemaraboutee.fr"
+street: Rue de Bolton
+housenumber: "13"
+phone: +33 2 43 52 37 30
+opening_hours: Tu-Sa 10:00-13:30,14:30-19:00
+website: https://lafeemaraboutee.fr

@@ -1,11 +1,11 @@
 id: 151297382
-type: way
+type: node
 latitude: 48.04902
 longitude: 0.16733
 postcode: "72650"
 city: Saint-Saturnin
-street: "Rue de L'Océane"
-housenumber: 
+street: Rue de L'Océane
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

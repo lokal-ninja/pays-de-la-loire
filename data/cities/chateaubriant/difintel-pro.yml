@@ -1,11 +1,11 @@
 id: 273808074
-type: way
+type: node
 latitude: 47.70652
 longitude: -1.39288
 postcode: "44110"
 city: Châteaubriant
-street: "Rue du Général Bradley"
-housenumber: 7
-phone: "+33 2 40 28 63 05"
-opening_hours: "Mo-Fr 09:00-12:15,13:30-18:30; Sa 09:00-12:00,14:00-18:00"
-website: "https://www.difintel-informatique-chateaubriant.fr/logiciel-informatique"
+street: Rue du Général Bradley
+housenumber: "7"
+phone: +33 2 40 28 63 05
+opening_hours: Mo-Fr 09:00-12:15,13:30-18:30; Sa 09:00-12:00,14:00-18:00
+website: https://www.difintel-informatique-chateaubriant.fr/logiciel-informatique

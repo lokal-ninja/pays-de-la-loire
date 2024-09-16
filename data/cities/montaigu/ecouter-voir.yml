@@ -1,11 +1,11 @@
 id: 76082189
-type: way
+type: node
 latitude: 46.97812
 longitude: -1.3144
 postcode: "85600"
 city: Montaigu
-street: "Place du Champ de Foire"
-housenumber: 
+street: Place du Champ de Foire
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

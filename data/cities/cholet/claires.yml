@@ -4,8 +4,8 @@ latitude: 47.06236
 longitude: -0.8792
 postcode: "49300"
 city: Cholet
-street: "Rue Nationale"
-housenumber: 112
-phone: "+33 2 41 63 97 02"
-opening_hours: "Mo-Sa 10:00-19:00"
+street: Rue Nationale
+housenumber: "112"
+phone: +33 2 41 63 97 02
+opening_hours: Mo-Sa 10:00-19:00
 website: ""

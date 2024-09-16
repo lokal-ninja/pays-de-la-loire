@@ -1,11 +1,11 @@
 id: 170372346
-type: way
+type: node
 latitude: 46.49435
 longitude: -1.7495
 postcode: "85180"
 city: Château-d'Olonne
 street: ""
-housenumber: 65
+housenumber: "65"
 phone: ""
-opening_hours: "Mo-Sa 07:00-12:30,14:00-19:00"
+opening_hours: Mo-Sa 07:00-12:30,14:00-19:00
 website: ""

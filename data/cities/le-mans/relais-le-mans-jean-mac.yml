@@ -1,11 +1,11 @@
 id: 65120681
-type: way
+type: node
 latitude: 47.98015
 longitude: 0.22038
 postcode: "72000"
 city: Le Mans
 street: ""
-housenumber: 
+housenumber: ""
 phone: ""
-opening_hours: "24/7"
+opening_hours: 24/7
 website: ""

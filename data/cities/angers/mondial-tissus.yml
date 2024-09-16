@@ -4,8 +4,8 @@ latitude: 47.48508
 longitude: -0.5462
 postcode: "49100"
 city: Angers
-street: "Rue Richard Lenoir"
-housenumber: 4
-phone: "+33 1 70 18 16 00"
-opening_hours: "Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-19:00"
-website: "https://magasins.mondialtissus.fr/tissu-mercerie/angers/M018"
+street: Rue Richard Lenoir
+housenumber: "4"
+phone: +33 1 70 18 16 00
+opening_hours: Tu-Fr 10:00-13:00,14:00-19:00; Sa 10:00-19:00
+website: https://magasins.mondialtissus.fr/tissu-mercerie/angers/M018

@@ -4,8 +4,8 @@ latitude: 47.26156
 longitude: -1.66867
 postcode: "44880"
 city: Sautron
-street: "Rue de Bretagne"
-housenumber: 17
-phone: "+33 2 28 27 06 65"
-opening_hours: "Mo-Sa 07:30-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-sautron"
+street: Rue de Bretagne
+housenumber: "17"
+phone: +33 2 28 27 06 65
+opening_hours: Mo-Sa 07:30-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-sautron

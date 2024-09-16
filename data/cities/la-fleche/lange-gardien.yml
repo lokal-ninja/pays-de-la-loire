@@ -1,11 +1,11 @@
 id: 135017938
-type: way
+type: node
 latitude: 47.69979
 longitude: -0.07319
 postcode: "72200"
 city: La Flèche
-street: "Rue de la Halle au Blé"
-housenumber: 4
+street: Rue de la Halle au Blé
+housenumber: "4"
 phone: ""
-opening_hours: "closed"
-website: "https://ceciliaandrephotographie.org/"
+opening_hours: closed
+website: https://ceciliaandrephotographie.org/

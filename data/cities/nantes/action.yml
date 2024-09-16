@@ -4,8 +4,8 @@ latitude: 47.25865
 longitude: -1.50157
 postcode: "44300"
 city: Nantes
-street: "Rue du Marché Commun"
-housenumber: 19
+street: Rue du Marché Commun
+housenumber: "19"
 phone: ""
-opening_hours: "Mo-Sa 08:30-20:00"
-website: "https://www.action.com/fr-fr/points-de-vente/nantes-carquefou-rue-du-marche-commun-19/"
+opening_hours: Mo-Sa 08:30-20:00
+website: https://www.action.com/fr-fr/points-de-vente/nantes-carquefou-rue-du-marche-commun-19/

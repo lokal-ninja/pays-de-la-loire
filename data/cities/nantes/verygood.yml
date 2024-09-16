@@ -4,8 +4,8 @@ latitude: 47.20508
 longitude: -1.55791
 postcode: "44200"
 city: Nantes
-street: "Boulevard de la Prairie au Duc"
-housenumber: 28
+street: Boulevard de la Prairie au Duc
+housenumber: "28"
 phone: ""
-opening_hours: "Tu-Sa 10:00-13:00, Mo-Sa 15:00-19:30"
-website: "https://www.verygood.fr/"
+opening_hours: Tu-Sa 10:00-13:00, Mo-Sa 15:00-19:30
+website: https://www.verygood.fr/

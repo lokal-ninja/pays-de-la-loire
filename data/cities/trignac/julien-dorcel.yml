@@ -1,11 +1,11 @@
 id: 1150822519
-type: way
+type: node
 latitude: 47.30273
 longitude: -2.20951
 postcode: "44570"
 city: Trignac
-street: "Rue de la fontaine au brun"
-housenumber: 
+street: Rue de la fontaine au brun
+housenumber: ""
 phone: ""
-opening_hours: "Mo-Sa 09:30-20:30"
-website: "https://www.juliendorcel.com/bijouterie/trignac-1239M"
+opening_hours: Mo-Sa 09:30-20:30
+website: https://www.juliendorcel.com/bijouterie/trignac-1239M

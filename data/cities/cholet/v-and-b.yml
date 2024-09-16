@@ -4,8 +4,8 @@ latitude: 47.0684
 longitude: -0.85174
 postcode: "49300"
 city: Cholet
-street: "Boulevard du Poitou"
-housenumber: 4
-phone: "+33 2 41 65 53 69"
-opening_hours: "Mo 14:30-20:00; Tu,We 10:00-20:00; Th-Sa 10:00-20:30"
-website: "https://vandb.fr/V-and-B-Cholet.html"
+street: Boulevard du Poitou
+housenumber: "4"
+phone: +33 2 41 65 53 69
+opening_hours: Mo 14:30-20:00; Tu,We 10:00-20:00; Th-Sa 10:00-20:30
+website: https://vandb.fr/V-and-B-Cholet.html

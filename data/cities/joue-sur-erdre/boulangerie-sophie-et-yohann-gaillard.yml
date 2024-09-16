@@ -4,8 +4,9 @@ latitude: 47.4957
 longitude: -1.42117
 postcode: "44440"
 city: Joué-sur-Erdre
-street: "Rue de la Ribaudière"
-housenumber: 23
-phone: "+33 2 28 24 58 58"
-opening_hours: "Tu-Fr 06:30-13:30,15:30-19:30;Sa 07:00-13:30,15:30-19:30;Su 07:00-13:00;PH 07:00-13:00"
+street: Rue de la Ribaudière
+housenumber: "23"
+phone: +33 2 28 24 58 58
+opening_hours: Tu-Fr 06:30-13:30,15:30-19:30;Sa 07:00-13:30,15:30-19:30;Su 07:00-13:00;PH
+    07:00-13:00
 website: ""

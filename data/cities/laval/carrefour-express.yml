@@ -4,8 +4,8 @@ latitude: 48.07237
 longitude: -0.77358
 postcode: "53000"
 city: Laval
-street: "Allée du Vieux Saint-Louis"
-housenumber: 23
-phone: "+33 2 43 56 64 75"
-opening_hours: "Mo-Sa 07:00-21:00; Su 09:00-13:00"
-website: "https://www.carrefour.fr/magasin/express-laval-saint-louis"
+street: Allée du Vieux Saint-Louis
+housenumber: "23"
+phone: +33 2 43 56 64 75
+opening_hours: Mo-Sa 07:00-21:00; Su 09:00-13:00
+website: https://www.carrefour.fr/magasin/express-laval-saint-louis

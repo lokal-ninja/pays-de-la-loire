@@ -1,11 +1,11 @@
 id: 66203439
-type: way
+type: node
 latitude: 48.0057
 longitude: 0.2175
 postcode: "72000"
 city: Le Mans
-street: "Boulevard Mutuel"
-housenumber: 70
+street: Boulevard Mutuel
+housenumber: "70"
 phone: ""
 opening_hours: ""
 website: ""

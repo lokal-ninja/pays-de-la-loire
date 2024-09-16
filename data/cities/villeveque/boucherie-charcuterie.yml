@@ -1,11 +1,11 @@
 id: 239688347
-type: way
+type: node
 latitude: 47.55957
 longitude: -0.42242
 postcode: "49140"
 city: Villevêque
-street: "Rue des Écoles"
-housenumber: 2
+street: Rue des Écoles
+housenumber: "2"
 phone: ""
-opening_hours: "Tu-Sa 08:00-13:00,15:30-19:00"
+opening_hours: Tu-Sa 08:00-13:00,15:30-19:00
 website: ""

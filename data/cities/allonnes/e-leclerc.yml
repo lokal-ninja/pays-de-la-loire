@@ -1,11 +1,11 @@
 id: 63575522
-type: way
+type: node
 latitude: 47.9738
 longitude: 0.15735
 postcode: "72700"
 city: Allonnes
 street: ""
-housenumber: 
-phone: "+33 2 43 39 40 41"
-opening_hours: "Mo-Sa 08:30-20:30"
-website: "https://www.e.leclerc/mag/e-leclerc-allonnes"
+housenumber: ""
+phone: +33 2 43 39 40 41
+opening_hours: Mo-Sa 08:30-20:30
+website: https://www.e.leclerc/mag/e-leclerc-allonnes

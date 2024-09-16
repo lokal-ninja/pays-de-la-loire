@@ -4,8 +4,8 @@ latitude: 47.98528
 longitude: 0.18272
 postcode: "72000"
 city: Le Mans
-street: "Boulevard Estienne d'Orves"
-housenumber: 24
+street: Boulevard Estienne d'Orves
+housenumber: "24"
 phone: ""
-opening_hours: "Mo-Fr 08:30-12:00, 14:00-19:00; Sa 08:30-12:00, 14:00-18:00"
-website: "https://www.nissan-lemans.fr/"
+opening_hours: Mo-Fr 08:30-12:00, 14:00-19:00; Sa 08:30-12:00, 14:00-18:00
+website: https://www.nissan-lemans.fr/

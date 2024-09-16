@@ -1,11 +1,11 @@
 id: 63764327
-type: way
+type: node
 latitude: 47.25918
 longitude: -1.65571
 postcode: "44880"
 city: Sautron
-street: "Rue de Nantes"
-housenumber: 
+street: Rue de Nantes
+housenumber: ""
 phone: ""
 opening_hours: ""
 website: ""

@@ -1,11 +1,11 @@
 id: 75272525
-type: way
+type: node
 latitude: 47.14378
 longitude: -1.41692
 postcode: "44690"
 city: Saint-Fiacre-sur-Maine
-street: "Place de l'Église"
-housenumber: 4
+street: Place de l'Église
+housenumber: "4"
 phone: ""
 opening_hours: ""
-website: "https://influ-frip.fr/"
+website: https://influ-frip.fr/
