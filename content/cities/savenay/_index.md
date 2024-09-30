@@ -1,6 +1,6 @@
 ---
 title: Savenay
 url: /savenay/
-latitude: 47.35
-longitude: -1.923
+latitude: 47.344
+longitude: -1.949
 ---
