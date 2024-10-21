@@ -7,5 +7,6 @@ city: Le Mans
 street: Rue de Bolton
 housenumber: ""
 phone: ""
-opening_hours: ""
+opening_hours: Tu,Th,Fr 10:00-19:00; Mo 13:00-18:45; We 10:00-13:00,14:00-19:00; Sa
+    10:00-19:15
 website: ""
