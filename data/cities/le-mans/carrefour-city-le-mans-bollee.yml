@@ -2,7 +2,7 @@ id: 66200850
 type: node
 latitude: 48.00134
 longitude: 0.21084
-postcode: 72000;72100
+postcode: "72000"
 city: Le Mans
 street: Avenue Léon Bollée
 housenumber: "101"

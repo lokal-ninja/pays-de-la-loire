@@ -2,7 +2,7 @@ id: 65558998
 type: node
 latitude: 47.99525
 longitude: 0.17774
-postcode: 72000;72100
+postcode: "72000"
 city: Le Mans
 street: Avenue Olivier Heuzé
 housenumber: "117"
