@@ -7,5 +7,5 @@ city: Loire-Authion
 street: Rue Bourgalin
 housenumber: "3"
 phone: +33 2 41 97 55 19
-opening_hours: ""
+opening_hours: Mo,Tu,Th,Fr 07:00-13:30,15:30-19:30; Sa,Su 07:00-13:00; We off
 website: ""
