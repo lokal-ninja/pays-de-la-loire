@@ -1,6 +1,6 @@
 ---
 title: Beaulieu-sur-Layon
 url: /beaulieu-sur-layon/
-latitude: 47.318
+latitude: 47.319
 longitude: -0.602
 ---
