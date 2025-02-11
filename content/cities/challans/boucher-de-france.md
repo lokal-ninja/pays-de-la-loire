@@ -1,5 +1,0 @@
----
-title: "Boucher de France"
-url: /challans/boucher-de-france/
-shop: boucherie
----
