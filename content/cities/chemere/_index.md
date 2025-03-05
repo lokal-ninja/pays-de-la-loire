@@ -2,5 +2,5 @@
 title: Chéméré
 url: /chemere/
 latitude: 47.126
-longitude: -1.91
+longitude: -1.911
 ---
