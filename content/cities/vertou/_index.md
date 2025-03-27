@@ -1,6 +1,6 @@
 ---
 title: Vertou
 url: /vertou/
-latitude: 47.188
-longitude: -1.492
+latitude: 47.187
+longitude: -1.474
 ---
