@@ -1,6 +1,6 @@
 ---
 title: Sèvremont
 url: /sevremont/
-latitude: 46.829
-longitude: -0.885
+latitude: 46.832
+longitude: -0.865
 ---
