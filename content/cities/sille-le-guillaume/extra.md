@@ -1,5 +1,5 @@
 ---
-title: "extra"
+title: "Extra"
 url: /sille-le-guillaume/extra/
-shop: appareil ménager
+shop: électronique
 ---

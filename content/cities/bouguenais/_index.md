@@ -1,6 +1,6 @@
 ---
-title: Bouguenais
+title: BOUGUENAIS
 url: /bouguenais/
-latitude: 47.169
-longitude: -1.598
+latitude: 47.179
+longitude: -1.623
 ---

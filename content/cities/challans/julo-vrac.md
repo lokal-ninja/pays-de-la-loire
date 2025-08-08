@@ -1,5 +1,5 @@
 ---
 title: "Jul'O Vrac"
 url: /challans/julo-vrac/
-shop: commodité
+shop: vacant
 ---

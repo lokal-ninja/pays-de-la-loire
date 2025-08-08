@@ -7,5 +7,6 @@ city: Le Croisic
 street: Rue Saint-Christophe
 housenumber: "2"
 phone: ""
-opening_hours: ""
+opening_hours: Tu-Su 10:30-13:00,14:30-18:30; SH 10:30-13:00,14:30-18:30; Jul,Aug,Sep
+    10:30-13:00,14:30-19:00; Jan off
 website: ""

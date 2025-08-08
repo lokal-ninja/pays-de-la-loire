@@ -1,5 +1,5 @@
 ---
 title: "Carrefour City"
 url: /le-mans/carrefour-city-rue-des-maraichers/
-shop: supermarché
+shop: commodité
 ---
