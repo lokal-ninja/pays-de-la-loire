@@ -1,6 +1,6 @@
 ---
 title: Verrières-en-Anjou
 url: /verrieres-en-anjou/
-latitude: 47.497
-longitude: -0.489
+latitude: 47.514
+longitude: -0.473
 ---

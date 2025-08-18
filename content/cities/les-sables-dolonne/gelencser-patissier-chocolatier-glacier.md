@@ -1,5 +1,5 @@
 ---
-title: "Gelencser Patissier Chocolatier Glacier"
+title: "Gelencser Pâtissier Chocolatier Glacier"
 url: /les-sables-dolonne/gelencser-patissier-chocolatier-glacier/
 shop: chocolat
 ---
