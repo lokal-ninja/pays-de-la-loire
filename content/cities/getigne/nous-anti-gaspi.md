@@ -1,5 +1,5 @@
 ---
-title: "Nous Anti-Gaspi"
+title: "NOUS anti-gaspi"
 url: /getigne/nous-anti-gaspi/
-shop: commodité
+shop: vacant
 ---
