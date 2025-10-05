@@ -1,6 +1,6 @@
 ---
 title: Mont-Saint-Jean
 url: /mont-saint-jean/
-latitude: 48.241
+latitude: 48.24
 longitude: -0.073
 ---
