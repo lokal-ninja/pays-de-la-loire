@@ -1,5 +1,5 @@
 ---
 title: "L'Épicier Vert"
-url: /segre/lepicier-vert/
+url: /segre-en-anjou-bleu/lepicier-vert/
 shop: commodité
 ---
