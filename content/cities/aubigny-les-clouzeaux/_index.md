@@ -1,6 +1,6 @@
 ---
 title: Aubigny-Les Clouzeaux
 url: /aubigny-les-clouzeaux/
-latitude: 46.62
-longitude: -1.445
+latitude: 46.619
+longitude: -1.444
 ---
