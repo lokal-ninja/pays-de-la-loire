@@ -1,6 +1,6 @@
 ---
 title: La Chartre-sur-le-Loir
 url: /la-chartre-sur-le-loir/
-latitude: 47.735
-longitude: 0.576
+latitude: 47.728
+longitude: 0.574
 ---
