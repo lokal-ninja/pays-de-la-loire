@@ -1,6 +1,6 @@
 ---
 title: Orvault
 url: /orvault/
-latitude: 47.255
-longitude: -1.577
+latitude: 47.253
+longitude: -1.594
 ---
