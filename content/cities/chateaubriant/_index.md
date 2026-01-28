@@ -1,6 +1,6 @@
 ---
 title: Châteaubriant
 url: /chateaubriant/
-latitude: 47.706
-longitude: -1.384
+latitude: 47.718
+longitude: -1.377
 ---
