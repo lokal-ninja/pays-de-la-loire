@@ -1,6 +1,6 @@
 ---
 title: Cheffois
 url: /cheffois/
-latitude: 46.671
-longitude: -0.792
+latitude: 46.667
+longitude: -0.79
 ---
