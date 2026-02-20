@@ -1,6 +1,6 @@
 ---
 title: Lassay-les-Châteaux
 url: /lassay-les-chateaux/
-latitude: 48.445
-longitude: -0.481
+latitude: 48.438
+longitude: -0.497
 ---
