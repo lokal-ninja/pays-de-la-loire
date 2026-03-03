@@ -1,6 +1,6 @@
 ---
 title: Crissé
 url: /crisse/
-latitude: 48.177
-longitude: -0.028
+latitude: 48.169
+longitude: -0.06
 ---

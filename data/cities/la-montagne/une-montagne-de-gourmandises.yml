@@ -1,11 +1,12 @@
 id: 3307282152
 type: node
-latitude: 47.18938
-longitude: -1.69141
+latitude: 47.18936
+longitude: -1.69135
 postcode: "44620"
 city: La Montagne
 street: Rue de la Briandière
 housenumber: "23"
 phone: +33 2 40 65 70 52
-opening_hours: Mo 06:30-20:00; We-Fr 06:30-20:00; Sa 06:30-18:00; Su 06:30-14:00
+opening_hours: Mo-Tu,Th-Fr 06:30-19:00; Sa-Su 07:30-12:30 || "Horaires variables pendant
+    les vacances, à voir sur place ou sur la page Facebook""
 website: ""
