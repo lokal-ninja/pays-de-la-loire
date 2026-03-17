@@ -1,6 +1,6 @@
 ---
 title: Arçonnay
 url: /arconnay/
-latitude: 48.396
-longitude: 0.087
+latitude: 48.41
+longitude: 0.089
 ---
