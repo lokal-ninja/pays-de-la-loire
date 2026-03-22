@@ -1,6 +1,6 @@
 ---
 title: Chantrigné
 url: /chantrigne/
-latitude: 48.4
-longitude: -0.513
+latitude: 48.415
+longitude: -0.57
 ---
