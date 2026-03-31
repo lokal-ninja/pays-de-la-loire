@@ -1,6 +1,6 @@
 ---
 title: Forcé
 url: /force/
-latitude: 48.033
-longitude: -0.703
+latitude: 48.031
+longitude: -0.707
 ---
