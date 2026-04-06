@@ -1,6 +1,6 @@
 ---
 title: Aigrefeuille-sur-Maine
 url: /aigrefeuille-sur-maine/
-latitude: 47.077
-longitude: -1.403
+latitude: 47.082
+longitude: -1.411
 ---
