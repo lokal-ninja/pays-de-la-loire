@@ -1,6 +1,6 @@
 ---
 title: Indre
 url: /indre/
-latitude: 47.199
-longitude: -1.672
+latitude: 47.2
+longitude: -1.671
 ---
