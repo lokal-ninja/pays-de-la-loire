@@ -1,6 +1,6 @@
 ---
 title: Treillières
 url: /treillieres/
-latitude: 47.276
-longitude: -1.592
+latitude: 47.338
+longitude: -1.655
 ---
