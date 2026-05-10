@@ -1,6 +1,6 @@
 ---
 title: Segré
 url: /segre/
-latitude: 47.686
-longitude: -0.866
+latitude: 47.685
+longitude: -0.87
 ---
