@@ -1,5 +1,5 @@
 ---
 title: "SilhOuest"
 url: /pornic/silhouest/
-shop: décoration intérieure
+shop: vacant
 ---
