@@ -7,6 +7,6 @@ city: NANTES
 street: Route de Saint-Joseph
 housenumber: "29"
 phone: +33 6 76 95 48 51
-opening_hours: lundi 11:00–16:00  mardi 10:00–18:00  mercredi 09:30–11:30  jeudi 10:00–19:00  vendredi
-    10:00–18:00  samedi 10:30–16:00  dimanche Fermé
+opening_hours: Mo 11:00-16:00; Tu 10:00-18:00; We 09:30-11:30; Th 10:00-19:00; Fr
+    10:00-18:00; Sa 10:30-16:00
 website: ""

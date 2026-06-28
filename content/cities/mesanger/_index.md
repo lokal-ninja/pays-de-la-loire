@@ -1,6 +1,6 @@
 ---
 title: Mésanger
 url: /mesanger/
-latitude: 47.433
-longitude: -1.231
+latitude: 47.427
+longitude: -1.229
 ---
