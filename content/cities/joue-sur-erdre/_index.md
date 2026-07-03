@@ -1,6 +1,6 @@
 ---
 title: Joué-sur-Erdre
 url: /joue-sur-erdre/
-latitude: 47.496
-longitude: -1.421
+latitude: 47.495
+longitude: -1.418
 ---
