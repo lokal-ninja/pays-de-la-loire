@@ -1,6 +1,6 @@
 ---
 title: Pouancé
 url: /pouance/
-latitude: 47.742
-longitude: -1.167
+latitude: 47.74
+longitude: -1.178
 ---

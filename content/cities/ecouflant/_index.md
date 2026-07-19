@@ -1,6 +1,6 @@
 ---
-title: Écouflant
+title: Ecouflant
 url: /ecouflant/
-latitude: 47.505
-longitude: -0.509
+latitude: 47.492
+longitude: -0.513
 ---

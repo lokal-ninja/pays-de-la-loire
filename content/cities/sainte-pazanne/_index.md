@@ -1,6 +1,6 @@
 ---
-title: Sainte-Pazanne
+title: Sainte Pazanne
 url: /sainte-pazanne/
-latitude: 47.103
-longitude: -1.811
+latitude: 47.099
+longitude: -1.816
 ---
