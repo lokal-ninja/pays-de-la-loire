@@ -1,6 +1,6 @@
 ---
 title: Gesvres
 url: /gesvres/
-latitude: 48.403
-longitude: -0.199
+latitude: 48.37
+longitude: -0.147
 ---
