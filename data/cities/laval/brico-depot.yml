@@ -7,5 +7,6 @@ city: Laval
 street: Rue de Londres
 housenumber: "11"
 phone: ""
-opening_hours: Mo-Sa 07:00-19:30
-website: http://www.bricodepot.fr
+opening_hours: Mo-Sa 07:00-19:30; 2026 Nov 01 08:00-13:00; 2026 Nov 11 08:00-19:00;
+    2026 Dec 25 off
+website: ""

@@ -1,6 +1,6 @@
 ---
 title: Saint-Pavace
 url: /saint-pavace/
-latitude: 48.025
-longitude: 0.195
+latitude: 48.034
+longitude: 0.202
 ---

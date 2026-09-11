@@ -4,8 +4,9 @@ latitude: 48.06988
 longitude: -0.77609
 postcode: "53000"
 city: Laval
-street: Carrefour aux Toiles
-housenumber: "14"
-phone: +33 9 77 89 73 95
-opening_hours: Tu-We 10:00-20:00; Th-Sa 10:00-22:00; Su 10:30-14:30
-website: https://laval.cavavin.co/
+street: Place du 11 Novembre
+housenumber: "13"
+phone: ""
+opening_hours: Tu-We 10:00-14:00,16:00-20:00; Th 10:00-14:00,16:00-20:30; Fr-Sa 10:00-22:00;
+    Su 11:00-14:00
+website: ""
