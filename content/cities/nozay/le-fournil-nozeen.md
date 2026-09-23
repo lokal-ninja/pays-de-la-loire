@@ -1,5 +1,5 @@
 ---
-title: "le fournil nozeen"
+title: "Le Fournil Nozéen"
 url: /nozay/le-fournil-nozeen/
 shop: boulangerie
 ---
