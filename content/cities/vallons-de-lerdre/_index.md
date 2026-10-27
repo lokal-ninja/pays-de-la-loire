@@ -1,6 +1,6 @@
 ---
-title: Vallons-de-l'Erdre
+title: VALLONS-DE-L'ERDRE
 url: /vallons-de-lerdre/
-latitude: 47.55
-longitude: -1.082
+latitude: 47.527
+longitude: -1.203
 ---

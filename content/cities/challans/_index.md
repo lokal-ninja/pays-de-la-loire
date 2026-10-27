@@ -1,6 +1,6 @@
 ---
 title: Challans
 url: /challans/
-latitude: 46.846
+latitude: 46.847
 longitude: -1.879
 ---

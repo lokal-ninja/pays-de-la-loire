@@ -1,6 +1,6 @@
 ---
-title: Arthon en Retz
+title: Arthon-en-Retz
 url: /arthon-en-retz/
-latitude: 47.115
-longitude: -1.949
+latitude: 47.119
+longitude: -1.952
 ---
