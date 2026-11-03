@@ -1,5 +1,5 @@
 ---
-title: "AGRIAL"
+title: "Agrial"
 url: /mayet/agrial/
-shop: centre de jardinage
+shop: agraire
 ---

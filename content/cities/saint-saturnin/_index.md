@@ -1,6 +1,6 @@
 ---
 title: Saint-Saturnin
 url: /saint-saturnin/
-latitude: 48.049
-longitude: 0.166
+latitude: 48.05
+longitude: 0.168
 ---

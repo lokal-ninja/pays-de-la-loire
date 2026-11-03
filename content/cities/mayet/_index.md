@@ -2,5 +2,5 @@
 title: Mayet
 url: /mayet/
 latitude: 47.759
-longitude: 0.267
+longitude: 0.275
 ---
